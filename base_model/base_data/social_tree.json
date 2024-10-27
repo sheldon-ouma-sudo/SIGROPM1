@@ -1,0 +1,2332 @@
+{
+    "name": "Root",
+    "api_query_child": {
+        "details": "No API query data yet"
+    },
+    "children": {
+        "Social": {
+            "name": "Social",
+            "api_query_child": {
+                "details": "No API query data yet"
+            },
+            "children": {
+                "Economic and Financial Issues": {
+                    "name": "Economic and Financial Issues",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Poverty": {
+                            "name": "Poverty",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Absolute Poverty": {
+                                    "name": "Absolute Poverty",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Relative Poverty": {
+                                    "name": "Relative Poverty",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Child Poverty": {
+                                    "name": "Child Poverty",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Poverty Alleviation Programs": {
+                                    "name": "Poverty Alleviation Programs",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Economic Inequality": {
+                            "name": "Economic Inequality",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Wealth Gap": {
+                                    "name": "Wealth Gap",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Income Disparity": {
+                                    "name": "Income Disparity",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Gender Pay Gap": {
+                                    "name": "Gender Pay Gap",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Global North vs. Global South Inequality": {
+                                    "name": "Global North vs. Global South Inequality",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Unemployment": {
+                            "name": "Unemployment",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Youth Unemployment": {
+                                    "name": "Youth Unemployment",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Long-term Unemployment": {
+                                    "name": "Long-term Unemployment",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Structural Unemployment": {
+                                    "name": "Structural Unemployment",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Job Insecurity": {
+                                    "name": "Job Insecurity",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Debt": {
+                            "name": "Debt",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "National Debt": {
+                                    "name": "National Debt",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Household Debt": {
+                                    "name": "Household Debt",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Student Loans": {
+                                    "name": "Student Loans",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Predatory Lending Practices": {
+                                    "name": "Predatory Lending Practices",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Human Rights and Equality": {
+                    "name": "Human Rights and Equality",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Gender Issues": {
+                            "name": "Gender Issues",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Gender Discrimination": {
+                                    "name": "Gender Discrimination",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Gender-Based Violence": {
+                                    "name": "Gender-Based Violence",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Feminism and Women's Rights": {
+                                    "name": "Feminism and Women's Rights",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Masculinity Issues": {
+                                    "name": "Masculinity Issues",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Racial and Ethnic Discrimination": {
+                            "name": "Racial and Ethnic Discrimination",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Racism": {
+                                    "name": "Racism",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Anti-Semitism": {
+                                    "name": "Anti-Semitism",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Anti-Immigrant Sentiment": {
+                                    "name": "Anti-Immigrant Sentiment",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Indigenous Rights": {
+                                    "name": "Indigenous Rights",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "LGBTQ+ Rights": {
+                            "name": "LGBTQ+ Rights",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Discrimination against LGBTQ+ Individuals": {
+                                    "name": "Discrimination against LGBTQ+ Individuals",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Marriage Equality": {
+                                    "name": "Marriage Equality",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Conversion Therapy Bans": {
+                                    "name": "Conversion Therapy Bans",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "LGBTQ+ Representation in Media": {
+                                    "name": "LGBTQ+ Representation in Media",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Child Rights": {
+                            "name": "Child Rights",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Child Labor": {
+                                    "name": "Child Labor",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Child Trafficking": {
+                                    "name": "Child Trafficking",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Access to Education": {
+                                    "name": "Access to Education",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Child Marriage": {
+                                    "name": "Child Marriage",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Disability Rights": {
+                            "name": "Disability Rights",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Accessibility": {
+                                    "name": "Accessibility",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Employment Discrimination": {
+                                    "name": "Employment Discrimination",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Healthcare Access": {
+                                    "name": "Healthcare Access",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Stigma and Awareness": {
+                                    "name": "Stigma and Awareness",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Health and Well-being": {
+                    "name": "Health and Well-being",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Healthcare Access": {
+                            "name": "Healthcare Access",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Universal Healthcare": {
+                                    "name": "Universal Healthcare",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Mental Health Services": {
+                                    "name": "Mental Health Services",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Maternal Healthcare": {
+                                    "name": "Maternal Healthcare",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Healthcare Inequities": {
+                                    "name": "Healthcare Inequities",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Public Health Issues": {
+                            "name": "Public Health Issues",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Infectious Diseases (e.g., HIV/AIDS, COVID-19)": {
+                                    "name": "Infectious Diseases (e.g., HIV/AIDS, COVID-19)",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Non-Communicable Diseases (e.g., Diabetes, Heart Disease)": {
+                                    "name": "Non-Communicable Diseases (e.g., Diabetes, Heart Disease)",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Vaccination Awareness": {
+                                    "name": "Vaccination Awareness",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Substance Abuse and Addiction": {
+                                    "name": "Substance Abuse and Addiction",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Mental Health": {
+                            "name": "Mental Health",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Depression and Anxiety": {
+                                    "name": "Depression and Anxiety",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Suicide Prevention": {
+                                    "name": "Suicide Prevention",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Stigma around Mental Illness": {
+                                    "name": "Stigma around Mental Illness",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Access to Counseling and Therapy": {
+                                    "name": "Access to Counseling and Therapy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Food Security and Nutrition": {
+                            "name": "Food Security and Nutrition",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Hunger and Malnutrition": {
+                                    "name": "Hunger and Malnutrition",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Access to Clean Water": {
+                                    "name": "Access to Clean Water",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Food Deserts": {
+                                    "name": "Food Deserts",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Obesity and Overnutrition": {
+                                    "name": "Obesity and Overnutrition",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Environmental and Ecological Issues": {
+                    "name": "Environmental and Ecological Issues",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Climate Change": {
+                            "name": "Climate Change",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Global Warming": {
+                                    "name": "Global Warming",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Sea Level Rise": {
+                                    "name": "Sea Level Rise",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Extreme Weather Events": {
+                                    "name": "Extreme Weather Events",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Carbon Emissions": {
+                                    "name": "Carbon Emissions",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Pollution": {
+                            "name": "Pollution",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Air Pollution": {
+                                    "name": "Air Pollution",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Water Pollution": {
+                                    "name": "Water Pollution",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Soil Contamination": {
+                                    "name": "Soil Contamination",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Plastic Waste": {
+                                    "name": "Plastic Waste",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Deforestation and Habitat Loss": {
+                            "name": "Deforestation and Habitat Loss",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Deforestation in Rainforests": {
+                                    "name": "Deforestation in Rainforests",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Urban Expansion": {
+                                    "name": "Urban Expansion",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Loss of Biodiversity": {
+                                    "name": "Loss of Biodiversity",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Wildlife Poaching": {
+                                    "name": "Wildlife Poaching",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Resource Depletion": {
+                            "name": "Resource Depletion",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Overfishing": {
+                                    "name": "Overfishing",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Water Scarcity": {
+                                    "name": "Water Scarcity",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Soil Erosion": {
+                                    "name": "Soil Erosion",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Energy Crisis": {
+                                    "name": "Energy Crisis",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Social Justice and Civil Rights": {
+                    "name": "Social Justice and Civil Rights",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Criminal Justice": {
+                            "name": "Criminal Justice",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Police Brutality": {
+                                    "name": "Police Brutality",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Mass Incarceration": {
+                                    "name": "Mass Incarceration",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Prison Reform": {
+                                    "name": "Prison Reform",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Racial Profiling": {
+                                    "name": "Racial Profiling",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Freedom of Expression": {
+                            "name": "Freedom of Expression",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Censorship": {
+                                    "name": "Censorship",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Free Speech vs. Hate Speech": {
+                                    "name": "Free Speech vs. Hate Speech",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Press Freedom": {
+                                    "name": "Press Freedom",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Artistic Expression": {
+                                    "name": "Artistic Expression",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Political Disenfranchisement": {
+                            "name": "Political Disenfranchisement",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Voter Suppression": {
+                                    "name": "Voter Suppression",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Gerrymandering": {
+                                    "name": "Gerrymandering",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Lack of Political Representation": {
+                                    "name": "Lack of Political Representation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Discrimination in the Electoral Process": {
+                                    "name": "Discrimination in the Electoral Process",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Access to Justice": {
+                            "name": "Access to Justice",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Legal Aid Availability": {
+                                    "name": "Legal Aid Availability",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Discrimination in Courts": {
+                                    "name": "Discrimination in Courts",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Wrongful Convictions": {
+                                    "name": "Wrongful Convictions",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Victim Rights": {
+                                    "name": "Victim Rights",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Education and Knowledge Access": {
+                    "name": "Education and Knowledge Access",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Access to Education": {
+                            "name": "Access to Education",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Literacy Rates": {
+                                    "name": "Literacy Rates",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Gender Disparity in Education": {
+                                    "name": "Gender Disparity in Education",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Access to Quality Education": {
+                                    "name": "Access to Quality Education",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Education for Refugees": {
+                                    "name": "Education for Refugees",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Educational Inequality": {
+                            "name": "Educational Inequality",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "School Segregation": {
+                                    "name": "School Segregation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Funding Disparities": {
+                                    "name": "Funding Disparities",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Digital Divide (Access to Technology)": {
+                                    "name": "Digital Divide (Access to Technology)",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Private vs. Public School Divide": {
+                                    "name": "Private vs. Public School Divide",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Higher Education": {
+                            "name": "Higher Education",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Student Debt Crisis": {
+                                    "name": "Student Debt Crisis",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Access to Higher Education": {
+                                    "name": "Access to Higher Education",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Inclusivity in Universities": {
+                                    "name": "Inclusivity in Universities",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Academic Freedom": {
+                                    "name": "Academic Freedom",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Misinformation and Fake News": {
+                            "name": "Misinformation and Fake News",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Media Literacy": {
+                                    "name": "Media Literacy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Spread of Misinformation Online": {
+                                    "name": "Spread of Misinformation Online",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Conspiracy Theories": {
+                                    "name": "Conspiracy Theories",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Education on Critical Thinking": {
+                                    "name": "Education on Critical Thinking",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Housing and Urban Development": {
+                    "name": "Housing and Urban Development",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Housing Affordability": {
+                            "name": "Housing Affordability",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Rising Rent and Property Prices": {
+                                    "name": "Rising Rent and Property Prices",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Gentrification": {
+                                    "name": "Gentrification",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Homelessness": {
+                                    "name": "Homelessness",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Access to Affordable Housing": {
+                                    "name": "Access to Affordable Housing",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Urban Planning": {
+                            "name": "Urban Planning",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Slum Development": {
+                                    "name": "Slum Development",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Lack of Green Spaces": {
+                                    "name": "Lack of Green Spaces",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Overcrowded Cities": {
+                                    "name": "Overcrowded Cities",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Urban Crime": {
+                                    "name": "Urban Crime",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Rural vs. Urban Divide": {
+                            "name": "Rural vs. Urban Divide",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Access to Services": {
+                                    "name": "Access to Services",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Rural Poverty": {
+                                    "name": "Rural Poverty",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Infrastructure Disparities": {
+                                    "name": "Infrastructure Disparities",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Rural-Urban Migration": {
+                                    "name": "Rural-Urban Migration",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Homelessness": {
+                            "name": "Homelessness",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Causes of Homelessness": {
+                                    "name": "Causes of Homelessness",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Shelters and Temporary Housing": {
+                                    "name": "Shelters and Temporary Housing",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Policies to End Homelessness": {
+                                    "name": "Policies to End Homelessness",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Stigmatization of the Homeless": {
+                                    "name": "Stigmatization of the Homeless",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Family and Social Structures": {
+                    "name": "Family and Social Structures",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Family Dynamics": {
+                            "name": "Family Dynamics",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Domestic Violence": {
+                                    "name": "Domestic Violence",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Child Abuse and Neglect": {
+                                    "name": "Child Abuse and Neglect",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Family Separation": {
+                                    "name": "Family Separation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Single-Parent Challenges": {
+                                    "name": "Single-Parent Challenges",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Marriage and Partnerships": {
+                            "name": "Marriage and Partnerships",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Decline in Marriage Rates": {
+                                    "name": "Decline in Marriage Rates",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Same-Sex Marriage": {
+                                    "name": "Same-Sex Marriage",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Divorce and Its Impact": {
+                                    "name": "Divorce and Its Impact",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Forced Marriages": {
+                                    "name": "Forced Marriages",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Aging Population": {
+                            "name": "Aging Population",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Elder Care": {
+                                    "name": "Elder Care",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Pension and Retirement Security": {
+                                    "name": "Pension and Retirement Security",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Social Isolation of the Elderly": {
+                                    "name": "Social Isolation of the Elderly",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Intergenerational Living": {
+                                    "name": "Intergenerational Living",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Adoption and Foster Care": {
+                            "name": "Adoption and Foster Care",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Adoption Policies": {
+                                    "name": "Adoption Policies",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Challenges in Foster Care": {
+                                    "name": "Challenges in Foster Care",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "International Adoption": {
+                                    "name": "International Adoption",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Adoption by Same-Sex Couples": {
+                                    "name": "Adoption by Same-Sex Couples",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Violence and Conflict": {
+                    "name": "Violence and Conflict",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "War and Armed Conflicts": {
+                            "name": "War and Armed Conflicts",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Civil Wars": {
+                                    "name": "Civil Wars",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "International Conflicts": {
+                                    "name": "International Conflicts",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Refugee Crises": {
+                                    "name": "Refugee Crises",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "War Crimes and Humanitarian Law": {
+                                    "name": "War Crimes and Humanitarian Law",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Terrorism and Extremism": {
+                            "name": "Terrorism and Extremism",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Religious Extremism": {
+                                    "name": "Religious Extremism",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Domestic Terrorism": {
+                                    "name": "Domestic Terrorism",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Counterterrorism Strategies": {
+                                    "name": "Counterterrorism Strategies",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Radicalization Prevention": {
+                                    "name": "Radicalization Prevention",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Interpersonal Violence": {
+                            "name": "Interpersonal Violence",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Gun Violence": {
+                                    "name": "Gun Violence",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Intimate Partner Violence": {
+                                    "name": "Intimate Partner Violence",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Sexual Assault and Harassment": {
+                                    "name": "Sexual Assault and Harassment",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Bullying and Cyberbullying": {
+                                    "name": "Bullying and Cyberbullying",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Ethnic and Religious Conflicts": {
+                            "name": "Ethnic and Religious Conflicts",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Ethnic Cleansing": {
+                                    "name": "Ethnic Cleansing",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Religious Persecution": {
+                                    "name": "Religious Persecution",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Sectarian Violence": {
+                                    "name": "Sectarian Violence",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Genocide": {
+                                    "name": "Genocide",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Migration and Population Issues": {
+                    "name": "Migration and Population Issues",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Immigration": {
+                            "name": "Immigration",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Refugee Rights": {
+                                    "name": "Refugee Rights",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Legal vs. Illegal Immigration": {
+                                    "name": "Legal vs. Illegal Immigration",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Integration Challenges": {
+                                    "name": "Integration Challenges",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Xenophobia and Anti-Immigrant Sentiments": {
+                                    "name": "Xenophobia and Anti-Immigrant Sentiments",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Population Growth": {
+                            "name": "Population Growth",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Overpopulation": {
+                                    "name": "Overpopulation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Population Aging": {
+                                    "name": "Population Aging",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Fertility Rates": {
+                                    "name": "Fertility Rates",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Family Planning": {
+                                    "name": "Family Planning",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Urbanization": {
+                            "name": "Urbanization",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Rural-Urban Migration": {
+                                    "name": "Rural-Urban Migration",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Challenges of Mega Cities": {
+                                    "name": "Challenges of Mega Cities",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Informal Settlements": {
+                                    "name": "Informal Settlements",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Urban Sprawl": {
+                                    "name": "Urban Sprawl",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Diaspora Communities": {
+                            "name": "Diaspora Communities",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Maintaining Cultural Identity": {
+                                    "name": "Maintaining Cultural Identity",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Challenges of the Second Generation": {
+                                    "name": "Challenges of the Second Generation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Remittances": {
+                                    "name": "Remittances",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Cross-Border Families": {
+                                    "name": "Cross-Border Families",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Technology and Society": {
+                    "name": "Technology and Society",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Digital Divide": {
+                            "name": "Digital Divide",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Access to Internet and Technology": {
+                                    "name": "Access to Internet and Technology",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Technology Gap between Generations": {
+                                    "name": "Technology Gap between Generations",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Rural vs. Urban Technological Access": {
+                                    "name": "Rural vs. Urban Technological Access",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Technological Literacy": {
+                                    "name": "Technological Literacy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Privacy and Surveillance": {
+                            "name": "Privacy and Surveillance",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Government Surveillance Programs": {
+                                    "name": "Government Surveillance Programs",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Data Privacy": {
+                                    "name": "Data Privacy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Corporate Data Collection": {
+                                    "name": "Corporate Data Collection",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Cybersecurity Threats": {
+                                    "name": "Cybersecurity Threats",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Impact of Social Media": {
+                            "name": "Impact of Social Media",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Cyberbullying": {
+                                    "name": "Cyberbullying",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Social Media Addiction": {
+                                    "name": "Social Media Addiction",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Impact on Mental Health": {
+                                    "name": "Impact on Mental Health",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Spread of Fake News": {
+                                    "name": "Spread of Fake News",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Automation and AI": {
+                            "name": "Automation and AI",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Job Displacement": {
+                                    "name": "Job Displacement",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Ethical Use of AI": {
+                                    "name": "Ethical Use of AI",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Technological Unemployment": {
+                                    "name": "Technological Unemployment",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Data Bias in AI": {
+                                    "name": "Data Bias in AI",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Ethics and Morality": {
+                    "name": "Ethics and Morality",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Bioethics": {
+                            "name": "Bioethics",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Cloning": {
+                                    "name": "Cloning",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Genetic Engineering": {
+                                    "name": "Genetic Engineering",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Stem Cell Research": {
+                                    "name": "Stem Cell Research",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Organ Donation and Transplantation": {
+                                    "name": "Organ Donation and Transplantation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Ethical Consumerism": {
+                            "name": "Ethical Consumerism",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Fair Trade": {
+                                    "name": "Fair Trade",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Boycotts of Unethical Companies": {
+                                    "name": "Boycotts of Unethical Companies",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Sustainable Consumption": {
+                                    "name": "Sustainable Consumption",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Veganism and Animal Rights": {
+                                    "name": "Veganism and Animal Rights",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Media Ethics": {
+                            "name": "Media Ethics",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Yellow Journalism": {
+                                    "name": "Yellow Journalism",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Sensationalism": {
+                                    "name": "Sensationalism",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Journalistic Integrity": {
+                                    "name": "Journalistic Integrity",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Privacy vs. Public Interest": {
+                                    "name": "Privacy vs. Public Interest",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Corporate Responsibility": {
+                            "name": "Corporate Responsibility",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Labor Rights in Supply Chains": {
+                                    "name": "Labor Rights in Supply Chains",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Environmental Responsibility": {
+                                    "name": "Environmental Responsibility",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Corporate Transparency": {
+                                    "name": "Corporate Transparency",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Philanthropy and Charity": {
+                                    "name": "Philanthropy and Charity",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Work and Labor Issues": {
+                    "name": "Work and Labor Issues",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Labor Rights": {
+                            "name": "Labor Rights",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Minimum Wage Laws": {
+                                    "name": "Minimum Wage Laws",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Child Labor": {
+                                    "name": "Child Labor",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Forced Labor": {
+                                    "name": "Forced Labor",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Working Conditions": {
+                                    "name": "Working Conditions",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Job Insecurity": {
+                            "name": "Job Insecurity",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Gig Economy": {
+                                    "name": "Gig Economy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Freelancing Challenges": {
+                                    "name": "Freelancing Challenges",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Workplace Discrimination": {
+                                    "name": "Workplace Discrimination",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Underemployment": {
+                                    "name": "Underemployment",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Work-Life Balance": {
+                            "name": "Work-Life Balance",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Overworking": {
+                                    "name": "Overworking",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Flexible Working Hours": {
+                                    "name": "Flexible Working Hours",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Remote Work": {
+                                    "name": "Remote Work",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Paid Parental Leave": {
+                                    "name": "Paid Parental Leave",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Trade Unions": {
+                            "name": "Trade Unions",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Role of Trade Unions": {
+                                    "name": "Role of Trade Unions",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Collective Bargaining": {
+                                    "name": "Collective Bargaining",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Labor Strikes": {
+                                    "name": "Labor Strikes",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Union-Busting": {
+                                    "name": "Union-Busting",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Global and International Issues": {
+                    "name": "Global and International Issues",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Human Trafficking": {
+                            "name": "Human Trafficking",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Forced Labor": {
+                                    "name": "Forced Labor",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Sex Trafficking": {
+                                    "name": "Sex Trafficking",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Trafficking of Minors": {
+                                    "name": "Trafficking of Minors",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "International Cooperation to Combat Trafficking": {
+                                    "name": "International Cooperation to Combat Trafficking",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Refugee Crisis": {
+                            "name": "Refugee Crisis",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Asylum Seekers": {
+                                    "name": "Asylum Seekers",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Internally Displaced Persons (IDPs)": {
+                                    "name": "Internally Displaced Persons (IDPs)",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Refugee Camps": {
+                                    "name": "Refugee Camps",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Resettlement Programs": {
+                                    "name": "Resettlement Programs",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Global Health": {
+                            "name": "Global Health",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Pandemics and Epidemics": {
+                                    "name": "Pandemics and Epidemics",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Access to Vaccines": {
+                                    "name": "Access to Vaccines",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Healthcare in Conflict Zones": {
+                                    "name": "Healthcare in Conflict Zones",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "International Health Organizations": {
+                                    "name": "International Health Organizations",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Global Inequality": {
+                            "name": "Global Inequality",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Unequal Access to Resources": {
+                                    "name": "Unequal Access to Resources",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Digital Divide on a Global Scale": {
+                                    "name": "Digital Divide on a Global Scale",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Colonial Legacy and Its Impact": {
+                                    "name": "Colonial Legacy and Its Impact",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "International Aid and Its Effectiveness": {
+                                    "name": "International Aid and Its Effectiveness",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Cultural and Identity Issues": {
+                    "name": "Cultural and Identity Issues",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Cultural Preservation": {
+                            "name": "Cultural Preservation",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Loss of Indigenous Languages": {
+                                    "name": "Loss of Indigenous Languages",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Cultural Appropriation": {
+                                    "name": "Cultural Appropriation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Protection of Cultural Heritage": {
+                                    "name": "Protection of Cultural Heritage",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Promotion of Indigenous Cultures": {
+                                    "name": "Promotion of Indigenous Cultures",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Identity Politics": {
+                            "name": "Identity Politics",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Nationalism vs. Globalism": {
+                                    "name": "Nationalism vs. Globalism",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Ethnic Identity and National Belonging": {
+                                    "name": "Ethnic Identity and National Belonging",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "LGBTQ+ Identity and Acceptance": {
+                                    "name": "LGBTQ+ Identity and Acceptance",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Intersectionality in Identity": {
+                                    "name": "Intersectionality in Identity",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Religious Freedom": {
+                            "name": "Religious Freedom",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Secularism vs. Religious Influence": {
+                                    "name": "Secularism vs. Religious Influence",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Freedom to Practice Religion": {
+                                    "name": "Freedom to Practice Religion",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Persecution of Religious Minorities": {
+                                    "name": "Persecution of Religious Minorities",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Religious Conversion and Its Controversy": {
+                                    "name": "Religious Conversion and Its Controversy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Artistic Freedom": {
+                            "name": "Artistic Freedom",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Censorship of Art": {
+                                    "name": "Censorship of Art",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Artistic Expression in Repressive Regimes": {
+                                    "name": "Artistic Expression in Repressive Regimes",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Role of Art in Social Change": {
+                                    "name": "Role of Art in Social Change",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Freedom of Speech for Artists": {
+                                    "name": "Freedom of Speech for Artists",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

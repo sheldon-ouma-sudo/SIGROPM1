@@ -1,0 +1,2329 @@
+{
+    "name": "Root",
+    "api_query_child": {
+        "details": "No API query data yet"
+    },
+    "children": {
+        "Wellness": {
+            "name": "Wellness",
+            "api_query_child": {
+                "details": "No API query data yet"
+            },
+            "children": {
+                "Physical_Health": {
+                    "name": "Physical_Health",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Exercise_and_Fitness": {
+                            "name": "Exercise_and_Fitness",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Aerobics": {
+                                    "name": "Aerobics",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Strength Training": {
+                                    "name": "Strength Training",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Cardio Fitness": {
+                                    "name": "Cardio Fitness",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Flexibility and Stretching": {
+                                    "name": "Flexibility and Stretching",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "High-Intensity Interval Training (HIIT)": {
+                                    "name": "High-Intensity Interval Training (HIIT)",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Endurance Training": {
+                                    "name": "Endurance Training",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Yoga and Pilates": {
+                                    "name": "Yoga and Pilates",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Nutrition": {
+                            "name": "Nutrition",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Healthy Eating Habits": {
+                                    "name": "Healthy Eating Habits",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Balanced Diet (Macronutrients and Micronutrients)": {
+                                    "name": "Balanced Diet (Macronutrients and Micronutrients)",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Weight Management": {
+                                    "name": "Weight Management",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Vegetarian, Vegan, and Plant-Based Diets": {
+                                    "name": "Vegetarian, Vegan, and Plant-Based Diets",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Keto and Paleo Diets": {
+                                    "name": "Keto and Paleo Diets",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Intermittent Fasting": {
+                                    "name": "Intermittent Fasting",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Nutritional Supplements": {
+                                    "name": "Nutritional Supplements",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Superfoods": {
+                                    "name": "Superfoods",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Sleep_and_Rest": {
+                            "name": "Sleep_and_Rest",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Sleep Hygiene": {
+                                    "name": "Sleep Hygiene",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Circadian Rhythms": {
+                                    "name": "Circadian Rhythms",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Insomnia Remedies": {
+                                    "name": "Insomnia Remedies",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Power Naps": {
+                                    "name": "Power Naps",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Preventive_Health": {
+                            "name": "Preventive_Health",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Regular Health Screenings": {
+                                    "name": "Regular Health Screenings",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Immunizations": {
+                                    "name": "Immunizations",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Hygiene Practices": {
+                                    "name": "Hygiene Practices",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Stress Management for Physical Health": {
+                                    "name": "Stress Management for Physical Health",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Sexual_and_Reproductive_Health": {
+                            "name": "Sexual_and_Reproductive_Health",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Sexual Wellbeing": {
+                                    "name": "Sexual Wellbeing",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Contraception": {
+                                    "name": "Contraception",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Fertility Health": {
+                                    "name": "Fertility Health",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Menstrual Health": {
+                                    "name": "Menstrual Health",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Mental_Health": {
+                    "name": "Mental_Health",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Emotional_Wellbeing": {
+                            "name": "Emotional_Wellbeing",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Stress Management": {
+                                    "name": "Stress Management",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Emotional Intelligence": {
+                                    "name": "Emotional Intelligence",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Coping Mechanisms": {
+                                    "name": "Coping Mechanisms",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Resilience Building": {
+                                    "name": "Resilience Building",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Mental_Illness_Awareness": {
+                            "name": "Mental_Illness_Awareness",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Depression": {
+                                    "name": "Depression",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Anxiety Disorders": {
+                                    "name": "Anxiety Disorders",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Bipolar Disorder": {
+                                    "name": "Bipolar Disorder",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Schizophrenia": {
+                                    "name": "Schizophrenia",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Post-Traumatic Stress Disorder (PTSD)": {
+                                    "name": "Post-Traumatic Stress Disorder (PTSD)",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Therapy_and_Counseling": {
+                            "name": "Therapy_and_Counseling",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Cognitive Behavioral Therapy (CBT)": {
+                                    "name": "Cognitive Behavioral Therapy (CBT)",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Psychotherapy": {
+                                    "name": "Psychotherapy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Group Therapy": {
+                                    "name": "Group Therapy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Online Therapy": {
+                                    "name": "Online Therapy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Mindfulness-Based Stress Reduction (MBSR)": {
+                                    "name": "Mindfulness-Based Stress Reduction (MBSR)",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Mindfulness_and_Meditation": {
+                            "name": "Mindfulness_and_Meditation",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Mindfulness Meditation": {
+                                    "name": "Mindfulness Meditation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Transcendental Meditation": {
+                                    "name": "Transcendental Meditation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Guided Visualization": {
+                                    "name": "Guided Visualization",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Breathwork Techniques": {
+                                    "name": "Breathwork Techniques",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Spiritual_Health": {
+                    "name": "Spiritual_Health",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Spiritual_Practices": {
+                            "name": "Spiritual_Practices",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Meditation and Reflection": {
+                                    "name": "Meditation and Reflection",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Prayer": {
+                                    "name": "Prayer",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Rituals": {
+                                    "name": "Rituals",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Connection_and_Belonging": {
+                            "name": "Connection_and_Belonging",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Community Engagement": {
+                                    "name": "Community Engagement",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Finding Purpose": {
+                                    "name": "Finding Purpose",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Holistic_Healing": {
+                            "name": "Holistic_Healing",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Reiki": {
+                                    "name": "Reiki",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Crystal Healing": {
+                                    "name": "Crystal Healing",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Chakras and Energy Centers": {
+                                    "name": "Chakras and Energy Centers",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Sound Therapy": {
+                                    "name": "Sound Therapy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Self_Care": {
+                    "name": "Self_Care",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Beauty_and_Skincare": {
+                            "name": "Beauty_and_Skincare",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Skin Types and Routines": {
+                                    "name": "Skin Types and Routines",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Anti-Aging Practices": {
+                                    "name": "Anti-Aging Practices",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Organic and DIY Skincare": {
+                                    "name": "Organic and DIY Skincare",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Grooming Habits": {
+                                    "name": "Grooming Habits",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Personal_Relaxation_Techniques": {
+                            "name": "Personal_Relaxation_Techniques",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Aromatherapy": {
+                                    "name": "Aromatherapy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Massages": {
+                                    "name": "Massages",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Spa Treatments": {
+                                    "name": "Spa Treatments",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        },
+                        "Time_Management_and_Leisure": {
+                            "name": "Time_Management_and_Leisure",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Effective Time Use": {
+                                    "name": "Effective Time Use",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Taking Breaks and Vacations": {
+                                    "name": "Taking Breaks and Vacations",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                },
+                                "Relaxation Techniques": {
+                                    "name": "Relaxation Techniques",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "Personal Growth and Development": {
+                    "name": "Personal Growth and Development",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Self-Improvement": {
+                            "name": "Self-Improvement",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Goal Setting and Achievement": {
+                                    "name": "Goal Setting and Achievement",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "SMART Goals": {
+                                            "name": "SMART Goals",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Vision Boards": {
+                                            "name": "Vision Boards",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Daily Routines and Habits": {
+                                            "name": "Daily Routines and Habits",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Emotional Intelligence": {
+                                    "name": "Emotional Intelligence",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Self-Awareness": {
+                                            "name": "Self-Awareness",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Empathy": {
+                                            "name": "Empathy",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Relationship Management": {
+                                            "name": "Relationship Management",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Building Resilience": {
+                                    "name": "Building Resilience",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Overcoming Setbacks": {
+                                            "name": "Overcoming Setbacks",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Adapting to Change": {
+                                            "name": "Adapting to Change",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Developing Grit": {
+                                            "name": "Developing Grit",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Skills and Hobbies": {
+                            "name": "Skills and Hobbies",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Creative Arts": {
+                                    "name": "Creative Arts",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Painting and Drawing": {
+                                            "name": "Painting and Drawing",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Sculpture and Crafting": {
+                                            "name": "Sculpture and Crafting",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Pottery": {
+                                            "name": "Pottery",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Calligraphy": {
+                                            "name": "Calligraphy",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Music and Performing Arts": {
+                                    "name": "Music and Performing Arts",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Learning an Instrument": {
+                                            "name": "Learning an Instrument",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Singing and Vocal Training": {
+                                            "name": "Singing and Vocal Training",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Dancing (Ballet, Jazz, Hip-Hop, Ballroom)": {
+                                            "name": "Dancing (Ballet, Jazz, Hip-Hop, Ballroom)",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Theater and Acting": {
+                                            "name": "Theater and Acting",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Writing and Literature": {
+                                    "name": "Writing and Literature",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Fiction and Poetry Writing": {
+                                            "name": "Fiction and Poetry Writing",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Blogging": {
+                                            "name": "Blogging",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Journaling and Creative Writing": {
+                                            "name": "Journaling and Creative Writing",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Productivity and Focus": {
+                            "name": "Productivity and Focus",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Time Management": {
+                                    "name": "Time Management",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Time Blocking": {
+                                            "name": "Time Blocking",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Pomodoro Technique": {
+                                            "name": "Pomodoro Technique",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Concentration Techniques": {
+                                    "name": "Concentration Techniques",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Deep Work": {
+                                            "name": "Deep Work",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Minimizing Distractions": {
+                                            "name": "Minimizing Distractions",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Digital Detox": {
+                                    "name": "Digital Detox",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Social Media Reduction": {
+                                            "name": "Social Media Reduction",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Limiting Screen Time": {
+                                            "name": "Limiting Screen Time",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Relationships and Social Wellbeing": {
+                    "name": "Relationships and Social Wellbeing",
+                    "api_query_child": {
+                        "details": "No API query data yet"
+                    },
+                    "children": {
+                        "Family Relationships": {
+                            "name": "Family Relationships",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Parenting and Childcare": {
+                                    "name": "Parenting and Childcare",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Parenting Styles (e.g., Authoritative, Permissive)": {
+                                            "name": "Parenting Styles (e.g., Authoritative, Permissive)",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Effective Communication with Children": {
+                                            "name": "Effective Communication with Children",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Child Development Stages": {
+                                            "name": "Child Development Stages",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Foster Parenting and Adoption": {
+                                            "name": "Foster Parenting and Adoption",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Marriage and Partnerships": {
+                                    "name": "Marriage and Partnerships",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Relationship Counseling": {
+                                            "name": "Relationship Counseling",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Conflict Resolution": {
+                                            "name": "Conflict Resolution",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Maintaining Romance and Intimacy": {
+                                            "name": "Maintaining Romance and Intimacy",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Extended Family Relationships": {
+                                    "name": "Extended Family Relationships",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Grandparent-Grandchild Bonds": {
+                                            "name": "Grandparent-Grandchild Bonds",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Blended Families": {
+                                            "name": "Blended Families",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Friendships and Social Circles": {
+                            "name": "Friendships and Social Circles",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Building Friendships": {
+                                    "name": "Building Friendships",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Networking": {
+                                            "name": "Networking",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Group Activities": {
+                                            "name": "Group Activities",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Overcoming Shyness": {
+                                            "name": "Overcoming Shyness",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Managing Social Conflicts": {
+                                    "name": "Managing Social Conflicts",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Assertiveness Training": {
+                                            "name": "Assertiveness Training",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Conflict Management": {
+                                            "name": "Conflict Management",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Community Engagement": {
+                                    "name": "Community Engagement",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Volunteering": {
+                                            "name": "Volunteering",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Supporting Local Causes": {
+                                            "name": "Supporting Local Causes",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Romantic Relationships": {
+                            "name": "Romantic Relationships",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Dating and Courtship": {
+                                    "name": "Dating and Courtship",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Dating Strategies": {
+                                            "name": "Dating Strategies",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Online Dating Safety": {
+                                            "name": "Online Dating Safety",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Long-Distance Relationships": {
+                                            "name": "Long-Distance Relationships",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Love Languages": {
+                                    "name": "Love Languages",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Maintaining Healthy Boundaries": {
+                                            "name": "Maintaining Healthy Boundaries",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Trust Building": {
+                                            "name": "Trust Building",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Emotional Intimacy": {
+                                            "name": "Emotional Intimacy",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Handling Breakups and Grief": {
+                                    "name": "Handling Breakups and Grief",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Coping with Loss": {
+                                            "name": "Coping with Loss",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Self-Reflection": {
+                                            "name": "Self-Reflection",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Rebuilding Confidence": {
+                                            "name": "Rebuilding Confidence",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Seeking Support (Friends, Family, or Counseling)": {
+                                            "name": "Seeking Support (Friends, Family, or Counseling)",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Practicing Self-Compassion": {
+                                            "name": "Practicing Self-Compassion",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Acceptance and Moving On": {
+                                            "name": "Acceptance and Moving On",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Lifestyle and Leisure": {
+                            "name": "Lifestyle and Leisure",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Home and Living": {
+                                    "name": "Home and Living",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Interior Design": {
+                                            "name": "Interior Design",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Space Optimization": {
+                                                    "name": "Space Optimization",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "DIY Home Decor": {
+                                                    "name": "DIY Home Decor",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Feng Shui and Harmony": {
+                                                    "name": "Feng Shui and Harmony",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        },
+                                        "Minimalist Living": {
+                                            "name": "Minimalist Living",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Decluttering": {
+                                                    "name": "Decluttering",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Downsizing": {
+                                                    "name": "Downsizing",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Simple Living": {
+                                                    "name": "Simple Living",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        },
+                                        "Gardening and Landscaping": {
+                                            "name": "Gardening and Landscaping",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Indoor Gardening": {
+                                                    "name": "Indoor Gardening",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Vegetable and Herb Gardens": {
+                                                    "name": "Vegetable and Herb Gardens",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Sustainable Landscaping": {
+                                                    "name": "Sustainable Landscaping",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Travel and Exploration": {
+                                    "name": "Travel and Exploration",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Travel Planning": {
+                                            "name": "Travel Planning",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Budgeting for Travel": {
+                                                    "name": "Budgeting for Travel",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Packing Essentials": {
+                                                    "name": "Packing Essentials",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Travel Safety Tips": {
+                                                    "name": "Travel Safety Tips",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        },
+                                        "Cultural Experiences": {
+                                            "name": "Cultural Experiences",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Cultural Immersion": {
+                                                    "name": "Cultural Immersion",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Learning Languages": {
+                                                    "name": "Learning Languages",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Food Tourism": {
+                                                    "name": "Food Tourism",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        },
+                                        "Adventure and Nature Travel": {
+                                            "name": "Adventure and Nature Travel",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Hiking": {
+                                                    "name": "Hiking",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Camping": {
+                                                    "name": "Camping",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Road Trips": {
+                                                    "name": "Road Trips",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Recreation and Fun": {
+                                    "name": "Recreation and Fun",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Outdoor Recreation": {
+                                            "name": "Outdoor Recreation",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Cycling": {
+                                                    "name": "Cycling",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Running and Jogging": {
+                                                    "name": "Running and Jogging",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Hiking": {
+                                                    "name": "Hiking",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        },
+                                        "Games and Sports": {
+                                            "name": "Games and Sports",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Team Sports (e.g., Basketball, Soccer)": {
+                                                    "name": "Team Sports (e.g., Basketball, Soccer)",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Individual Sports (e.g., Tennis, Swimming)": {
+                                                    "name": "Individual Sports (e.g., Tennis, Swimming)",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Board Games and Puzzles": {
+                                                    "name": "Board Games and Puzzles",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        },
+                                        "Entertainment": {
+                                            "name": "Entertainment",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Watching Films and TV Shows": {
+                                                    "name": "Watching Films and TV Shows",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Attending Live Performances (Concerts, Theatre)": {
+                                                    "name": "Attending Live Performances (Concerts, Theatre)",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Reading Fiction and Non-Fiction": {
+                                                    "name": "Reading Fiction and Non-Fiction",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Financial Wellness": {
+                            "name": "Financial Wellness",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Budgeting and Saving": {
+                                    "name": "Budgeting and Saving",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Creating a Budget": {
+                                            "name": "Creating a Budget",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Emergency Funds": {
+                                            "name": "Emergency Funds",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Saving Strategies": {
+                                            "name": "Saving Strategies",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Reducing Expenses": {
+                                            "name": "Reducing Expenses",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Investing and Wealth Building": {
+                                    "name": "Investing and Wealth Building",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Types of Investments": {
+                                            "name": "Types of Investments",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Stocks": {
+                                                    "name": "Stocks",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Bonds": {
+                                                    "name": "Bonds",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Real Estate": {
+                                                    "name": "Real Estate",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Mutual Funds": {
+                                                    "name": "Mutual Funds",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        },
+                                        "Retirement Planning": {
+                                            "name": "Retirement Planning",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "401(k)": {
+                                                    "name": "401(k)",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "IRAs": {
+                                                    "name": "IRAs",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Pension Plans": {
+                                                    "name": "Pension Plans",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Debt Management": {
+                                    "name": "Debt Management",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Credit Card Management": {
+                                            "name": "Credit Card Management",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Loan Repayment Strategies": {
+                                            "name": "Loan Repayment Strategies",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Credit Score Improvement": {
+                                            "name": "Credit Score Improvement",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Financial Literacy": {
+                                    "name": "Financial Literacy",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Understanding Taxes": {
+                                            "name": "Understanding Taxes",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Financial Education for Teens and Young Adults": {
+                                            "name": "Financial Education for Teens and Young Adults",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Estate Planning": {
+                                            "name": "Estate Planning",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Insurance (Health, Life, Property)": {
+                                            "name": "Insurance (Health, Life, Property)",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Work and Career": {
+                            "name": "Work and Career",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Career Development": {
+                                    "name": "Career Development",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Career Planning": {
+                                            "name": "Career Planning",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Skills Assessment": {
+                                                    "name": "Skills Assessment",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Career Counseling": {
+                                                    "name": "Career Counseling",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Changing Careers": {
+                                                    "name": "Changing Careers",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Professional Skills": {
+                                    "name": "Professional Skills",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Leadership and Management": {
+                                            "name": "Leadership and Management",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Communication and Presentation Skills": {
+                                            "name": "Communication and Presentation Skills",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Negotiation Techniques": {
+                                            "name": "Negotiation Techniques",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Entrepreneurship": {
+                                    "name": "Entrepreneurship",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Starting a Business": {
+                                            "name": "Starting a Business",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Business Planning": {
+                                            "name": "Business Planning",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Small Business Marketing": {
+                                            "name": "Small Business Marketing",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Work-Life Balance": {
+                                    "name": "Work-Life Balance",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Time Management in the Workplace": {
+                                            "name": "Time Management in the Workplace",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Setting Boundaries": {
+                                            "name": "Setting Boundaries",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Burnout Prevention": {
+                                            "name": "Burnout Prevention",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Flexible Working Hours": {
+                                            "name": "Flexible Working Hours",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Work Environment": {
+                                    "name": "Work Environment",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Office Ergonomics": {
+                                            "name": "Office Ergonomics",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Healthy Work Habits": {
+                                            "name": "Healthy Work Habits",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Workplace Relationships": {
+                                            "name": "Workplace Relationships",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Remote Work Best Practices": {
+                                            "name": "Remote Work Best Practices",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Environment and Sustainability": {
+                            "name": "Environment and Sustainability",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Sustainable Living": {
+                                    "name": "Sustainable Living",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Waste Reduction": {
+                                            "name": "Waste Reduction",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Recycling": {
+                                            "name": "Recycling",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Composting": {
+                                            "name": "Composting",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Zero Waste Practices": {
+                                            "name": "Zero Waste Practices",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Eco-Friendly Products": {
+                                            "name": "Eco-Friendly Products",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Sustainable Clothing": {
+                                            "name": "Sustainable Clothing",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Green Cleaning Products": {
+                                            "name": "Green Cleaning Products",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Reducing Carbon Footprint": {
+                                            "name": "Reducing Carbon Footprint",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Alternative Transportation": {
+                                            "name": "Alternative Transportation",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Energy-Efficient Living": {
+                                            "name": "Energy-Efficient Living",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Water Conservation": {
+                                            "name": "Water Conservation",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Nature Connection": {
+                                    "name": "Nature Connection",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Forest Bathing (Shinrin-yoku)": {
+                                            "name": "Forest Bathing (Shinrin-yoku)",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Hiking and Nature Walks": {
+                                            "name": "Hiking and Nature Walks",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Wildlife Conservation": {
+                                            "name": "Wildlife Conservation",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Urban Farming and Beekeeping": {
+                                            "name": "Urban Farming and Beekeeping",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Ethical Consumerism": {
+                                    "name": "Ethical Consumerism",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Fair Trade Practices": {
+                                            "name": "Fair Trade Practices",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Responsible Fashion": {
+                                            "name": "Responsible Fashion",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Choosing Eco-Friendly Brands": {
+                                            "name": "Choosing Eco-Friendly Brands",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Food and Culinary Arts": {
+                            "name": "Food and Culinary Arts",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Cooking and Recipes": {
+                                    "name": "Cooking and Recipes",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Meal Preparation": {
+                                            "name": "Meal Preparation",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Meal Planning and Batch Cooking": {
+                                                    "name": "Meal Planning and Batch Cooking",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Healthy Meal Prep": {
+                                                    "name": "Healthy Meal Prep",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Food Safety and Hygiene": {
+                                                    "name": "Food Safety and Hygiene",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        },
+                                        "Global Cuisines": {
+                                            "name": "Global Cuisines",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Italian": {
+                                                    "name": "Italian",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "French": {
+                                                    "name": "French",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Japanese": {
+                                                    "name": "Japanese",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Indian": {
+                                                    "name": "Indian",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Fusion Cuisine": {
+                                                    "name": "Fusion Cuisine",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Traditional vs. Modern Recipes": {
+                                                    "name": "Traditional vs. Modern Recipes",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        },
+                                        "Baking": {
+                                            "name": "Baking",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {
+                                                "Bread Making": {
+                                                    "name": "Bread Making",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Cakes and Pastries": {
+                                                    "name": "Cakes and Pastries",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                },
+                                                "Gluten-Free Baking": {
+                                                    "name": "Gluten-Free Baking",
+                                                    "api_query_child": {
+                                                        "details": "No API query data yet"
+                                                    },
+                                                    "children": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Dietary Lifestyles": {
+                                    "name": "Dietary Lifestyles",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Vegetarian and Vegan Diets": {
+                                            "name": "Vegetarian and Vegan Diets",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Low-Carb Diets (e.g., Keto, Atkins)": {
+                                            "name": "Low-Carb Diets (e.g., Keto, Atkins)",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Mediterranean Diet": {
+                                            "name": "Mediterranean Diet",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Gluten-Free and Dairy-Free Diets": {
+                                            "name": "Gluten-Free and Dairy-Free Diets",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Paleo and Whole30": {
+                                            "name": "Paleo and Whole30",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Food Culture and History": {
+                                    "name": "Food Culture and History",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Food Traditions": {
+                                            "name": "Food Traditions",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Street Food Exploration": {
+                                            "name": "Street Food Exploration",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Food and Festivals": {
+                                            "name": "Food and Festivals",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Culinary Tourism": {
+                                            "name": "Culinary Tourism",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Personal Beliefs and Spirituality": {
+                            "name": "Personal Beliefs and Spirituality",
+                            "api_query_child": {
+                                "details": "No API query data yet"
+                            },
+                            "children": {
+                                "Mindfulness and Meditation": {
+                                    "name": "Mindfulness and Meditation",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Practices for Mindfulness": {
+                                            "name": "Practices for Mindfulness",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Meditation Techniques": {
+                                            "name": "Meditation Techniques",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Guided Meditation": {
+                                            "name": "Guided Meditation",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Chakra and Energy Meditation": {
+                                            "name": "Chakra and Energy Meditation",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Spiritual Exploration": {
+                                    "name": "Spiritual Exploration",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Exploration of Faith and Belief Systems": {
+                                            "name": "Exploration of Faith and Belief Systems",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Spiritual Awakening": {
+                                            "name": "Spiritual Awakening",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Non-Religious Spirituality": {
+                                            "name": "Non-Religious Spirituality",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Connection with Nature": {
+                                            "name": "Connection with Nature",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                },
+                                "Philosophical Inquiry": {
+                                    "name": "Philosophical Inquiry",
+                                    "api_query_child": {
+                                        "details": "No API query data yet"
+                                    },
+                                    "children": {
+                                        "Existentialism": {
+                                            "name": "Existentialism",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Eastern Philosophies (e.g., Buddhism, Taoism)": {
+                                            "name": "Eastern Philosophies (e.g., Buddhism, Taoism)",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Western Philosophies": {
+                                            "name": "Western Philosophies",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        },
+                                        "Finding Meaning and Purpose in Life": {
+                                            "name": "Finding Meaning and Purpose in Life",
+                                            "api_query_child": {
+                                                "details": "No API query data yet"
+                                            },
+                                            "children": {}
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

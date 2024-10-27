@@ -1,0 +1,761 @@
+{
+
+  "politics":{
+    "Political Ideologies": {
+      "Liberalism": [
+        "Classical Liberalism",
+        "Social Liberalism",
+        "Neoliberalism",
+        "Libertarianism"
+      ],
+      "Conservatism": [
+        "Traditional Conservatism",
+        "Neoconservatism",
+        "Fiscal Conservatism",
+        "Social Conservatism"
+      ],
+      "Socialism": [
+        "Democratic Socialism",
+        "Marxism",
+        "Trotskyism",
+        "Syndicalism"
+      ],
+      "Communism": [
+        "Marxist-Leninism",
+        "Maoism",
+        "Stalinism",
+        "Council Communism"
+      ],
+      "Fascism": [
+        "Italian Fascism",
+        "Neo-Fascism",
+        "National Socialism"
+      ],
+      "Anarchism": [
+        "Anarcho-Communism",
+        "Anarcho-Syndicalism",
+        "Anarcho-Capitalism"
+      ],
+      "Environmentalism": [
+        "Green Politics",
+        "Eco-Socialism",
+        "Deep Ecology"
+      ],
+      "Nationalism": [
+        "Civic Nationalism",
+        "Ethnic Nationalism",
+        "Populist Nationalism"
+      ],
+      "Libertarianism": [
+        "Left-Libertarianism",
+        "Right-Libertarianism",
+        "Anarcho-Capitalism"
+      ],
+      "Monarchism": [
+        "Absolute Monarchism",
+        "Constitutional Monarchism"
+      ]
+    },
+
+    "Political Systems and Governance": {
+      "Democracy": [
+        "Direct Democracy",
+        "Representative Democracy",
+        "Liberal Democracy",
+        "Participatory Democracy"
+      ],
+      "Authoritarianism": [
+        "Absolute Monarchy",
+        "Military Dictatorship",
+        "One-Party State",
+        "Totalitarianism"
+      ],
+      "Republic": [
+        "Federal Republic",
+        "Parliamentary Republic",
+        "Presidential Republic"
+      ],
+      "Monarchy": [
+        "Absolute Monarchy",
+        "Constitutional Monarchy"
+      ],
+      "Federalism": [
+        "Asymmetric Federalism",
+        "Cooperative Federalism",
+        "Competitive Federalism"
+      ],
+      "Confederalism": [
+        "Confederation of States",
+        "Loose Alliances"
+      ],
+      "Theocracy": [
+        "Islamic Theocracy",
+        "Religious Oligarchy"
+      ],
+      "Anarchy": [
+        "Stateless Societies",
+        "Communal Governance"
+      ],
+      "Oligarchy": [
+        "Plutocracy",
+        "Aristocracy",
+        "Corporatocracy"
+      ]
+
+  },
+
+    "Branches of Government": {
+      "Executive Branch": [
+        "Head of State (e.g., President, Monarch)",
+        "Head of Government (e.g., Prime Minister)",
+        "Executive Agencies",
+        "Cabinet Ministers"
+      ],
+      "Legislative Branch": [
+        "Unicameral Legislature",
+        "Bicameral Legislature",
+        "Parliamentary Committees",
+        "Lawmaking Process"
+      ],
+      "Judicial Branch": [
+        "Supreme Court",
+        "Constitutional Courts",
+        "Lower Courts",
+        "Administrative Tribunals"
+      ],
+      "Bureaucracy": [
+        "Civil Services",
+        "Government Agencies",
+        "Regulatory Bodies"
+      ]
+  },
+
+    "Political Participation": {
+      "Elections": [
+        "General Elections",
+        "Midterm Elections",
+        "Local Elections",
+        "Primary Elections",
+        "Referendums"
+      ],
+      "Political Parties": [
+        "Major Political Parties",
+        "Minor Parties and Independents",
+        "Coalition Politics",
+        "Party Manifestos"
+      ],
+      "Campaigns and Elections": [
+        "Campaign Finance",
+        "Electoral Strategies",
+        "Debates and Rallies",
+        "Media Influence"
+      ],
+      "Voting Systems": [
+        "First-Past-The-Post (FPTP)",
+        "Proportional Representation",
+        "Ranked-Choice Voting",
+        "Mixed-Member Proportional"
+      ],
+      "Activism and Advocacy": [
+        "Grassroots Movements",
+        "Protests and Demonstrations",
+        "Lobbying",
+        "Civil Disobedience"
+      ],
+      "Interest Groups": [
+        "Business Interest Groups",
+        "Labor Unions",
+        "Environmental Groups",
+        "Identity-Based Advocacy Groups"
+      ]
+
+  },
+
+    "Political Institutions and Actors": {
+      "Political Parties": [
+        "Right-Wing Parties",
+        "Left-Wing Parties",
+        "Centrist Parties",
+        "Regional and Minority Parties"
+      ],
+      "Pressure Groups": [
+        "Advocacy Groups",
+        "Trade Unions",
+        "Lobby Groups",
+        "Public Interest Groups"
+      ],
+      "International Organizations": [
+        "United Nations (UN)",
+        "North Atlantic Treaty Organization (NATO)",
+        "European Union (EU)",
+        "International Monetary Fund (IMF)",
+        "World Bank"
+      ],
+      "Non-Governmental Organizations (NGOs)": [
+        "Human Rights Organizations",
+        "Environmental NGOs",
+        "Humanitarian Organizations",
+        "Development NGOs"
+      ]
+
+  },
+
+    "Public Policy": {
+      "Economic Policy": [
+        "Fiscal Policy",
+        "Monetary Policy",
+        "Taxation Policy",
+        "Trade Policy"
+      ],
+      "Social Policy": [
+        "Welfare Programs",
+        "Healthcare Policy",
+        "Education Policy",
+        "Housing Policy"
+      ],
+      "Foreign Policy": [
+        "Diplomacy",
+        "International Trade Agreements",
+        "Military Alliances",
+        "Foreign Aid"
+      ],
+      "Environmental Policy": [
+        "Climate Change Policy",
+        "Pollution Control",
+        "Natural Resource Management",
+        "Energy Policy"
+      ],
+      "Law and Order": [
+        "Policing Policy",
+        "Criminal Justice System",
+        "Drug Policy",
+        "National Security Policy"
+      ]
+
+  },
+
+    "International Relations": {
+      "Foreign Policy and Diplomacy": [
+        "Bilateral Relations",
+        "Multilateral Relations",
+        "Embassies and Consulates",
+        "Diplomatic Immunity"
+      ],
+      "International Law": [
+        "Treaties and Agreements",
+        "International Human Rights Law",
+        "Law of the Sea",
+        "War Crimes and Tribunals"
+      ],
+      "Geopolitics": [
+        "Regional Conflicts",
+        "Power Blocs (e.g., NATO, BRICS)",
+        "Balance of Power",
+        "Sphere of Influence"
+      ],
+      "Global Governance": [
+        "United Nations (UN)",
+        "International Monetary Fund (IMF)",
+        "World Trade Organization (WTO)",
+        "International Criminal Court (ICC)"
+      ]
+
+  },
+
+    "Political Theory and Philosophy": {
+      "Classical Political Theory": [
+        "Plato's Philosophy",
+        "Aristotle's Political Theory",
+        "Machiavellianism",
+        "Hobbesian Theory"
+      ],
+      "Modern Political Theory": [
+        "Utilitarianism (Bentham, Mill)",
+        "Marxism and Class Struggle",
+        "Social Contract Theory (Locke, Rousseau)",
+        "Realism vs. Liberalism in International Relations"
+      ],
+      "Contemporary Political Theory": [
+        "Post-Colonialism",
+        "Feminist Political Theory",
+        "Environmental Political Theory",
+        "Identity Politics"
+      ]
+
+  },
+
+    "Political Economy": {
+      "Capitalism": [
+        "Free Market Economy",
+        "Mixed Economy",
+        "Laissez-Faire Policies"
+      ],
+      "Socialism and State Control": [
+        "Planned Economy",
+        "Nationalization",
+        "Welfare State"
+      ],
+      "Globalization": [
+        "Free Trade Agreements",
+        "Multinational Corporations",
+        "Trade Liberalization",
+        "Anti-Globalization Movements"
+      ],
+      "Economic Inequality": [
+        "Wealth Distribution",
+        "Universal Basic Income (UBI)",
+        "Labor Rights",
+        "Corporate Power and Influence"
+      ]
+
+  },
+
+    "Rights and Freedoms": {
+      "Human Rights": [
+        "Universal Declaration of Human Rights",
+        "Civil Rights",
+        "Economic, Social, and Cultural Rights",
+        "Minority Rights"
+      ],
+      "Civil Liberties": [
+        "Freedom of Speech",
+        "Freedom of Assembly",
+        "Freedom of Religion",
+        "Right to Privacy"
+      ],
+      "Political Rights": [
+        "Right to Vote",
+        "Right to Run for Office",
+        "Right to Protest",
+        "Freedom of Political Association"
+      ],
+      "Women's Rights": [
+        "Gender Equality",
+        "Reproductive Rights",
+        "Political Representation",
+        "Protection Against Gender-Based Violence"
+      ]
+
+  },
+
+    "Geopolitics and Regional Politics": {
+      "Regional Politics": [
+        "European Politics",
+        "Middle Eastern Politics",
+        "Asian Politics",
+        "African Politics",
+        "Latin American Politics"
+      ],
+      "Regional Conflicts": [
+        "Israeli-Palestinian Conflict",
+        "Kashmir Dispute",
+        "South China Sea Dispute",
+        "Ukraine Conflict"
+      ],
+      "Global Power Dynamics": [
+        "US-China Relations",
+        "Russia and Eastern Europe",
+        "Emerging Powers (e.g., India, Brazil)",
+        "Colonial Legacy and Its Impact"
+      ]
+
+  },
+
+    "Electoral Systems and Reforms": {
+      "Types of Electoral Systems": [
+        "Proportional Representation",
+        "Majoritarian Systems",
+        "Mixed Electoral Systems"
+      ],
+      "Electoral Fraud and Integrity": [
+        "Gerrymandering",
+        "Voter Suppression",
+        "Ballot Security"
+      ],
+      "Electoral Reform Movements": [
+        "Campaign Finance Reform",
+        "Ranked-Choice Voting Adoption",
+        "Automatic Voter Registration",
+        "Term Limits for Politicians"
+      ]
+
+  },
+
+    "Political Issues and Debates": {
+      "Climate Change": [
+        "Carbon Tax",
+        "Renewable Energy Policies",
+        "International Climate Agreements"
+      ],
+      "Healthcare": [
+        "Universal Healthcare",
+        "Privatization of Healthcare",
+        "Pharmaceutical Regulation"
+      ],
+      "Immigration": [
+        "Border Security",
+        "Refugee Rights",
+        "Immigration Reform",
+        "Citizenship Pathways"
+      ],
+      "Gun Control": [
+        "Second Amendment (USA)",
+        "Licensing and Background Checks",
+        "Assault Weapons Ban"
+      ],
+      "Social Justice": [
+        "Racial Equality",
+        "LGBTQ+ Rights",
+        "Economic Redistribution",
+        "Criminal Justice Reform"
+      ]
+
+  },
+
+    "Corruption and Transparency": {
+      "Types of Corruption": [
+        "Political Bribery",
+        "Embezzlement",
+        "Nepotism",
+        "Cronyism"
+      ],
+      "Anti-Corruption Measures": [
+        "Whistleblower Protections",
+        "Transparency International",
+        "Anti-Corruption Agencies",
+        "Open Government Initiatives"
+      ],
+      "Political Accountability": [
+        "Impeachment Procedures",
+        "Public Financial Disclosures",
+        "Ethics Committees",
+        "Investigative Journalism"
+      ]
+
+  },
+
+    "Military and Defense Policy": {
+      "Defense Spending": [
+        "Military Budgets",
+        "Defense Procurement",
+        "Private Military Contractors"
+      ],
+      "Military Alliances": [
+        "NATO",
+        "Mutual Defense Treaties",
+        "Regional Defense Pacts"
+      ],
+      "Use of Force": [
+        "Rules of Engagement",
+        "Preemptive Strike Doctrine",
+        "Humanitarian Interventions",
+        "Cyber Warfare"
+      ],
+      "Veterans Affairs": [
+        "Veterans' Benefits",
+        "PTSD and Mental Health Support",
+        "Reintegration Programs",
+        "Veterans' Political Influence"
+      ]
+
+  },
+
+    "Media and Politics": {
+      "Role of Media in Politics": [
+        "State-Controlled Media",
+        "Independent Journalism",
+        "Media Censorship",
+        "Propaganda Techniques"
+      ],
+      "Social Media and Politics": [
+        "Social Media Campaigning",
+        "Fake News and Misinformation",
+        "Political Influencers",
+        "Digital Activism"
+      ],
+      "Freedom of Press": [
+        "Press Freedom Index",
+        "Journalist Protections",
+        "Government Surveillance",
+        "Press as the Fourth Estate"
+      ]
+
+  },
+
+    "Political Leadership and Elites": {
+      "Types of Political Leaders": [
+        "Charismatic Leaders",
+        "Bureaucratic Leaders",
+        "Autocratic Leaders",
+        "Democratic Leaders"
+      ],
+      "Political Elites": [
+        "Economic Elites",
+        "Cultural Elites",
+        "Political Dynasties",
+        "Technocrats"
+      ],
+      "Leadership Styles": [
+        "Transformational Leadership",
+        "Transactional Leadership",
+        "Authoritarian Leadership",
+        "Participative Leadership"
+      ],
+      "Power Dynamics": [
+        "Power Consolidation",
+        "Succession Planning",
+        "Leadership Challenges",
+        "Crisis Management"
+      ],
+      "Impact of Political Leadership": [
+        "Economic Development",
+        "Social Reforms",
+        "Foreign Policy Decisions",
+        "Conflict Resolution"
+      ]
+
+  },
+
+    "Political Conflicts and Revolutions": {
+      "Historical Revolutions": [
+        "French Revolution",
+        "American Revolution",
+        "Russian Revolution",
+        "Cuban Revolution"
+      ],
+      "Modern Political Conflicts": [
+        "Arab Spring",
+        "Hong Kong Protests",
+        "Syrian Civil War",
+        "Sudan Conflict"
+      ],
+      "Causes of Political Conflict": [
+        "Economic Inequality",
+        "Ethnic Tensions",
+        "Religious Differences",
+        "Colonial Legacies"
+      ],
+      "Types of Political Conflict": [
+        "Civil Wars",
+        "Revolts",
+        "Coups d'état",
+        "Separatist Movements"
+      ],
+      "Revolutionary Movements": [
+        "Guerrilla Warfare",
+        "Insurgencies",
+        "Non-Violent Resistance",
+        "Peasant Revolts"
+      ]
+
+    },
+
+    
+
+    "Political Parties and Party Systems": {
+      "Types of Political Parties": [
+        "Mass Parties",
+        "Cadre Parties",
+        "Catch-All Parties",
+        "Single-Issue Parties"
+      ],
+      "Party Systems": [
+        "One-Party System",
+        "Two-Party System",
+        "Multi-Party System",
+        "Dominant-Party System"
+      ],
+      "Party Organization": [
+        "National Committees",
+        "Local Chapters",
+        "Party Membership",
+        "Party Leadership"
+      ],
+      "Party Functions": [
+        "Candidate Nomination",
+        "Policy Formulation",
+        "Mobilizing Voters",
+        "Representing Interests"
+      ],
+      "Coalition Politics": [
+        "Government Coalitions",
+        "Opposition Alliances",
+        "Power Sharing Agreements",
+        "Coalition Breakdowns"
+      ]
+
+  },
+
+    "Political Corruption and Accountability": {
+      "Forms of Political Corruption": [
+        "Bribery",
+        "Embezzlement",
+        "Clientelism",
+        "Influence Peddling"
+      ],
+      "Anti-Corruption Strategies": [
+        "Whistleblower Protections",
+        "Independent Anti-Corruption Agencies",
+        "Public Sector Transparency",
+        "Open Government Data"
+      ],
+      "Accountability Mechanisms": [
+        "Checks and Balances",
+        "Judicial Oversight",
+        "Legislative Committees",
+        "Auditing and Reporting"
+      ],
+      "International Anti-Corruption Efforts": [
+        "United Nations Convention Against Corruption",
+        "Transparency International",
+        "OECD Anti-Bribery Convention",
+        "Global Integrity Index"
+      ],
+      "Political Scandals": [
+        "Watergate Scandal",
+        "Panama Papers",
+        "Operation Car Wash (Brazil)",
+        "Impeachment Cases"
+      ]
+
+  },
+
+    "Political Socialization and Culture": {
+      "Agents of Political Socialization": [
+        "Family",
+        "Education System",
+        "Peer Groups",
+        "Media"
+      ],
+      "Political Culture Types": [
+        "Parochial Political Culture",
+        "Subject Political Culture",
+        "Participant Political Culture"
+      ],
+      "Influence of Media": [
+        "Television and Radio",
+        "Social Media Platforms",
+        "News Websites",
+        "Political Advertisements"
+      ],
+      "Role of Education": [
+        "Civic Education",
+        "Political Awareness Programs",
+        "Youth Engagement Initiatives",
+        "Student Activism"
+      ],
+      "Cultural Factors in Politics": [
+        "National Identity",
+        "Religious Beliefs",
+        "Ethnic Traditions",
+        "Historical Narratives"
+      ]
+
+  },
+
+    "Globalization and Politics": {
+      "Impact of Globalization on Politics": [
+        "Erosion of Sovereignty",
+        "Global Governance Structures",
+        "International Trade Agreements",
+        "Cross-Border Migration"
+      ],
+      "Global Political Issues": [
+        "Climate Change",
+        "Terrorism",
+        "Human Trafficking",
+        "Pandemic Response"
+      ],
+      "International Organizations": [
+        "United Nations (UN)",
+        "World Health Organization (WHO)",
+        "International Monetary Fund (IMF)",
+        "World Trade Organization (WTO)"
+      ],
+      "Transnational Movements": [
+        "Environmental Activism",
+        "Human Rights Advocacy",
+        "Global Labor Movements",
+        "Anti-Globalization Protests"
+      ],
+      "Challenges of Globalization": [
+        "Economic Inequality",
+        "Cultural Homogenization",
+        "Political Backlash",
+        "Nationalism vs. Globalism"
+      ]
+
+  },
+
+    "Environmental Politics": {
+      "Environmental Movements": [
+        "Green Movement",
+        "Climate Activism",
+        "Conservation Movements",
+        "Anti-Pollution Campaigns"
+      ],
+      "Governmental Environmental Policies": [
+        "Carbon Taxation",
+        "Renewable Energy Subsidies",
+        "Deforestation Control",
+        "Emissions Trading Systems"
+      ],
+      "International Environmental Agreements": [
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Montreal Protocol",
+        "Convention on Biological Diversity"
+      ],
+      "Political Parties and the Environment": [
+        "Green Parties",
+        "Environmental Platforms in Major Parties",
+        "Eco-Socialism",
+        "Climate Denialism"
+      ],
+      "Climate Change Politics": [
+        "Climate Change Mitigation",
+        "Adaptation Strategies",
+        "Global Climate Financing",
+        "Political Resistance to Climate Action"
+      ]
+  },
+
+    "Technology and Politics": {
+      "Impact of Technology on Political Campaigns": [
+        "Social Media Advertising",
+        "Data Analytics",
+        "Targeted Political Messaging",
+        "Digital Campaign Fundraising"
+      ],
+      "E-Government": [
+        "Online Public Services",
+        "Digital Identity Verification",
+        "E-Voting Systems",
+        "Government Transparency Platforms"
+      ],
+      "Cybersecurity": [
+        "Election Security",
+        "Cyber Attacks on Political Institutions",
+        "Data Protection Regulations",
+        "Cyber Warfare"
+      ],
+      "Surveillance and Privacy": [
+        "Mass Surveillance Programs",
+        "Government Use of AI",
+        "Citizen Privacy Rights",
+        "Facial Recognition Technology"
+      ],
+      "Technology's Influence on Political Discourse": [
+        "Echo Chambers",
+        "Online Political Radicalization",
+        "Spread of Fake News",
+        "Digital Activism and Hashtag Movements"
+      ]
+    }
+
+
+}
+
+
+
+}
