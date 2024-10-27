@@ -1,0 +1,599 @@
+{
+  "science":{
+    "Natural Sciences": {
+      "Physics": [
+          "Classical Mechanics", "Thermodynamics", "Electromagnetism", "Quantum Mechanics",
+          "Relativity (Special and General)", "Particle Physics", "Nuclear Physics",
+          "Condensed Matter Physics", "Astrophysics", "Optics", "Statistical Physics",
+          "Computational Physics"
+      ],
+      "Chemistry": [
+          "Organic Chemistry", "Inorganic Chemistry", "Physical Chemistry",
+          "Analytical Chemistry", "Biochemistry", "Theoretical Chemistry",
+          "Environmental Chemistry", "Materials Chemistry", "Electrochemistry",
+          "Quantum Chemistry"
+      ],
+      "Biology": [
+          "Molecular Biology", "Cell Biology", "Genetics", "Evolutionary Biology",
+          "Ecology", "Zoology", "Botany", "Microbiology", "Physiology", "Immunology",
+          "Biophysics", "Marine Biology", "Environmental Biology"
+      ],
+      "Earth Sciences": [
+          "Geology", "Meteorology", "Oceanography", "Climatology", "Seismology",
+          "Paleontology", "Mineralogy", "Volcanology", "Hydrology", "Environmental Geology"
+      ],
+      "Astronomy and Space Sciences": [
+          "Observational Astronomy", "Cosmology", "Astrophysics", "Stellar Astronomy",
+          "Planetary Science", "Space Exploration", "Radio Astronomy", "Astrobiology"
+      ],
+      "Environmental Sciences": [
+          "Environmental Biology", "Climate Science", "Environmental Chemistry",
+          "Conservation Science", "Environmental Toxicology", "Natural Resource Management",
+          "Sustainability Science"
+      ]
+  },
+  "Formal Sciences": {
+      "Mathematics": [
+          "Algebra", "Geometry", "Calculus", "Probability Theory", "Statistics",
+          "Number Theory", "Topology", "Differential Equations", "Discrete Mathematics",
+          "Linear Algebra", "Complex Analysis", "Real Analysis", "Mathematical Logic"
+      ],
+      "Computer Science": [
+          "Algorithms and Data Structures", "Artificial Intelligence", "Machine Learning",
+          "Databases", "Computer Graphics", "Software Engineering", "Computer Networks",
+          "Cryptography", "Operating Systems", "Human-Computer Interaction",
+          "Computational Theory", "Information Security"
+      ],
+      "Statistics": [
+          "Descriptive Statistics", "Inferential Statistics", "Biostatistics",
+          "Bayesian Statistics", "Multivariate Analysis", "Data Analysis",
+          "Probability Distributions", "Regression Analysis"
+      ],
+      "Logic": [
+          "Symbolic Logic", "Predicate Logic", "Mathematical Logic", "Modal Logic",
+          "Fuzzy Logic", "Boolean Algebra"
+      ],
+      "Systems Science": [
+          "Systems Theory", "Cybernetics", "Systems Dynamics", "Complex Systems",
+          "Control Theory"
+      ]
+  },
+  "Life Sciences": {
+      "Medicine and Health Sciences": [
+          "Anatomy", "Physiology", "Pathology", "Pharmacology", "Internal Medicine",
+          "Surgery", "Pediatrics", "Oncology", "Psychiatry", "Neurology", "Public Health",
+          "Epidemiology", "Nutrition", "Immunology", "Radiology", "Medical Genetics"
+      ],
+      "Psychology": [
+          "Clinical Psychology", "Cognitive Psychology", "Behavioral Psychology",
+          "Developmental Psychology", "Forensic Psychology", "Neuropsychology",
+          "Social Psychology", "Educational Psychology", "Industrial-Organizational Psychology",
+          "Health Psychology"
+      ],
+      "Neuroscience": [
+          "Cellular Neuroscience", "Cognitive Neuroscience", "Systems Neuroscience",
+          "Behavioral Neuroscience", "Developmental Neuroscience", "Neuropharmacology",
+          "Neuropsychology", "Computational Neuroscience"
+      ],
+      "Botany and Plant Sciences": [
+          "Plant Physiology", "Plant Pathology", "Plant Taxonomy", "Ethnobotany",
+          "Plant Ecology", "Agronomy", "Horticulture", "Plant Genetics"
+      ],
+      "Zoology and Animal Sciences": [
+          "Vertebrate Zoology", "Invertebrate Zoology", "Entomology", "Herpetology",
+          "Ornithology", "Marine Biology", "Animal Behavior", "Comparative Physiology",
+          "Wildlife Biology"
+      ]
+  },
+  "applied_sciences": {
+        "Engineering": [
+            "Mechanical Engineering",
+            "Electrical Engineering",
+            "Civil Engineering",
+            "Chemical Engineering",
+            "Aerospace Engineering",
+            "Computer Engineering",
+            "Materials Science and Engineering",
+            "Environmental Engineering",
+            "Biomedical Engineering",
+            "Structural Engineering",
+            "Robotics",
+            "Control Systems"
+        ],
+        "Agricultural Sciences": [
+            "Agronomy",
+            "Soil Science",
+            "Horticulture",
+            "Animal Husbandry",
+            "Agricultural Biotechnology",
+            "Agricultural Economics",
+            "Food Science",
+            "Crop Science",
+            "Sustainable Agriculture"
+        ],
+        "Architecture and Design": [
+            "Architectural Design",
+            "Urban Planning",
+            "Landscape Architecture",
+            "Interior Design",
+            "Industrial Design",
+            "Sustainable Design",
+            "Graphic Design",
+            "Product Design"
+        ],
+        "Health and Medical Technology": [
+            "Biomedical Devices",
+            "Medical Imaging",
+            "Prosthetics",
+            "Health Informatics",
+            "Telemedicine",
+            "Diagnostics",
+            "Bioinformatics"
+        ]
+    },
+    "humanities": {
+        "History": [
+            "Ancient History",
+            "Medieval History",
+            "Modern History",
+            "Cultural History",
+            "Military History",
+            "Economic History",
+            "Social History",
+            "Historiography",
+            "History of Science and Technology"
+        ],
+        "Philosophy": [
+            "Metaphysics",
+            "Epistemology",
+            "Ethics",
+            "Logic",
+            "Political Philosophy",
+            "Philosophy of Science",
+            "Aesthetics",
+            "Existentialism",
+            "Analytic Philosophy"
+        ],
+        "Linguistics": [
+            "Phonetics",
+            "Syntax",
+            "Semantics",
+            "Morphology",
+            "Pragmatics",
+            "Sociolinguistics",
+            "Psycholinguistics",
+            "Applied Linguistics",
+            "Historical Linguistics"
+        ],
+        "Literature": [
+            "Classical Literature",
+            "Modern Literature",
+            "Comparative Literature",
+            "Literary Criticism",
+            "Poetry",
+            "Drama",
+            "Fiction",
+            "Non-fiction",
+            "World Literature"
+        ],
+        "Religious Studies": [
+            "Comparative Religion",
+            "Theology",
+            "Philosophy of Religion",
+            "Religious History",
+            "Anthropology of Religion",
+            "Eastern Religions",
+            "Western Religions",
+            "Mysticism"
+        ],
+        "Arts": [
+            "Visual Arts",
+            "Performing Arts",
+            "Musicology",
+            "Art History",
+            "Dance",
+            "Theatre Studies",
+            "Film Studies",
+            "Photography",
+            "Sculpture",
+            "Painting",
+            "Digital Arts"
+        ]
+    },
+    "Interdisciplinary and Emerging Fields": {
+        "Artificial Intelligence and Machine Learning": [
+            "Neural Networks",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Deep Learning",
+            "Reinforcement Learning",
+            "AI Ethics",
+            "Machine Learning Algorithms",
+            "Robotics and Automation"
+        ],
+        "Quantum Science and Technology": [
+            "Quantum Computing",
+            "Quantum Information Theory",
+            "Quantum Cryptography",
+            "Quantum Algorithms",
+            "Quantum Optics",
+            "Quantum Simulation",
+            "Quantum Communication",
+            "Quantum Materials"
+        ],
+        "Bioinformatics and Computational Biology": [
+            "Genomics",
+            "Proteomics",
+            "Computational Genomics",
+            "Biological Data Analysis",
+            "Systems Biology",
+            "Molecular Modeling",
+            "Biomedical Informatics",
+            "Genetic Sequencing"
+        ],
+        "Sustainable Development": [
+            "Renewable Energy",
+            "Sustainable Agriculture",
+            "Circular Economy",
+            "Environmental Impact Assessment",
+            "Urban Sustainability",
+            "Climate Mitigation Strategies",
+            "Sustainable Business Practices",
+            "Green Building Technologies"
+        ],
+        "Cognitive and Behavioral Science": [
+            "Cognitive Neuroscience",
+            "Behavioral Analysis",
+            "Experimental Psychology",
+            "Human-Computer Interaction",
+            "Social Cognition",
+            "Cognitive Therapy",
+            "Decision Sciences",
+            "Mindfulness Studies"
+        ],
+        "Global Studies": [
+            "International Development",
+            "Migration Studies",
+            "Global Health",
+            "Cross-Cultural Studies",
+            "Transnational Movements",
+            "Global Governance",
+            "Refugee Studies",
+            "International Political Economy"
+        ]
+    },
+    "Theoretical and Fundamental Sciences": {
+        "Theoretical Physics": [
+            "Quantum Field Theory",
+            "String Theory",
+            "General Relativity",
+            "The Standard Model",
+            "Cosmology",
+            "Quantum Gravity",
+            "Particle Physics",
+            "Black Hole Physics"
+        ],
+        "Mathematical Sciences": [
+            "Pure Mathematics",
+            "Applied Mathematics",
+            "Number Theory",
+            "Algebraic Geometry",
+            "Topology",
+            "Functional Analysis",
+            "Combinatorics",
+            "Probability Theory"
+        ],
+        "Philosophy of Science": [
+            "Scientific Method",
+            "Empiricism",
+            "Falsifiability",
+            "Philosophy of Biology",
+            "Philosophy of Physics",
+            "Philosophy of Mathematics",
+            "Science and Ethics",
+            "Reductionism vs. Holism"
+        ],
+        "History of Science": [
+            "Scientific Revolution",
+            "History of Astronomy",
+            "History of Medicine",
+            "Evolution of Scientific Theories",
+            "Major Scientific Discoveries",
+            "Science in Ancient Civilizations",
+            "Technological Advancements",
+            "Influential Scientists"
+        ]
+    },
+    "Environmental Sciences and Ecology": {
+        "Ecology": [
+            "Population Ecology",
+            "Community Ecology",
+            "Ecosystem Ecology",
+            "Behavioral Ecology",
+            "Landscape Ecology",
+            "Evolutionary Ecology",
+            "Restoration Ecology",
+            "Urban Ecology"
+        ],
+        "Environmental Science": [
+            "Environmental Chemistry",
+            "Environmental Geology",
+            "Environmental Toxicology",
+            "Environmental Impact Assessment",
+            "Pollution Studies (Air, Water, Soil)",
+            "Waste Management",
+            "Environmental Monitoring",
+            "Environmental Management"
+        ],
+        "Conservation Biology": [
+            "Biodiversity Conservation",
+            "Endangered Species Management",
+            "Conservation Genetics",
+            "Habitat Restoration",
+            "Wildlife Conservation",
+            "Conservation Policy",
+            "Marine Conservation",
+            "Invasive Species Control"
+        ],
+        "Climate Science": [
+            "Climate Change Science",
+            "Atmospheric Chemistry",
+            "Paleoclimatology",
+            "Greenhouse Gases and Global Warming",
+            "Carbon Sequestration",
+            "Climate Modeling",
+            "Renewable Energy and Climate",
+            "Geoengineering"
+        ],
+        "Earth Sciences": [
+            "Geology",
+            "Geophysics",
+            "Geochemistry",
+            "Hydrology",
+            "Meteorology",
+            "Oceanography",
+            "Volcanology",
+            "Seismology"
+        ],
+        "Forestry and Agriculture": [
+            "Agroecology",
+            "Sustainable Farming",
+            "Silviculture",
+            "Agroforestry",
+            "Precision Agriculture",
+            "Soil Science",
+            "Irrigation Systems",
+            "Crop Genetics and Breeding"
+        ]
+    },
+    "Social Sciences": {
+        "Sociology": [
+            "Social Theory",
+            "Social Stratification",
+            "Family and Kinship",
+            "Gender Studies",
+            "Urban Sociology",
+            "Sociology of Education",
+            "Sociology of Religion",
+            "Cultural Sociology"
+        ],
+        "Anthropology": [
+            "Cultural Anthropology",
+            "Physical Anthropology",
+            "Archaeology",
+            "Linguistic Anthropology",
+            "Medical Anthropology",
+            "Ethnography",
+            "Anthropology of Religion",
+            "Visual Anthropology"
+        ],
+        "Psychology": [
+            "Cognitive Psychology",
+            "Clinical Psychology",
+            "Developmental Psychology",
+            "Social Psychology",
+            "Behavioral Psychology",
+            "Industrial and Organizational Psychology",
+            "Forensic Psychology",
+            "Neuropsychology"
+        ],
+        "Political Science": [
+            "Comparative Politics",
+            "Political Theory",
+            "International Relations",
+            "Public Administration",
+            "Policy Analysis",
+            "Political Economy",
+            "Electoral Systems",
+            "Governmental Structures"
+        ],
+        "Geography": [
+            "Human Geography",
+            "Physical Geography",
+            "Cartography",
+            "Geopolitics",
+            "Climatology",
+            "Urban Geography",
+            "Geographical Information Systems (GIS)",
+            "Regional Geography"
+        ],
+        "Economics": [
+            "Microeconomics",
+            "Macroeconomics",
+            "Econometrics",
+            "Development Economics",
+            "Behavioral Economics",
+            "Environmental Economics",
+            "Public Finance",
+            "Health Economics"
+        ],
+        "History": [
+            "Ancient History",
+            "Medieval History",
+            "Modern History",
+            "World History",
+            "Cultural History",
+            "Economic History",
+            "Political History",
+            "Military History"
+        ]
+    },
+    "Humanities and Cultural Studies": {
+        "Philosophy": [
+            "Metaphysics",
+            "Epistemology",
+            "Ethics",
+            "Aesthetics",
+            "Logic",
+            "Political Philosophy",
+            "Philosophy of Language",
+            "Existentialism"
+        ],
+        "History and Cultural Studies": [
+            "Art History",
+            "Social History",
+            "Intellectual History",
+            "Comparative Cultural Studies",
+            "Postcolonial Studies",
+            "Historical Archaeology",
+            "Heritage Studies",
+            "Oral History"
+        ],
+        "Linguistics": [
+            "Syntax",
+            "Phonetics and Phonology",
+            "Semantics",
+            "Sociolinguistics",
+            "Historical Linguistics",
+            "Psycholinguistics",
+            "Applied Linguistics",
+            "Computational Linguistics"
+        ],
+        "Religious Studies": [
+            "Comparative Religion",
+            "Theology",
+            "Mythology",
+            "Philosophy of Religion",
+            "Sociology of Religion",
+            "Religious Texts and Exegesis",
+            "Secularism and Religion",
+            "Interfaith Studies"
+        ],
+        "Cultural Studies": [
+            "Media Studies",
+            "Popular Culture",
+            "Gender and Sexuality Studies",
+            "Ethnicity and Identity Studies",
+            "Film and Television Studies",
+            "Digital Humanities",
+            "Folklore",
+            "Subcultural Studies"
+        ],
+        "Literature": [
+            "Literary Criticism",
+            "Comparative Literature",
+            "American Literature",
+            "British Literature",
+            "World Literature",
+            "Poetry Analysis",
+            "Drama and Theatre",
+            "Genre Studies (e.g., Gothic, Science Fiction)"
+        ]
+    },
+    "Education and Pedagogy": {
+        "Educational Theory and Practice": [
+            "Behaviorism",
+            "Constructivism",
+            "Humanism",
+            "Social Learning Theory",
+            "Critical Pedagogy",
+            "Inclusive Education",
+            "Differentiated Instruction",
+            "Montessori Method"
+        ],
+        "Curriculum and Instruction": [
+            "Curriculum Design",
+            "Lesson Planning",
+            "Teaching Methods",
+            "Instructional Strategies",
+            "Assessment and Evaluation",
+            "Classroom Management",
+            "Technology Integration",
+            "Multicultural Education"
+        ],
+        "Educational Psychology": [
+            "Learning Theories",
+            "Motivation and Engagement",
+            "Cognitive Development",
+            "Educational Measurement",
+            "Student Assessment",
+            "Social and Emotional Learning (SEL)",
+            "Learning Disabilities",
+            "Gifted Education"
+        ],
+        "Special Education": [
+            "Learning Disabilities",
+            "Intellectual Disabilities",
+            "Autism Spectrum Disorders",
+            "Behavioral Disorders",
+            "Speech and Language Disorders",
+            "Inclusive Practices",
+            "Assistive Technologies",
+            "Individualized Education Programs (IEP)"
+        ],
+        "Higher Education": [
+            "University Administration",
+            "Academic Advising",
+            "Curriculum Development in Higher Education",
+            "Educational Policy",
+            "Research Methods in Education",
+            "Student Affairs",
+            "Online Learning",
+            "Distance Education"
+        ],
+        "Early Childhood Education": [
+            "Child Development",
+            "Early Learning Theories",
+            "Play-Based Learning",
+            "Early Literacy",
+            "Parental Involvement",
+            "Early Childhood Assessment",
+            "Preschool Curriculum",
+            "Kindergarten Readiness"
+        ]
+    },
+    "Science Media": {
+        "Science Communication": [
+            "Science Journalism",
+            "Science Writing",
+            "Science Documentaries",
+            "Popular Science Books",
+            "Science Podcasts",
+            "Science YouTube Channels",
+            "Public Science Lectures"
+        ],
+        "Science Broadcasting": [
+            "TV Channels (e.g., Discovery, National Geographic)",
+            "Radio Shows",
+            "Online Streaming Platforms",
+            "Educational Science Series"
+        ],
+        "Science Publishing": [
+            "Academic Journals",
+            "Open Access Publications",
+            "Science Magazines",
+            "Peer-Reviewed Articles",
+            "Conference Proceedings"
+        ],
+        "Citizen Science and Outreach": [
+            "Citizen Science Projects",
+            "Science Fairs",
+            "Public Engagement in Science",
+            "Outreach Programs",
+            "Museums and Science Centers",
+            "Interactive Exhibits"
+        ]
+    }
+  }
+
+}
