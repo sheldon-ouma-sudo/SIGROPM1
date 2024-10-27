@@ -1,0 +1,829 @@
+{
+  "Professional Sports": {
+    "Major Leagues": [
+      "NFL (National Football League)",
+      "NBA (National Basketball Association)",
+      "MLB (Major League Baseball)",
+      "NHL (National Hockey League)",
+      "MLS (Major League Soccer)",
+      "EPL (English Premier League)",
+      "La Liga (Spain)",
+      "Serie A (Italy)",
+      "Bundesliga (Germany)",
+      "Ligue 1 (France)",
+      "IPL (Indian Premier League - Cricket)",
+      "Australian Football League (AFL)",
+      "CFL (Canadian Football League)",
+      "Nippon Professional Baseball (NPB - Japan)",
+      "KBO League (Korean Baseball Organization)",
+      "Super Rugby (Southern Hemisphere Rugby Union)"
+    ],
+    "International Competitions": [
+      "FIFA World Cup",
+      "UEFA Champions League",
+      "Olympic Games (Summer and Winter)",
+      "ICC Cricket World Cup",
+      "Rugby World Cup",
+      "FIBA Basketball World Cup",
+      "Davis Cup (Tennis)",
+      "Ryder Cup (Golf)",
+      "Tour de France (Cycling)",
+      "World Athletics Championships",
+      "America's Cup (Sailing)",
+      "Paralympic Games",
+      "Commonwealth Games",
+      "Copa America",
+      "Asian Games",
+      "CONCACAF Gold Cup",
+      "Ryder Cup",
+      "Six Nations Championship (Rugby)"
+    ],
+    "Individual Sports": [
+      "Tennis (e.g., Wimbledon, US Open)",
+      "Golf (e.g., The Masters, PGA Tour)",
+      "Boxing (e.g., WBA, WBC)",
+      "Athletics (e.g., Track and Field)",
+      "Swimming (e.g., Freestyle, Backstroke)",
+      "Gymnastics (e.g., Artistic, Rhythmic)",
+      "Martial Arts (e.g., Karate, Judo, Taekwondo)",
+      "Cycling (e.g., Road, Mountain, BMX)",
+      "Fencing (e.g., Foil, Epee, Sabre)",
+      "Skiing (e.g., Alpine, Cross-Country)",
+      "Archery",
+      "Triathlon",
+      "Equestrian Sports (e.g., Dressage, Show Jumping)",
+      "Weightlifting",
+      "Snooker and Billiards",
+      "Figure Skating",
+      "Surfing",
+      "Skateboarding"
+    ],
+    "Team Sports": [
+      "Soccer (Football)",
+      "Basketball",
+      "Cricket",
+      "American Football",
+      "Rugby (Union and League)",
+      "Baseball",
+      "Volleyball",
+      "Ice Hockey",
+      "Field Hockey",
+      "Handball",
+      "Water Polo",
+      "Softball",
+      "Lacrosse",
+      "Ultimate Frisbee",
+      "Netball",
+      "Kabaddi",
+      "Polo"
+    ],
+    "Extreme and Adventure Sports": [
+      "Rock Climbing (e.g., Bouldering, Sport Climbing)",
+      "Surfing (e.g., Big Wave, Longboarding)",
+      "Snowboarding (e.g., Halfpipe, Freestyle)",
+      "Skateboarding (e.g., Street, Vert)",
+      "BMX Biking (e.g., Dirt, Flatland)",
+      "Skydiving",
+      "Paragliding",
+      "BASE Jumping",
+      "Whitewater Rafting",
+      "Windsurfing",
+      "Mountain Biking (e.g., Downhill, Cross Country)",
+      "Parkour",
+      "Kiteboarding",
+      "Cliff Diving",
+      "Caving (Spelunking)"
+    ]
+  },
+  "Amateur and Youth Sports": {
+    "School and College Sports": [
+      "NCAA (National Collegiate Athletic Association)",
+      "High School Football",
+      "College Basketball",
+      "Track and Field Meets",
+      "Inter-School Soccer Competitions",
+      "Swimming Competitions"
+    ],
+    "Community Leagues and Recreational Sports": [
+      "Little League Baseball",
+      "Community Soccer Leagues",
+      "Amateur Basketball Leagues",
+      "Softball Teams",
+      "Recreational Volleyball Clubs",
+      "Adult Kickball Leagues"
+    ],
+    "Grassroots Sports Development": [
+      "Youth Soccer Programs",
+      "Local Tennis Clubs",
+      "Community Rugby Initiatives",
+      "Grassroots Basketball Clinics",
+      "Community Cricket Camps",
+      "Youth Wrestling Programs"
+    ],
+    "Youth Training Programs and Camps": [
+      "Soccer Camps",
+      "Basketball Clinics",
+      "Summer Baseball Camps",
+      "Martial Arts Classes",
+      "Swim Training Programs",
+      "Gymnastics Camps"
+    ],
+    "Family Sports Activities": [
+      "Family Fun Runs",
+      "Backyard Sports (e.g., Badminton, Frisbee)",
+      "Cycling Trips",
+      "Family Hiking Adventures",
+      "Bowling",
+      "Mini Golf",
+      "Roller Skating"
+    ]
+  },
+  "Fitness and Wellness Culture": {
+    "Running and Marathon Events": [
+      "City Marathons (e.g., New York City Marathon, London Marathon)",
+      "Trail Running",
+      "Ultramarathons (e.g., Ultra-Trail du Mont-Blanc)",
+      "5K and 10K Races",
+      "Charity Runs (e.g., Race for the Cure)"
+    ],
+    "Cycling": [
+      "Road Cycling",
+      "Mountain Biking",
+      "BMX",
+      "Indoor Cycling (Spin Classes)",
+      "Cycling Tours (e.g., RAGBRAI)",
+      "Gravel Biking"
+    ],
+    "Yoga and Pilates": [
+      "Hatha Yoga",
+      "Ashtanga Yoga",
+      "Hot Yoga (Bikram)",
+      "Mat Pilates",
+      "Reformer Pilates",
+      "Yin Yoga",
+      "Power Yoga"
+    ],
+    "Gym and Workout Trends": [
+      "CrossFit",
+      "Weightlifting (e.g., Powerlifting, Olympic Lifting)",
+      "Functional Training",
+      "High-Intensity Interval Training (HIIT)",
+      "Group Aerobics",
+      "Bodyweight Training (e.g., Calisthenics)",
+      "Strength Conditioning"
+    ],
+    "Wellness and Recreational Activities": [
+      "Hiking (e.g., Day Hikes, Backpacking)",
+      "Zumba",
+      "Aqua Aerobics",
+      "Dance Fitness (e.g., Hip-Hop Dance, Salsa)",
+      "Tai Chi",
+      "Meditation Retreats"
+    ]
+  },
+  "eSports and Digital Sports": {
+    "Competitive Gaming": [
+      "Dota 2 (e.g., The International)",
+      "League of Legends (e.g., LoL World Championship)",
+      "Fortnite (e.g., Fortnite World Cup)",
+      "Call of Duty (e.g., Call of Duty League)",
+      "Counter-Strike: Global Offensive (e.g., ESL Pro League)",
+      "Overwatch (e.g., Overwatch League)"
+    ],
+    "Streaming Platforms": [
+      "Twitch",
+      "YouTube Gaming",
+      "Facebook Gaming",
+      "Discord Streaming",
+      "Trovo",
+      "Nimo TV"
+    ],
+    "Virtual Reality and Augmented Reality Sports": [
+      "VR Boxing (e.g., Thrill of the Fight)",
+      "Beat Saber",
+      "VR Archery",
+      "AR Basketball (e.g., AR sports games)",
+      "VR Racing Simulators (e.g., Assetto Corsa in VR)",
+      "VR Fitness Apps (e.g., Supernatural, FitXR)",
+      "VR Football (e.g., 2MD VR Football)"
+    ],
+    "Mobile Gaming Tournaments": [
+      "PUBG Mobile (e.g., PUBG Mobile Global Championship)",
+      "Clash Royale (e.g., Clash Royale League)",
+      "Mobile Legends: Bang Bang (e.g., MLBB World Championship)",
+      "Free Fire (e.g., Free Fire World Series)",
+      "Call of Duty Mobile (e.g., COD Mobile Championship)",
+      "Arena of Valor"
+    ],
+    "Fantasy Sports and Online Sports Leagues": [
+      "Fantasy Football (e.g., NFL Fantasy, Fantasy Premier League)",
+      "Fantasy Cricket (e.g., Dream11)",
+      "NBA Fantasy League",
+      "Fantasy Baseball (e.g., ESPN Fantasy Baseball)",
+      "Daily Fantasy Sports Platforms (e.g., DraftKings, FanDuel)",
+      "Fantasy Soccer",
+      "Online Draft Leagues"
+    ]
+  },
+  "Sports Media and Entertainment": {
+    "Broadcasting": [
+      "ESPN",
+      "Sky Sports",
+      "NBC Sports",
+      "FOX Sports",
+      "Eurosport",
+      "beIN Sports",
+      "CBS Sports",
+      "DAZN"
+    ],
+    "Sports Journalism and Analysis": [
+      "Sports Illustrated",
+      "The Athletic",
+      "Bleacher Report",
+      "Analysis Shows (e.g., \"Inside the NBA\")",
+      "Sports Blogs and Websites (e.g., SB Nation, Barstool Sports)",
+      "Local Sports Newspapers"
+    ],
+    "Documentaries and Biopics": [
+      "The Last Dance (Michael Jordan)",
+      "Senna (Formula 1)",
+      "Pele (Soccer)",
+      "Free Solo (Rock Climbing)",
+      "Icarus (Doping in Cycling)",
+      "Ronaldo (Cristiano Ronaldo)",
+      "The Test (Australian Cricket Team)",
+      "Drive to Survive (Formula 1)"
+    ],
+    "Sports Talk Shows and Podcasts": [
+      "Pardon the Interruption",
+      "The Bill Simmons Podcast",
+      "The Pat McAfee Show",
+      "First Take",
+      "Around the Horn",
+      "Men in Blazers",
+      "The Joe Rogan Experience (Sports-related Episodes)",
+      "Jalen & Jacoby"
+    ],
+    "Social Media Presence of Athletes": [
+      "Instagram Accounts (e.g., Cristiano Ronaldo, LeBron James)",
+      "Twitter Engagement (e.g., athletes sharing personal views)",
+      "Athlete YouTube Channels (e.g., Vlogs, Workouts)",
+      "TikTok Challenges by Athletes",
+      "Livestreams on Twitch and Instagram (e.g., Q&A, behind-the-scenes)"
+    ]
+  },
+  "Sports Culture and Fandom": {
+   "Fan Clubs and Supporter Groups": [
+     "Ultras and Hooligans (Soccer Fan Groups)",
+     "Official Team Supporters’ Clubs",
+     "Fan-Made Content (e.g., Blogs, YouTube Channels)",
+     "Local Community Fan Groups",
+     "Digital Fan Groups on Social Media"
+   ],
+   "Sports Rivalries and Derbies": [
+     "El Clásico (Real Madrid vs. Barcelona)",
+     "The Ashes (England vs. Australia - Cricket)",
+     "Super Bowl Rivalries",
+     "Yankees vs. Red Sox (MLB)",
+     "North London Derby (Arsenal vs. Tottenham)"
+   ],
+   "Memorabilia and Collectibles": [
+     "Sports Trading Cards (e.g., Panini, Topps)",
+     "Signed Jerseys and Equipment",
+     "Limited Edition Merchandise",
+     "Virtual Memorabilia (e.g., NFTs)",
+     "Stadium Seat Collectibles"
+   ],
+   "Sports Bars and Viewing Parties": [
+     "Themed Sports Bars (e.g., NFL, Soccer Bars)",
+     "Viewing Parties for Major Events (e.g., World Cup Final)",
+     "Tailgate Parties",
+     "Sports Restaurant Chains (e.g., Buffalo Wild Wings)",
+     "Fan Zone Viewing Areas in Cities"
+   ],
+   "Cultural Significance of Sports in Different Countries": [
+     "Cricket in India",
+     "Rugby in New Zealand",
+     "Soccer in Brazil",
+     "American Football in the USA",
+     "Sumo Wrestling in Japan",
+     "Ice Hockey in Canada"
+   ]
+ },
+ "Olympic and International Sports": {
+    "Summer and Winter Olympic Sports": {
+      "Summer Olympics": [
+        "Athletics (Track and Field)",
+        "Swimming",
+        "Gymnastics (Artistic, Rhythmic, Trampoline)",
+        "Basketball (Men's and Women's)",
+        "Soccer (Football)",
+        "Tennis",
+        "Volleyball (Indoor and Beach)",
+        "Boxing",
+        "Judo",
+        "Wrestling (Freestyle and Greco-Roman)",
+        "Cycling (Track, Road, BMX, Mountain Biking)",
+        "Equestrian Events (Dressage, Show Jumping, Eventing)",
+        "Skateboarding",
+        "Surfing",
+        "Karate",
+        "Archery",
+        "Fencing",
+        "Weightlifting",
+        "Rowing",
+        "Sailing"
+      ],
+      "Winter Olympics": [
+        "Alpine Skiing",
+        "Cross-Country Skiing",
+        "Snowboarding (Halfpipe, Slopestyle)",
+        "Ice Hockey",
+        "Figure Skating",
+        "Speed Skating",
+        "Luge",
+        "Skeleton",
+        "Bobsleigh",
+        "Curling",
+        "Biathlon",
+        "Ski Jumping",
+        "Nordic Combined"
+      ]
+    },
+    "Paralympic Games": [
+      "Wheelchair Basketball",
+      "Goalball",
+      "Boccia",
+      "Para Swimming",
+      "Para Athletics (e.g., Track and Field)",
+      "Wheelchair Rugby",
+      "Para Powerlifting",
+      "Para Alpine Skiing",
+      "Para Cycling (Track and Road)"
+    ],
+    "Commonwealth Games": [
+      "Athletics",
+      "Swimming",
+      "Badminton",
+      "Lawn Bowls",
+      "Rugby Sevens",
+      "Netball",
+      "Weightlifting",
+      "Boxing",
+      "Field Hockey",
+      "Squash"
+    ],
+    "Regional Competitions": [
+      "Asian Games",
+      "Pan American Games",
+      "African Games",
+      "European Games",
+      "Central American and Caribbean Games",
+      "South East Asian (SEA) Games"
+    ],
+    "National Sports Federations and Committees": [
+      "United States Olympic & Paralympic Committee (USOPC)",
+      "Russian Olympic Committee (ROC)",
+      "British Olympic Association (BOA)",
+      "Indian Olympic Association (IOA)",
+      "Chinese Olympic Committee",
+      "Australian Olympic Committee"
+    ]
+  },
+  "Sports Science and Medicine": {
+    "Sports Injury Prevention and Treatment": [
+      "Physical Conditioning Programs",
+      "Concussion Protocols",
+      "Stretching and Flexibility Exercises",
+      "Kinesiology Taping",
+      "Sports Injury Clinics"
+    ],
+    "Physical Therapy and Rehabilitation": [
+      "Physiotherapy for Athletes",
+      "Post-Injury Rehab Programs",
+      "Hydrotherapy",
+      "Cryotherapy",
+      "Massage Therapy"
+    ],
+    "Nutrition and Dietary Supplements for Athletes": [
+      "Performance Nutrition (e.g., Macronutrient Balancing)",
+      "Protein Supplements",
+      "Hydration Strategies (e.g., Electrolyte Drinks)",
+      "Carbohydrate Loading",
+      "Vitamins and Minerals for Recovery"
+    ],
+    "Performance Analytics and Biomechanics": [
+      "Motion Capture Analysis",
+      "Biomechanical Testing",
+      "Wearable Technology (e.g., GPS Trackers, Heart Rate Monitors)",
+      "Athlete Performance Data Analytics",
+      "VO2 Max Testing"
+    ],
+    "Mental Health in Sports": [
+      "Sports Psychology Counseling",
+      "Mental Resilience Training",
+      "Stress Management Techniques",
+      "Dealing with Performance Anxiety",
+      "Counseling for Injured Athletes"
+    ]
+  },
+  "Sports Technology and Innovation": {
+    "Wearable Fitness Technology": [
+      "Smartwatches (e.g., Apple Watch, Garmin)",
+      "Heart Rate Monitors",
+      "GPS Fitness Trackers",
+      "Smart Insoles",
+      "Performance Analysis Sensors"
+    ],
+    "Data Analytics in Sports Performance": [
+      "Player Performance Metrics (e.g., Speed, Distance)",
+      "Team Strategy Analytics",
+      "Predictive Analytics for Injury Prevention",
+      "Video Analysis Tools (e.g., Hudl, Dartfish)",
+      "AI and Machine Learning in Performance Analysis"
+    ],
+    "Virtual Coaching and Training Apps": [
+      "Training Apps (e.g., Strava, MyFitnessPal)",
+      "AI Personal Trainers (e.g., Freeletics)",
+      "Live Virtual Coaching Sessions",
+      "Interactive Home Fitness Systems (e.g., Peloton)",
+      "Digital Yoga Instructors"
+    ],
+    "Stadium Technology": [
+      "LED Screens and Digital Scoreboards",
+      "Smart Seating and Ticketing Systems",
+      "Fan Engagement Apps",
+      "High-Speed WiFi in Stadiums",
+      "Augmented Reality for Fan Experiences"
+    ],
+    "Innovations in Equipment and Gear": [
+      "Lightweight and Durable Sports Materials",
+      "Smart Basketballs and Soccer Balls",
+      "Adjustable Resistance Training Equipment",
+      "Sports-Specific Footwear Technology",
+      "Advanced Protective Gear (e.g., Helmets, Pads)"
+    ]
+  },
+  "Sports Business and Management": {
+    "Sponsorships and Endorsements": [
+      "Corporate Sponsorship Deals (e.g., Nike, Adidas)",
+      "Personal Endorsements by Athletes",
+      "Naming Rights for Stadiums",
+      "Event Sponsorship (e.g., Olympic Partners)",
+      "Product Placement in Sports Media"
+    ],
+    "Sports Marketing and Branding": [
+      "Branding of Sports Teams",
+      "Merchandise Sales",
+      "Athlete Personal Branding",
+      "Social Media Marketing Campaigns",
+      "Experiential Marketing Events (e.g., Fan Meet-and-Greet)"
+    ],
+    "Athlete Management and Representation": [
+      "Sports Agents",
+      "Contract Negotiation",
+      "PR and Image Management",
+      "Legal Representation for Athletes",
+      "Financial Advising for Athletes"
+    ],
+    "Sports Franchises and Ownership": [
+      "Franchise Valuation (e.g., NFL, NBA Teams)",
+      "Ownership Structures",
+      "Team Relocation and Expansion",
+      "Collective Bargaining Agreements",
+      "Public vs. Private Ownership Models"
+    ],
+    "Ticketing and Fan Engagement": [
+      "Ticket Sales and Season Passes",
+      "VIP and Hospitality Packages",
+      "Mobile Ticketing Solutions",
+      "Fan Engagement Apps and Contests",
+      "Loyalty Programs for Supporters"
+    ]
+  },
+  "Sports and Society": {
+    "Gender Equality in Sports": [
+      "Women's Sports Leagues (e.g., WNBA, NWSL)",
+      "Equal Pay Campaigns (e.g., US Women's Soccer Team)",
+      "Prominent Female Athletes (e.g., Serena Williams, Simone Biles)",
+      "Title IX (USA)",
+      "Women's Participation in the Olympics"
+    ],
+    "Racial and Social Justice in Sports": [
+      "Black Lives Matter Protests in Sports",
+      "Athletes as Advocates (e.g., Colin Kaepernick)",
+      "Anti-Discrimination Campaigns",
+      "Representation of Minorities in Coaching and Management",
+      "Campaigns Against Racism (e.g., Kick It Out in Soccer)"
+    ],
+    "Sports Diplomacy and International Relations": [
+      "Ping-Pong Diplomacy (China-USA Relations)",
+      "Olympic Truce",
+      "Goodwill Games",
+      "Sports Exchanges Between Nations",
+      "International Friendlies (Soccer) as Diplomatic Tools"
+    ],
+    "Sports as a Tool for Social Change": [
+      "Programs for Underprivileged Youth",
+      "Grassroots Development Initiatives",
+      "Peace Through Sport Programs",
+      "Refugee Olympic Team",
+      "Community Building Through Local Sports"
+    ],
+    "Inclusivity in Sports": [
+      "Adaptive Sports for Individuals with Disabilities",
+      "LGBTQ+ Representation in Sports",
+      "Pride Games and Inclusive Sports Events",
+      "Initiatives to Promote Sports for All",
+      "Transgender Athlete Rights and Participation"
+    ]
+  },
+  "Sports History and Heritage": {
+    "Evolution of Major Sports": [
+      "History of Soccer (e.g., From Folk Games to FIFA)",
+      "Origins of Baseball in America",
+      "Evolution of Basketball (James Naismith to NBA)",
+      "Development of Rugby (Union and League)",
+      "History of Ice Hockey"
+    ],
+    "Hall of Fame and Iconic Athletes": [
+      "International Tennis Hall of Fame",
+      "Basketball Hall of Fame (e.g., Michael Jordan, Kobe Bryant)",
+      "FIFA Hall of Fame",
+      "Boxing Greats (e.g., Muhammad Ali, Mike Tyson)",
+      "Olympic Icons (e.g., Usain Bolt, Michael Phelps)"
+    ],
+    "Historic Matches and Championships": [
+      "The Rumble in the Jungle (Ali vs. Foreman)",
+      "1980 Miracle on Ice (USA vs. USSR)",
+      "2005 UEFA Champions League Final (Liverpool vs. AC Milan)",
+      "Super Bowl XLII (Giants vs. Patriots)",
+      "Wimbledon 2008 Final (Federer vs. Nadal)"
+    ],
+    "Traditional Sports": [
+      "Sumo Wrestling (Japan)",
+      "Kabaddi (India)",
+      "Sepak Takraw (Southeast Asia)",
+      "Highland Games (Scotland)",
+      "Hurling (Ireland)"
+    ],
+    "Sports Museums and Exhibitions": [
+      "Olympic Museum (Lausanne, Switzerland)",
+      "National Baseball Hall of Fame (Cooperstown, USA)",
+      "FIFA World Football Museum (Zurich, Switzerland)",
+      "World Rugby Museum (Twickenham, England)",
+      "NASCAR Hall of Fame (Charlotte, USA)"
+    ]
+  },
+  "Outdoor and Adventure Sports": {
+    "Water Sports": [
+      "Kayaking (Whitewater, Sea, Flatwater)",
+      "Surfing (Big Wave, Longboard, Shortboard)",
+      "Scuba Diving",
+      "Paddleboarding (SUP)",
+      "Windsurfing",
+      "Jet Skiing",
+      "Wakeboarding",
+      "Sailing",
+      "Rowing (Recreational and Competitive)"
+    ],
+    "Winter Sports": [
+      "Skiing (Alpine, Cross-Country, Freestyle)",
+      "Snowboarding (Slopestyle, Halfpipe)",
+      "Ice Climbing",
+      "Snowmobiling",
+      "Bobsledding",
+      "Snowshoeing",
+      "Ski Jumping"
+    ],
+    "Climbing and Mountaineering": [
+      "Rock Climbing (Traditional, Sport, Bouldering)",
+      "Mountaineering (e.g., Everest Expeditions)",
+      "Ice Climbing",
+      "Indoor Climbing Gyms",
+      "Via Ferrata Routes"
+    ],
+    "Motorsport and Racing": [
+      "Formula 1",
+      "MotoGP",
+      "Rally Racing (e.g., Dakar Rally)",
+      "NASCAR",
+      "Drag Racing",
+      "Endurance Racing (e.g., 24 Hours of Le Mans)",
+      "Motocross"
+    ],
+    "Skateboarding and BMX": [
+      "Skateboarding (Street, Vert)",
+      "BMX (Dirt, Park, Street)",
+      "Freestyle Scooter",
+      "Skateparks and Urban Riding",
+      "Downhill Longboarding"
+    ]
+  },
+  "Combat and Martial Arts": {
+    "Traditional Martial Arts": [
+      "Karate",
+      "Taekwondo",
+      "Judo",
+      "Aikido",
+      "Kung Fu",
+      "Brazilian Jiu-Jitsu",
+      "Capoeira"
+    ],
+    "Mixed Martial Arts (MMA)": [
+      "UFC (Ultimate Fighting Championship)",
+      "Bellator MMA",
+      "ONE Championship",
+      "PFL (Professional Fighters League)",
+      "Cage Fighting Techniques"
+    ],
+    "Boxing and Wrestling": [
+      "Professional Boxing (WBA, WBC)",
+      "Amateur Boxing (Olympics)",
+      "Greco-Roman Wrestling",
+      "Freestyle Wrestling",
+      "WWE (Professional Wrestling Entertainment)"
+    ],
+    "Self-Defense Training": [
+      "Krav Maga",
+      "Muay Thai",
+      "Kickboxing",
+      "Systema",
+      "Personal Defense Classes"
+    ],
+    "Historical Martial Arts": [
+      "Fencing (Foil, Epee, Sabre)",
+      "Kendo (Japanese Sword Fighting)",
+      "HEMA (Historical European Martial Arts)",
+      "Archery (Historical Techniques)",
+      "Gladiatorial Combat (Historical Reenactments)"
+    ]
+  },
+  "Paralympic and Adaptive Sports": {
+    "Adaptive Equipment and Technologies": [
+      "Wheelchairs for Sports (e.g., Racing Wheelchairs, Basketball Wheelchairs)",
+      "Prosthetic Limbs for Running and Jumping",
+      "Tandem Bicycles for Visually Impaired Cyclists",
+      "Adaptive Skis and Sit-Skis",
+      "Assistive Devices for Swimming (e.g., Floatation Belts)"
+    ],
+    "Wheelchair Sports": [
+      "Wheelchair Basketball",
+      "Wheelchair Rugby",
+      "Wheelchair Tennis",
+      "Wheelchair Racing",
+      "Wheelchair Fencing",
+      "Boccia"
+    ],
+    "Special Olympics": [
+      "Unified Sports Programs",
+      "Athletics (Track and Field)",
+      "Swimming",
+      "Bocce",
+      "Table Tennis",
+      "Basketball",
+      "Powerlifting",
+      "Figure Skating",
+      "Floorball"
+    ],
+    "Sports for Visually Impaired Athletes": [
+      "Goalball",
+      "Blind Football (Soccer)",
+      "Visually Impaired Cricket",
+      "Tandem Cycling",
+      "Para Judo",
+      "Adaptive Rowing",
+      "Athletics with Guides"
+    ],
+    "Inclusivity and Awareness Campaigns": [
+      "Paralympic Awareness Initiatives",
+      "Inclusive Sports Days in Schools",
+      "Disability Sports Organizations (e.g., International Paralympic Committee)",
+      "Awareness Campaigns for Adaptive Equipment",
+      "Workshops on Inclusivity in Sports"
+    ]
+  },
+  "Recreational and Lifestyle Sports": {
+    "Casual Sports": [
+      "Bowling",
+      "Darts",
+      "Ping Pong (Table Tennis)",
+      "Cornhole",
+      "Shuffleboard",
+      "Bocce",
+      "Pool (Billiards)"
+    ],
+    "Golfing as a Social Activity": [
+      "Public Golf Courses",
+      "Driving Ranges",
+      "Mini Golf",
+      "Golf Tournaments for Charity",
+      "Topgolf and Entertainment Venues",
+      "Golf Scrambles"
+    ],
+    "Backyard Sports": [
+      "Frisbee",
+      "Badminton",
+      "Croquet",
+      "Horseshoes",
+      "Lawn Bowling",
+      "Spikeball",
+      "Wiffle Ball"
+    ],
+    "Water-Based Recreation": [
+      "Paddleboarding (SUP)",
+      "Kayaking (Recreational)",
+      "Canoeing",
+      "Fishing",
+      "Snorkeling",
+      "Tubing on Rivers",
+      "Jet Skiing for Fun"
+    ],
+    "Seasonal Activities": [
+      "Sledding",
+      "Ice Skating",
+      "Beach Volleyball",
+      "Sandcastle Building Competitions",
+      "Skiing on Vacation",
+      "Snowball Fights",
+      "Seasonal Runs (Turkey Trots, Polar Plunges)"
+    ]
+  },
+  "Sports Governance and Ethics": {
+    "Anti-Doping Regulations": [
+      "World Anti-Doping Agency (WADA) Standards",
+      "Drug Testing in Olympics",
+      "Anti-Doping Policies in Professional Leagues (e.g., MLB, NFL)",
+      "Banned Substances Lists",
+      "Education Programs for Athletes"
+    ],
+    "Fair Play and Sportsmanship": [
+      "Codes of Conduct for Athletes",
+      "Respect Initiatives in Youth Sports",
+      "Fair Play Awards",
+      "Sportsmanship Training Programs",
+      "Anti-Bullying in Sports"
+    ],
+    "Governance Bodies": [
+      "FIFA (Soccer)",
+      "International Olympic Committee (IOC)",
+      "FIBA (International Basketball Federation)",
+      "International Cricket Council (ICC)",
+      "World Rugby",
+      "NCAA (National Collegiate Athletic Association)",
+      "UCI (Union Cycliste Internationale)",
+      "International Boxing Association (IBA)"
+    ],
+    "Corruption and Scandals in Sports": [
+      "FIFA Corruption Scandal",
+      "Doping Scandals (e.g., Lance Armstrong, Russian Athletics)",
+      "Match-Fixing Incidents (e.g., Cricket, Soccer)",
+      "Governance Failures in Major Sports Leagues",
+      "Ethical Breaches by Sports Agents"
+    ],
+    "Player Rights and Advocacy": [
+      "Players' Unions (e.g., NFLPA, NBPA)",
+      "Collective Bargaining Agreements",
+      "Advocating for Mental Health Support",
+      "Financial Rights and Retirement Plans for Athletes",
+      "Campaigns for Athlete Safety (e.g., Concussion Protocols)"
+    ]
+  },
+  "Sports Psychology": {
+    "Motivation and Goal Setting for Athletes": [
+      "SMART Goals in Training",
+      "Visualizing Success Techniques",
+      "Short-term vs. Long-term Goal Setting",
+      "Building Intrinsic Motivation",
+      "Reward Systems for Athletes"
+    ],
+    "Mental Toughness and Resilience": [
+      "Techniques to Build Grit",
+      "Overcoming Failure and Setbacks",
+      "Stress Resilience Training",
+      "Coping Strategies for Performance Pressure",
+      "Growth Mindset in Sports"
+    ],
+    "Managing Performance Anxiety": [
+      "Relaxation Techniques (e.g., Deep Breathing)",
+      "Visualization Exercises",
+      "Pre-Competition Routines",
+      "Mental Rehearsal",
+      "Cognitive Behavioral Therapy for Athletes"
+    ],
+    "Sportsmanship and Attitude": [
+      "Dealing with Defeat Gracefully",
+      "Supporting Teammates and Opponents",
+      "The Role of Leadership in Teams",
+      "Respect for Officials and Rules",
+      "Handling Unfair Play and Cheating"
+    ],
+    "Counseling for Retired Athletes": [
+      "Transitioning to Life After Sports",
+      "Addressing Identity Loss",
+      "Finding New Careers Post-Retirement",
+      "Dealing with Physical Injuries and Chronic Pain",
+      "Peer Support Networks for Former Athletes"
+    ]
+  }
+}
