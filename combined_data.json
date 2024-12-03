@@ -1,0 +1,3193 @@
+{
+    "culture": {
+        "culture": {
+            "Pop Culture": [
+                "Music (e.g., Hip-Hop, Pop, K-Pop, EDM)",
+                "Movies and TV Shows (e.g., streaming platforms, franchises)",
+                "Celebrity Culture (e.g., influencers, actors, musicians)",
+                "Social Media Trends (e.g., TikTok challenges, memes)",
+                "Fashion Trends (e.g., streetwear, haute couture)"
+            ],
+            "Technology and Digital Culture": [
+                "Social Media Platforms (e.g., Instagram, TikTok, Twitter)",
+                "Internet Subcultures (e.g., Reddit communities, fandoms)",
+                "Digital Art and NFTs",
+                "Gaming Culture (e.g., eSports, VR communities)",
+                "Meme Culture and Virality"
+            ],
+            "Social Movements and Activism": [
+                "Feminism (e.g., gender equality, #MeToo)",
+                "LGBTQ+ Rights (e.g., Pride movements, inclusion)",
+                "Environmental Activism (e.g., climate change, sustainability)",
+                "Racial and Ethnic Justice (e.g., Black Lives Matter, anti-discrimination)",
+                "Mental Health Awareness"
+            ],
+            "Globalization and Multiculturalism": [
+                "Cultural Exchange (e.g., food, art, language)",
+                "Immigration and Diaspora Communities",
+                "Fusion Cuisine and Gastronomy",
+                "Cross-cultural Festivals and Celebrations",
+                "Hybrid Cultural Identities"
+            ],
+            "Media and Entertainment": [
+                "Streaming Services (e.g., Netflix, Disney+)",
+                "Podcasting and Digital Storytelling",
+                "Music Streaming and Playlists (e.g., Spotify, Apple Music)",
+                "Influencer Culture (e.g., YouTubers, Twitch streamers)",
+                "News and Citizen Journalism"
+            ],
+            "Art and Literature": [
+                "Modern Art Movements (e.g., street art, installation art)",
+                "Contemporary Literature (e.g., graphic novels, digital publishing)",
+                "Poetry and Spoken Word",
+                "Art Galleries and Exhibitions",
+                "Cultural Festivals (e.g., literary festivals, art biennales)"
+            ],
+            "Fashion and Aesthetics": [
+                "Streetwear and Youth Fashion",
+                "Designer and Luxury Fashion",
+                "Beauty Standards and Cosmetics",
+                "Body Positivity Movement",
+                "Subcultural Fashion (e.g., goth, punk, cosplay)"
+            ],
+            "Language and Communication": [
+                "Slang and Vernacular Evolution (e.g., internet slang, emojis)",
+                "Multilingualism and Language Mixing",
+                "Digital Communication Styles (e.g., texting, voice messages)",
+                "Storytelling in Advertising and Branding",
+                "Translation and Cultural Sensitivity"
+            ],
+            "Identity and Representation": [
+                "Gender Identity and Expression",
+                "Cultural Heritage and Tradition Preservation",
+                "Intersectionality",
+                "Media Representation (e.g., diverse characters, authentic narratives)",
+                "Ethnic and National Pride"
+            ],
+            "Culinary Culture": [
+                "Food Trends (e.g., plant-based diets, fusion cuisine)",
+                "Food Blogging and Influencers",
+                "Cultural Cuisines and Gastronomy",
+                "Cooking Shows and Competitions",
+                "Street Food Culture"
+            ],
+            "Sports and Physical Culture": [
+                "Global Sports (e.g., Olympics, FIFA World Cup)",
+                "Fitness Trends (e.g., yoga, CrossFit, wellness culture)",
+                "Sports as Entertainment (e.g., Super Bowl, Formula 1)",
+                "Extreme Sports and Adventure",
+                "Esports and Virtual Competitions"
+            ],
+            "Religion and Spirituality": [
+                "New Age and Alternative Spirituality",
+                "Religion and Social Issues",
+                "Meditation and Mindfulness Practices",
+                "Religious Diversity and Coexistence",
+                "Sacred Music and Rituals"
+            ],
+            "Work and Professional Culture": [
+                "Gig Economy and Freelancing",
+                "Work-Life Balance and Wellness",
+                "Remote Work and Digital Nomadism",
+                "Corporate Culture and Inclusivity",
+                "Personal Branding and Professional Influence"
+            ],
+            "Education and Learning": [
+                "Lifelong Learning and Online Courses",
+                "Cultural Studies and Ethnic Studies",
+                "Digital Literacy and Information Culture",
+                "School and Campus Culture",
+                "Traditional vs. Progressive Education Models"
+            ],
+            "Health and Wellness": [
+                "Mental Health and Therapy Culture",
+                "Self-Care Practices",
+                "Fitness Trends (e.g., home workouts, body positivity)",
+                "Alternative Medicine and Holistic Health",
+                "Biohacking and Wellness Technologies"
+            ],
+            "Political and Economic Influence": [
+                "Culture Wars (e.g., polarization, generational differences)",
+                "Consumer Culture and Materialism",
+                "Political Correctness and Cancel Culture",
+                "Capitalism and Cultural Production",
+                "Nationalism and Populism"
+            ],
+            "Family and Relationship Dynamics": [
+                "Evolving Family Structures (e.g., chosen family, single-parent households)",
+                "Dating and Relationships (e.g., dating apps, online relationships)",
+                "Parenting Trends (e.g., gentle parenting, homeschooling)",
+                "Intergenerational Relationships",
+                "Friendships and Community Building"
+            ],
+            "Space and Urban Culture": [
+                "Urban vs. Rural Culture",
+                "Architecture and Public Spaces",
+                "Gentrification and Community Displacement",
+                "Urban Street Life (e.g., busking, graffiti)",
+                "Smart Cities and Urban Planning"
+            ],
+            "Tradition vs. Modernity": [
+                "Adapting Traditional Practices in Modern Times",
+                "Heritage Preservation",
+                "Cultural Resistance to Globalization",
+                "Modern Rituals and Celebrations",
+                "Symbolism in Everyday Life"
+            ]
+        }
+    },
+    "sports": {
+        "Professional Sports": {
+            "Major Leagues": [
+                "NFL (National Football League)",
+                "NBA (National Basketball Association)",
+                "MLB (Major League Baseball)",
+                "NHL (National Hockey League)",
+                "MLS (Major League Soccer)",
+                "EPL (English Premier League)",
+                "La Liga (Spain)",
+                "Serie A (Italy)",
+                "Bundesliga (Germany)",
+                "Ligue 1 (France)",
+                "IPL (Indian Premier League - Cricket)",
+                "Australian Football League (AFL)",
+                "CFL (Canadian Football League)",
+                "Nippon Professional Baseball (NPB - Japan)",
+                "KBO League (Korean Baseball Organization)",
+                "Super Rugby (Southern Hemisphere Rugby Union)"
+            ],
+            "International Competitions": [
+                "FIFA World Cup",
+                "UEFA Champions League",
+                "Olympic Games (Summer and Winter)",
+                "ICC Cricket World Cup",
+                "Rugby World Cup",
+                "FIBA Basketball World Cup",
+                "Davis Cup (Tennis)",
+                "Ryder Cup (Golf)",
+                "Tour de France (Cycling)",
+                "World Athletics Championships",
+                "America's Cup (Sailing)",
+                "Paralympic Games",
+                "Commonwealth Games",
+                "Copa America",
+                "Asian Games",
+                "CONCACAF Gold Cup",
+                "Ryder Cup",
+                "Six Nations Championship (Rugby)"
+            ],
+            "Individual Sports": [
+                "Tennis (e.g., Wimbledon, US Open)",
+                "Golf (e.g., The Masters, PGA Tour)",
+                "Boxing (e.g., WBA, WBC)",
+                "Athletics (e.g., Track and Field)",
+                "Swimming (e.g., Freestyle, Backstroke)",
+                "Gymnastics (e.g., Artistic, Rhythmic)",
+                "Martial Arts (e.g., Karate, Judo, Taekwondo)",
+                "Cycling (e.g., Road, Mountain, BMX)",
+                "Fencing (e.g., Foil, Epee, Sabre)",
+                "Skiing (e.g., Alpine, Cross-Country)",
+                "Archery",
+                "Triathlon",
+                "Equestrian Sports (e.g., Dressage, Show Jumping)",
+                "Weightlifting",
+                "Snooker and Billiards",
+                "Figure Skating",
+                "Surfing",
+                "Skateboarding"
+            ],
+            "Team Sports": [
+                "Soccer (Football)",
+                "Basketball",
+                "Cricket",
+                "American Football",
+                "Rugby (Union and League)",
+                "Baseball",
+                "Volleyball",
+                "Ice Hockey",
+                "Field Hockey",
+                "Handball",
+                "Water Polo",
+                "Softball",
+                "Lacrosse",
+                "Ultimate Frisbee",
+                "Netball",
+                "Kabaddi",
+                "Polo"
+            ],
+            "Extreme and Adventure Sports": [
+                "Rock Climbing (e.g., Bouldering, Sport Climbing)",
+                "Surfing (e.g., Big Wave, Longboarding)",
+                "Snowboarding (e.g., Halfpipe, Freestyle)",
+                "Skateboarding (e.g., Street, Vert)",
+                "BMX Biking (e.g., Dirt, Flatland)",
+                "Skydiving",
+                "Paragliding",
+                "BASE Jumping",
+                "Whitewater Rafting",
+                "Windsurfing",
+                "Mountain Biking (e.g., Downhill, Cross Country)",
+                "Parkour",
+                "Kiteboarding",
+                "Cliff Diving",
+                "Caving (Spelunking)"
+            ]
+        },
+        "Amateur and Youth Sports": {
+            "School and College Sports": [
+                "NCAA (National Collegiate Athletic Association)",
+                "High School Football",
+                "College Basketball",
+                "Track and Field Meets",
+                "Inter-School Soccer Competitions",
+                "Swimming Competitions"
+            ],
+            "Community Leagues and Recreational Sports": [
+                "Little League Baseball",
+                "Community Soccer Leagues",
+                "Amateur Basketball Leagues",
+                "Softball Teams",
+                "Recreational Volleyball Clubs",
+                "Adult Kickball Leagues"
+            ],
+            "Grassroots Sports Development": [
+                "Youth Soccer Programs",
+                "Local Tennis Clubs",
+                "Community Rugby Initiatives",
+                "Grassroots Basketball Clinics",
+                "Community Cricket Camps",
+                "Youth Wrestling Programs"
+            ],
+            "Youth Training Programs and Camps": [
+                "Soccer Camps",
+                "Basketball Clinics",
+                "Summer Baseball Camps",
+                "Martial Arts Classes",
+                "Swim Training Programs",
+                "Gymnastics Camps"
+            ],
+            "Family Sports Activities": [
+                "Family Fun Runs",
+                "Backyard Sports (e.g., Badminton, Frisbee)",
+                "Cycling Trips",
+                "Family Hiking Adventures",
+                "Bowling",
+                "Mini Golf",
+                "Roller Skating"
+            ]
+        },
+        "Fitness and Wellness Culture": {
+            "Running and Marathon Events": [
+                "City Marathons (e.g., New York City Marathon, London Marathon)",
+                "Trail Running",
+                "Ultramarathons (e.g., Ultra-Trail du Mont-Blanc)",
+                "5K and 10K Races",
+                "Charity Runs (e.g., Race for the Cure)"
+            ],
+            "Cycling": [
+                "Road Cycling",
+                "Mountain Biking",
+                "BMX",
+                "Indoor Cycling (Spin Classes)",
+                "Cycling Tours (e.g., RAGBRAI)",
+                "Gravel Biking"
+            ],
+            "Yoga and Pilates": [
+                "Hatha Yoga",
+                "Ashtanga Yoga",
+                "Hot Yoga (Bikram)",
+                "Mat Pilates",
+                "Reformer Pilates",
+                "Yin Yoga",
+                "Power Yoga"
+            ],
+            "Gym and Workout Trends": [
+                "CrossFit",
+                "Weightlifting (e.g., Powerlifting, Olympic Lifting)",
+                "Functional Training",
+                "High-Intensity Interval Training (HIIT)",
+                "Group Aerobics",
+                "Bodyweight Training (e.g., Calisthenics)",
+                "Strength Conditioning"
+            ],
+            "Wellness and Recreational Activities": [
+                "Hiking (e.g., Day Hikes, Backpacking)",
+                "Zumba",
+                "Aqua Aerobics",
+                "Dance Fitness (e.g., Hip-Hop Dance, Salsa)",
+                "Tai Chi",
+                "Meditation Retreats"
+            ]
+        },
+        "eSports and Digital Sports": {
+            "Competitive Gaming": [
+                "Dota 2 (e.g., The International)",
+                "League of Legends (e.g., LoL World Championship)",
+                "Fortnite (e.g., Fortnite World Cup)",
+                "Call of Duty (e.g., Call of Duty League)",
+                "Counter-Strike: Global Offensive (e.g., ESL Pro League)",
+                "Overwatch (e.g., Overwatch League)"
+            ],
+            "Streaming Platforms": [
+                "Twitch",
+                "YouTube Gaming",
+                "Facebook Gaming",
+                "Discord Streaming",
+                "Trovo",
+                "Nimo TV"
+            ],
+            "Virtual Reality and Augmented Reality Sports": [
+                "VR Boxing (e.g., Thrill of the Fight)",
+                "Beat Saber",
+                "VR Archery",
+                "AR Basketball (e.g., AR sports games)",
+                "VR Racing Simulators (e.g., Assetto Corsa in VR)",
+                "VR Fitness Apps (e.g., Supernatural, FitXR)",
+                "VR Football (e.g., 2MD VR Football)"
+            ],
+            "Mobile Gaming Tournaments": [
+                "PUBG Mobile (e.g., PUBG Mobile Global Championship)",
+                "Clash Royale (e.g., Clash Royale League)",
+                "Mobile Legends: Bang Bang (e.g., MLBB World Championship)",
+                "Free Fire (e.g., Free Fire World Series)",
+                "Call of Duty Mobile (e.g., COD Mobile Championship)",
+                "Arena of Valor"
+            ],
+            "Fantasy Sports and Online Sports Leagues": [
+                "Fantasy Football (e.g., NFL Fantasy, Fantasy Premier League)",
+                "Fantasy Cricket (e.g., Dream11)",
+                "NBA Fantasy League",
+                "Fantasy Baseball (e.g., ESPN Fantasy Baseball)",
+                "Daily Fantasy Sports Platforms (e.g., DraftKings, FanDuel)",
+                "Fantasy Soccer",
+                "Online Draft Leagues"
+            ]
+        },
+        "Sports Media and Entertainment": {
+            "Broadcasting": [
+                "ESPN",
+                "Sky Sports",
+                "NBC Sports",
+                "FOX Sports",
+                "Eurosport",
+                "beIN Sports",
+                "CBS Sports",
+                "DAZN"
+            ],
+            "Sports Journalism and Analysis": [
+                "Sports Illustrated",
+                "The Athletic",
+                "Bleacher Report",
+                "Analysis Shows (e.g., \"Inside the NBA\")",
+                "Sports Blogs and Websites (e.g., SB Nation, Barstool Sports)",
+                "Local Sports Newspapers"
+            ],
+            "Documentaries and Biopics": [
+                "The Last Dance (Michael Jordan)",
+                "Senna (Formula 1)",
+                "Pele (Soccer)",
+                "Free Solo (Rock Climbing)",
+                "Icarus (Doping in Cycling)",
+                "Ronaldo (Cristiano Ronaldo)",
+                "The Test (Australian Cricket Team)",
+                "Drive to Survive (Formula 1)"
+            ],
+            "Sports Talk Shows and Podcasts": [
+                "Pardon the Interruption",
+                "The Bill Simmons Podcast",
+                "The Pat McAfee Show",
+                "First Take",
+                "Around the Horn",
+                "Men in Blazers",
+                "The Joe Rogan Experience (Sports-related Episodes)",
+                "Jalen & Jacoby"
+            ],
+            "Social Media Presence of Athletes": [
+                "Instagram Accounts (e.g., Cristiano Ronaldo, LeBron James)",
+                "Twitter Engagement (e.g., athletes sharing personal views)",
+                "Athlete YouTube Channels (e.g., Vlogs, Workouts)",
+                "TikTok Challenges by Athletes",
+                "Livestreams on Twitch and Instagram (e.g., Q&A, behind-the-scenes)"
+            ]
+        },
+        "Sports Culture and Fandom": {
+            "Fan Clubs and Supporter Groups": [
+                "Ultras and Hooligans (Soccer Fan Groups)",
+                "Official Team Supporters\u2019 Clubs",
+                "Fan-Made Content (e.g., Blogs, YouTube Channels)",
+                "Local Community Fan Groups",
+                "Digital Fan Groups on Social Media"
+            ],
+            "Sports Rivalries and Derbies": [
+                "El Cl\u00e1sico (Real Madrid vs. Barcelona)",
+                "The Ashes (England vs. Australia - Cricket)",
+                "Super Bowl Rivalries",
+                "Yankees vs. Red Sox (MLB)",
+                "North London Derby (Arsenal vs. Tottenham)"
+            ],
+            "Memorabilia and Collectibles": [
+                "Sports Trading Cards (e.g., Panini, Topps)",
+                "Signed Jerseys and Equipment",
+                "Limited Edition Merchandise",
+                "Virtual Memorabilia (e.g., NFTs)",
+                "Stadium Seat Collectibles"
+            ],
+            "Sports Bars and Viewing Parties": [
+                "Themed Sports Bars (e.g., NFL, Soccer Bars)",
+                "Viewing Parties for Major Events (e.g., World Cup Final)",
+                "Tailgate Parties",
+                "Sports Restaurant Chains (e.g., Buffalo Wild Wings)",
+                "Fan Zone Viewing Areas in Cities"
+            ],
+            "Cultural Significance of Sports in Different Countries": [
+                "Cricket in India",
+                "Rugby in New Zealand",
+                "Soccer in Brazil",
+                "American Football in the USA",
+                "Sumo Wrestling in Japan",
+                "Ice Hockey in Canada"
+            ]
+        },
+        "Olympic and International Sports": {
+            "Summer and Winter Olympic Sports": {
+                "Summer Olympics": [
+                    "Athletics (Track and Field)",
+                    "Swimming",
+                    "Gymnastics (Artistic, Rhythmic, Trampoline)",
+                    "Basketball (Men's and Women's)",
+                    "Soccer (Football)",
+                    "Tennis",
+                    "Volleyball (Indoor and Beach)",
+                    "Boxing",
+                    "Judo",
+                    "Wrestling (Freestyle and Greco-Roman)",
+                    "Cycling (Track, Road, BMX, Mountain Biking)",
+                    "Equestrian Events (Dressage, Show Jumping, Eventing)",
+                    "Skateboarding",
+                    "Surfing",
+                    "Karate",
+                    "Archery",
+                    "Fencing",
+                    "Weightlifting",
+                    "Rowing",
+                    "Sailing"
+                ],
+                "Winter Olympics": [
+                    "Alpine Skiing",
+                    "Cross-Country Skiing",
+                    "Snowboarding (Halfpipe, Slopestyle)",
+                    "Ice Hockey",
+                    "Figure Skating",
+                    "Speed Skating",
+                    "Luge",
+                    "Skeleton",
+                    "Bobsleigh",
+                    "Curling",
+                    "Biathlon",
+                    "Ski Jumping",
+                    "Nordic Combined"
+                ]
+            },
+            "Paralympic Games": [
+                "Wheelchair Basketball",
+                "Goalball",
+                "Boccia",
+                "Para Swimming",
+                "Para Athletics (e.g., Track and Field)",
+                "Wheelchair Rugby",
+                "Para Powerlifting",
+                "Para Alpine Skiing",
+                "Para Cycling (Track and Road)"
+            ],
+            "Commonwealth Games": [
+                "Athletics",
+                "Swimming",
+                "Badminton",
+                "Lawn Bowls",
+                "Rugby Sevens",
+                "Netball",
+                "Weightlifting",
+                "Boxing",
+                "Field Hockey",
+                "Squash"
+            ],
+            "Regional Competitions": [
+                "Asian Games",
+                "Pan American Games",
+                "African Games",
+                "European Games",
+                "Central American and Caribbean Games",
+                "South East Asian (SEA) Games"
+            ],
+            "National Sports Federations and Committees": [
+                "United States Olympic & Paralympic Committee (USOPC)",
+                "Russian Olympic Committee (ROC)",
+                "British Olympic Association (BOA)",
+                "Indian Olympic Association (IOA)",
+                "Chinese Olympic Committee",
+                "Australian Olympic Committee"
+            ]
+        },
+        "Sports Science and Medicine": {
+            "Sports Injury Prevention and Treatment": [
+                "Physical Conditioning Programs",
+                "Concussion Protocols",
+                "Stretching and Flexibility Exercises",
+                "Kinesiology Taping",
+                "Sports Injury Clinics"
+            ],
+            "Physical Therapy and Rehabilitation": [
+                "Physiotherapy for Athletes",
+                "Post-Injury Rehab Programs",
+                "Hydrotherapy",
+                "Cryotherapy",
+                "Massage Therapy"
+            ],
+            "Nutrition and Dietary Supplements for Athletes": [
+                "Performance Nutrition (e.g., Macronutrient Balancing)",
+                "Protein Supplements",
+                "Hydration Strategies (e.g., Electrolyte Drinks)",
+                "Carbohydrate Loading",
+                "Vitamins and Minerals for Recovery"
+            ],
+            "Performance Analytics and Biomechanics": [
+                "Motion Capture Analysis",
+                "Biomechanical Testing",
+                "Wearable Technology (e.g., GPS Trackers, Heart Rate Monitors)",
+                "Athlete Performance Data Analytics",
+                "VO2 Max Testing"
+            ],
+            "Mental Health in Sports": [
+                "Sports Psychology Counseling",
+                "Mental Resilience Training",
+                "Stress Management Techniques",
+                "Dealing with Performance Anxiety",
+                "Counseling for Injured Athletes"
+            ]
+        },
+        "Sports Technology and Innovation": {
+            "Wearable Fitness Technology": [
+                "Smartwatches (e.g., Apple Watch, Garmin)",
+                "Heart Rate Monitors",
+                "GPS Fitness Trackers",
+                "Smart Insoles",
+                "Performance Analysis Sensors"
+            ],
+            "Data Analytics in Sports Performance": [
+                "Player Performance Metrics (e.g., Speed, Distance)",
+                "Team Strategy Analytics",
+                "Predictive Analytics for Injury Prevention",
+                "Video Analysis Tools (e.g., Hudl, Dartfish)",
+                "AI and Machine Learning in Performance Analysis"
+            ],
+            "Virtual Coaching and Training Apps": [
+                "Training Apps (e.g., Strava, MyFitnessPal)",
+                "AI Personal Trainers (e.g., Freeletics)",
+                "Live Virtual Coaching Sessions",
+                "Interactive Home Fitness Systems (e.g., Peloton)",
+                "Digital Yoga Instructors"
+            ],
+            "Stadium Technology": [
+                "LED Screens and Digital Scoreboards",
+                "Smart Seating and Ticketing Systems",
+                "Fan Engagement Apps",
+                "High-Speed WiFi in Stadiums",
+                "Augmented Reality for Fan Experiences"
+            ],
+            "Innovations in Equipment and Gear": [
+                "Lightweight and Durable Sports Materials",
+                "Smart Basketballs and Soccer Balls",
+                "Adjustable Resistance Training Equipment",
+                "Sports-Specific Footwear Technology",
+                "Advanced Protective Gear (e.g., Helmets, Pads)"
+            ]
+        },
+        "Sports Business and Management": {
+            "Sponsorships and Endorsements": [
+                "Corporate Sponsorship Deals (e.g., Nike, Adidas)",
+                "Personal Endorsements by Athletes",
+                "Naming Rights for Stadiums",
+                "Event Sponsorship (e.g., Olympic Partners)",
+                "Product Placement in Sports Media"
+            ],
+            "Sports Marketing and Branding": [
+                "Branding of Sports Teams",
+                "Merchandise Sales",
+                "Athlete Personal Branding",
+                "Social Media Marketing Campaigns",
+                "Experiential Marketing Events (e.g., Fan Meet-and-Greet)"
+            ],
+            "Athlete Management and Representation": [
+                "Sports Agents",
+                "Contract Negotiation",
+                "PR and Image Management",
+                "Legal Representation for Athletes",
+                "Financial Advising for Athletes"
+            ],
+            "Sports Franchises and Ownership": [
+                "Franchise Valuation (e.g., NFL, NBA Teams)",
+                "Ownership Structures",
+                "Team Relocation and Expansion",
+                "Collective Bargaining Agreements",
+                "Public vs. Private Ownership Models"
+            ],
+            "Ticketing and Fan Engagement": [
+                "Ticket Sales and Season Passes",
+                "VIP and Hospitality Packages",
+                "Mobile Ticketing Solutions",
+                "Fan Engagement Apps and Contests",
+                "Loyalty Programs for Supporters"
+            ]
+        },
+        "Sports and Society": {
+            "Gender Equality in Sports": [
+                "Women's Sports Leagues (e.g., WNBA, NWSL)",
+                "Equal Pay Campaigns (e.g., US Women's Soccer Team)",
+                "Prominent Female Athletes (e.g., Serena Williams, Simone Biles)",
+                "Title IX (USA)",
+                "Women's Participation in the Olympics"
+            ],
+            "Racial and Social Justice in Sports": [
+                "Black Lives Matter Protests in Sports",
+                "Athletes as Advocates (e.g., Colin Kaepernick)",
+                "Anti-Discrimination Campaigns",
+                "Representation of Minorities in Coaching and Management",
+                "Campaigns Against Racism (e.g., Kick It Out in Soccer)"
+            ],
+            "Sports Diplomacy and International Relations": [
+                "Ping-Pong Diplomacy (China-USA Relations)",
+                "Olympic Truce",
+                "Goodwill Games",
+                "Sports Exchanges Between Nations",
+                "International Friendlies (Soccer) as Diplomatic Tools"
+            ],
+            "Sports as a Tool for Social Change": [
+                "Programs for Underprivileged Youth",
+                "Grassroots Development Initiatives",
+                "Peace Through Sport Programs",
+                "Refugee Olympic Team",
+                "Community Building Through Local Sports"
+            ],
+            "Inclusivity in Sports": [
+                "Adaptive Sports for Individuals with Disabilities",
+                "LGBTQ+ Representation in Sports",
+                "Pride Games and Inclusive Sports Events",
+                "Initiatives to Promote Sports for All",
+                "Transgender Athlete Rights and Participation"
+            ]
+        },
+        "Sports History and Heritage": {
+            "Evolution of Major Sports": [
+                "History of Soccer (e.g., From Folk Games to FIFA)",
+                "Origins of Baseball in America",
+                "Evolution of Basketball (James Naismith to NBA)",
+                "Development of Rugby (Union and League)",
+                "History of Ice Hockey"
+            ],
+            "Hall of Fame and Iconic Athletes": [
+                "International Tennis Hall of Fame",
+                "Basketball Hall of Fame (e.g., Michael Jordan, Kobe Bryant)",
+                "FIFA Hall of Fame",
+                "Boxing Greats (e.g., Muhammad Ali, Mike Tyson)",
+                "Olympic Icons (e.g., Usain Bolt, Michael Phelps)"
+            ],
+            "Historic Matches and Championships": [
+                "The Rumble in the Jungle (Ali vs. Foreman)",
+                "1980 Miracle on Ice (USA vs. USSR)",
+                "2005 UEFA Champions League Final (Liverpool vs. AC Milan)",
+                "Super Bowl XLII (Giants vs. Patriots)",
+                "Wimbledon 2008 Final (Federer vs. Nadal)"
+            ],
+            "Traditional Sports": [
+                "Sumo Wrestling (Japan)",
+                "Kabaddi (India)",
+                "Sepak Takraw (Southeast Asia)",
+                "Highland Games (Scotland)",
+                "Hurling (Ireland)"
+            ],
+            "Sports Museums and Exhibitions": [
+                "Olympic Museum (Lausanne, Switzerland)",
+                "National Baseball Hall of Fame (Cooperstown, USA)",
+                "FIFA World Football Museum (Zurich, Switzerland)",
+                "World Rugby Museum (Twickenham, England)",
+                "NASCAR Hall of Fame (Charlotte, USA)"
+            ]
+        },
+        "Outdoor and Adventure Sports": {
+            "Water Sports": [
+                "Kayaking (Whitewater, Sea, Flatwater)",
+                "Surfing (Big Wave, Longboard, Shortboard)",
+                "Scuba Diving",
+                "Paddleboarding (SUP)",
+                "Windsurfing",
+                "Jet Skiing",
+                "Wakeboarding",
+                "Sailing",
+                "Rowing (Recreational and Competitive)"
+            ],
+            "Winter Sports": [
+                "Skiing (Alpine, Cross-Country, Freestyle)",
+                "Snowboarding (Slopestyle, Halfpipe)",
+                "Ice Climbing",
+                "Snowmobiling",
+                "Bobsledding",
+                "Snowshoeing",
+                "Ski Jumping"
+            ],
+            "Climbing and Mountaineering": [
+                "Rock Climbing (Traditional, Sport, Bouldering)",
+                "Mountaineering (e.g., Everest Expeditions)",
+                "Ice Climbing",
+                "Indoor Climbing Gyms",
+                "Via Ferrata Routes"
+            ],
+            "Motorsport and Racing": [
+                "Formula 1",
+                "MotoGP",
+                "Rally Racing (e.g., Dakar Rally)",
+                "NASCAR",
+                "Drag Racing",
+                "Endurance Racing (e.g., 24 Hours of Le Mans)",
+                "Motocross"
+            ],
+            "Skateboarding and BMX": [
+                "Skateboarding (Street, Vert)",
+                "BMX (Dirt, Park, Street)",
+                "Freestyle Scooter",
+                "Skateparks and Urban Riding",
+                "Downhill Longboarding"
+            ]
+        },
+        "Combat and Martial Arts": {
+            "Traditional Martial Arts": [
+                "Karate",
+                "Taekwondo",
+                "Judo",
+                "Aikido",
+                "Kung Fu",
+                "Brazilian Jiu-Jitsu",
+                "Capoeira"
+            ],
+            "Mixed Martial Arts (MMA)": [
+                "UFC (Ultimate Fighting Championship)",
+                "Bellator MMA",
+                "ONE Championship",
+                "PFL (Professional Fighters League)",
+                "Cage Fighting Techniques"
+            ],
+            "Boxing and Wrestling": [
+                "Professional Boxing (WBA, WBC)",
+                "Amateur Boxing (Olympics)",
+                "Greco-Roman Wrestling",
+                "Freestyle Wrestling",
+                "WWE (Professional Wrestling Entertainment)"
+            ],
+            "Self-Defense Training": [
+                "Krav Maga",
+                "Muay Thai",
+                "Kickboxing",
+                "Systema",
+                "Personal Defense Classes"
+            ],
+            "Historical Martial Arts": [
+                "Fencing (Foil, Epee, Sabre)",
+                "Kendo (Japanese Sword Fighting)",
+                "HEMA (Historical European Martial Arts)",
+                "Archery (Historical Techniques)",
+                "Gladiatorial Combat (Historical Reenactments)"
+            ]
+        },
+        "Paralympic and Adaptive Sports": {
+            "Adaptive Equipment and Technologies": [
+                "Wheelchairs for Sports (e.g., Racing Wheelchairs, Basketball Wheelchairs)",
+                "Prosthetic Limbs for Running and Jumping",
+                "Tandem Bicycles for Visually Impaired Cyclists",
+                "Adaptive Skis and Sit-Skis",
+                "Assistive Devices for Swimming (e.g., Floatation Belts)"
+            ],
+            "Wheelchair Sports": [
+                "Wheelchair Basketball",
+                "Wheelchair Rugby",
+                "Wheelchair Tennis",
+                "Wheelchair Racing",
+                "Wheelchair Fencing",
+                "Boccia"
+            ],
+            "Special Olympics": [
+                "Unified Sports Programs",
+                "Athletics (Track and Field)",
+                "Swimming",
+                "Bocce",
+                "Table Tennis",
+                "Basketball",
+                "Powerlifting",
+                "Figure Skating",
+                "Floorball"
+            ],
+            "Sports for Visually Impaired Athletes": [
+                "Goalball",
+                "Blind Football (Soccer)",
+                "Visually Impaired Cricket",
+                "Tandem Cycling",
+                "Para Judo",
+                "Adaptive Rowing",
+                "Athletics with Guides"
+            ],
+            "Inclusivity and Awareness Campaigns": [
+                "Paralympic Awareness Initiatives",
+                "Inclusive Sports Days in Schools",
+                "Disability Sports Organizations (e.g., International Paralympic Committee)",
+                "Awareness Campaigns for Adaptive Equipment",
+                "Workshops on Inclusivity in Sports"
+            ]
+        },
+        "Recreational and Lifestyle Sports": {
+            "Casual Sports": [
+                "Bowling",
+                "Darts",
+                "Ping Pong (Table Tennis)",
+                "Cornhole",
+                "Shuffleboard",
+                "Bocce",
+                "Pool (Billiards)"
+            ],
+            "Golfing as a Social Activity": [
+                "Public Golf Courses",
+                "Driving Ranges",
+                "Mini Golf",
+                "Golf Tournaments for Charity",
+                "Topgolf and Entertainment Venues",
+                "Golf Scrambles"
+            ],
+            "Backyard Sports": [
+                "Frisbee",
+                "Badminton",
+                "Croquet",
+                "Horseshoes",
+                "Lawn Bowling",
+                "Spikeball",
+                "Wiffle Ball"
+            ],
+            "Water-Based Recreation": [
+                "Paddleboarding (SUP)",
+                "Kayaking (Recreational)",
+                "Canoeing",
+                "Fishing",
+                "Snorkeling",
+                "Tubing on Rivers",
+                "Jet Skiing for Fun"
+            ],
+            "Seasonal Activities": [
+                "Sledding",
+                "Ice Skating",
+                "Beach Volleyball",
+                "Sandcastle Building Competitions",
+                "Skiing on Vacation",
+                "Snowball Fights",
+                "Seasonal Runs (Turkey Trots, Polar Plunges)"
+            ]
+        },
+        "Sports Governance and Ethics": {
+            "Anti-Doping Regulations": [
+                "World Anti-Doping Agency (WADA) Standards",
+                "Drug Testing in Olympics",
+                "Anti-Doping Policies in Professional Leagues (e.g., MLB, NFL)",
+                "Banned Substances Lists",
+                "Education Programs for Athletes"
+            ],
+            "Fair Play and Sportsmanship": [
+                "Codes of Conduct for Athletes",
+                "Respect Initiatives in Youth Sports",
+                "Fair Play Awards",
+                "Sportsmanship Training Programs",
+                "Anti-Bullying in Sports"
+            ],
+            "Governance Bodies": [
+                "FIFA (Soccer)",
+                "International Olympic Committee (IOC)",
+                "FIBA (International Basketball Federation)",
+                "International Cricket Council (ICC)",
+                "World Rugby",
+                "NCAA (National Collegiate Athletic Association)",
+                "UCI (Union Cycliste Internationale)",
+                "International Boxing Association (IBA)"
+            ],
+            "Corruption and Scandals in Sports": [
+                "FIFA Corruption Scandal",
+                "Doping Scandals (e.g., Lance Armstrong, Russian Athletics)",
+                "Match-Fixing Incidents (e.g., Cricket, Soccer)",
+                "Governance Failures in Major Sports Leagues",
+                "Ethical Breaches by Sports Agents"
+            ],
+            "Player Rights and Advocacy": [
+                "Players' Unions (e.g., NFLPA, NBPA)",
+                "Collective Bargaining Agreements",
+                "Advocating for Mental Health Support",
+                "Financial Rights and Retirement Plans for Athletes",
+                "Campaigns for Athlete Safety (e.g., Concussion Protocols)"
+            ]
+        },
+        "Sports Psychology": {
+            "Motivation and Goal Setting for Athletes": [
+                "SMART Goals in Training",
+                "Visualizing Success Techniques",
+                "Short-term vs. Long-term Goal Setting",
+                "Building Intrinsic Motivation",
+                "Reward Systems for Athletes"
+            ],
+            "Mental Toughness and Resilience": [
+                "Techniques to Build Grit",
+                "Overcoming Failure and Setbacks",
+                "Stress Resilience Training",
+                "Coping Strategies for Performance Pressure",
+                "Growth Mindset in Sports"
+            ],
+            "Managing Performance Anxiety": [
+                "Relaxation Techniques (e.g., Deep Breathing)",
+                "Visualization Exercises",
+                "Pre-Competition Routines",
+                "Mental Rehearsal",
+                "Cognitive Behavioral Therapy for Athletes"
+            ],
+            "Sportsmanship and Attitude": [
+                "Dealing with Defeat Gracefully",
+                "Supporting Teammates and Opponents",
+                "The Role of Leadership in Teams",
+                "Respect for Officials and Rules",
+                "Handling Unfair Play and Cheating"
+            ],
+            "Counseling for Retired Athletes": [
+                "Transitioning to Life After Sports",
+                "Addressing Identity Loss",
+                "Finding New Careers Post-Retirement",
+                "Dealing with Physical Injuries and Chronic Pain",
+                "Peer Support Networks for Former Athletes"
+            ]
+        }
+    },
+    "politics": {
+        "politics": {
+            "Political Ideologies": {
+                "Liberalism": [
+                    "Classical Liberalism",
+                    "Social Liberalism",
+                    "Neoliberalism",
+                    "Libertarianism"
+                ],
+                "Conservatism": [
+                    "Traditional Conservatism",
+                    "Neoconservatism",
+                    "Fiscal Conservatism",
+                    "Social Conservatism"
+                ],
+                "Socialism": [
+                    "Democratic Socialism",
+                    "Marxism",
+                    "Trotskyism",
+                    "Syndicalism"
+                ],
+                "Communism": [
+                    "Marxist-Leninism",
+                    "Maoism",
+                    "Stalinism",
+                    "Council Communism"
+                ],
+                "Fascism": [
+                    "Italian Fascism",
+                    "Neo-Fascism",
+                    "National Socialism"
+                ],
+                "Anarchism": [
+                    "Anarcho-Communism",
+                    "Anarcho-Syndicalism",
+                    "Anarcho-Capitalism"
+                ],
+                "Environmentalism": [
+                    "Green Politics",
+                    "Eco-Socialism",
+                    "Deep Ecology"
+                ],
+                "Nationalism": [
+                    "Civic Nationalism",
+                    "Ethnic Nationalism",
+                    "Populist Nationalism"
+                ],
+                "Libertarianism": [
+                    "Left-Libertarianism",
+                    "Right-Libertarianism",
+                    "Anarcho-Capitalism"
+                ],
+                "Monarchism": [
+                    "Absolute Monarchism",
+                    "Constitutional Monarchism"
+                ]
+            },
+            "Political Systems and Governance": {
+                "Democracy": [
+                    "Direct Democracy",
+                    "Representative Democracy",
+                    "Liberal Democracy",
+                    "Participatory Democracy"
+                ],
+                "Authoritarianism": [
+                    "Absolute Monarchy",
+                    "Military Dictatorship",
+                    "One-Party State",
+                    "Totalitarianism"
+                ],
+                "Republic": [
+                    "Federal Republic",
+                    "Parliamentary Republic",
+                    "Presidential Republic"
+                ],
+                "Monarchy": [
+                    "Absolute Monarchy",
+                    "Constitutional Monarchy"
+                ],
+                "Federalism": [
+                    "Asymmetric Federalism",
+                    "Cooperative Federalism",
+                    "Competitive Federalism"
+                ],
+                "Confederalism": [
+                    "Confederation of States",
+                    "Loose Alliances"
+                ],
+                "Theocracy": [
+                    "Islamic Theocracy",
+                    "Religious Oligarchy"
+                ],
+                "Anarchy": [
+                    "Stateless Societies",
+                    "Communal Governance"
+                ],
+                "Oligarchy": [
+                    "Plutocracy",
+                    "Aristocracy",
+                    "Corporatocracy"
+                ]
+            },
+            "Branches of Government": {
+                "Executive Branch": [
+                    "Head of State (e.g., President, Monarch)",
+                    "Head of Government (e.g., Prime Minister)",
+                    "Executive Agencies",
+                    "Cabinet Ministers"
+                ],
+                "Legislative Branch": [
+                    "Unicameral Legislature",
+                    "Bicameral Legislature",
+                    "Parliamentary Committees",
+                    "Lawmaking Process"
+                ],
+                "Judicial Branch": [
+                    "Supreme Court",
+                    "Constitutional Courts",
+                    "Lower Courts",
+                    "Administrative Tribunals"
+                ],
+                "Bureaucracy": [
+                    "Civil Services",
+                    "Government Agencies",
+                    "Regulatory Bodies"
+                ]
+            },
+            "Political Participation": {
+                "Elections": [
+                    "General Elections",
+                    "Midterm Elections",
+                    "Local Elections",
+                    "Primary Elections",
+                    "Referendums"
+                ],
+                "Political Parties": [
+                    "Major Political Parties",
+                    "Minor Parties and Independents",
+                    "Coalition Politics",
+                    "Party Manifestos"
+                ],
+                "Campaigns and Elections": [
+                    "Campaign Finance",
+                    "Electoral Strategies",
+                    "Debates and Rallies",
+                    "Media Influence"
+                ],
+                "Voting Systems": [
+                    "First-Past-The-Post (FPTP)",
+                    "Proportional Representation",
+                    "Ranked-Choice Voting",
+                    "Mixed-Member Proportional"
+                ],
+                "Activism and Advocacy": [
+                    "Grassroots Movements",
+                    "Protests and Demonstrations",
+                    "Lobbying",
+                    "Civil Disobedience"
+                ],
+                "Interest Groups": [
+                    "Business Interest Groups",
+                    "Labor Unions",
+                    "Environmental Groups",
+                    "Identity-Based Advocacy Groups"
+                ]
+            },
+            "Political Institutions and Actors": {
+                "Political Parties": [
+                    "Right-Wing Parties",
+                    "Left-Wing Parties",
+                    "Centrist Parties",
+                    "Regional and Minority Parties"
+                ],
+                "Pressure Groups": [
+                    "Advocacy Groups",
+                    "Trade Unions",
+                    "Lobby Groups",
+                    "Public Interest Groups"
+                ],
+                "International Organizations": [
+                    "United Nations (UN)",
+                    "North Atlantic Treaty Organization (NATO)",
+                    "European Union (EU)",
+                    "International Monetary Fund (IMF)",
+                    "World Bank"
+                ],
+                "Non-Governmental Organizations (NGOs)": [
+                    "Human Rights Organizations",
+                    "Environmental NGOs",
+                    "Humanitarian Organizations",
+                    "Development NGOs"
+                ]
+            },
+            "Public Policy": {
+                "Economic Policy": [
+                    "Fiscal Policy",
+                    "Monetary Policy",
+                    "Taxation Policy",
+                    "Trade Policy"
+                ],
+                "Social Policy": [
+                    "Welfare Programs",
+                    "Healthcare Policy",
+                    "Education Policy",
+                    "Housing Policy"
+                ],
+                "Foreign Policy": [
+                    "Diplomacy",
+                    "International Trade Agreements",
+                    "Military Alliances",
+                    "Foreign Aid"
+                ],
+                "Environmental Policy": [
+                    "Climate Change Policy",
+                    "Pollution Control",
+                    "Natural Resource Management",
+                    "Energy Policy"
+                ],
+                "Law and Order": [
+                    "Policing Policy",
+                    "Criminal Justice System",
+                    "Drug Policy",
+                    "National Security Policy"
+                ]
+            },
+            "International Relations": {
+                "Foreign Policy and Diplomacy": [
+                    "Bilateral Relations",
+                    "Multilateral Relations",
+                    "Embassies and Consulates",
+                    "Diplomatic Immunity"
+                ],
+                "International Law": [
+                    "Treaties and Agreements",
+                    "International Human Rights Law",
+                    "Law of the Sea",
+                    "War Crimes and Tribunals"
+                ],
+                "Geopolitics": [
+                    "Regional Conflicts",
+                    "Power Blocs (e.g., NATO, BRICS)",
+                    "Balance of Power",
+                    "Sphere of Influence"
+                ],
+                "Global Governance": [
+                    "United Nations (UN)",
+                    "International Monetary Fund (IMF)",
+                    "World Trade Organization (WTO)",
+                    "International Criminal Court (ICC)"
+                ]
+            },
+            "Political Theory and Philosophy": {
+                "Classical Political Theory": [
+                    "Plato's Philosophy",
+                    "Aristotle's Political Theory",
+                    "Machiavellianism",
+                    "Hobbesian Theory"
+                ],
+                "Modern Political Theory": [
+                    "Utilitarianism (Bentham, Mill)",
+                    "Marxism and Class Struggle",
+                    "Social Contract Theory (Locke, Rousseau)",
+                    "Realism vs. Liberalism in International Relations"
+                ],
+                "Contemporary Political Theory": [
+                    "Post-Colonialism",
+                    "Feminist Political Theory",
+                    "Environmental Political Theory",
+                    "Identity Politics"
+                ]
+            },
+            "Political Economy": {
+                "Capitalism": [
+                    "Free Market Economy",
+                    "Mixed Economy",
+                    "Laissez-Faire Policies"
+                ],
+                "Socialism and State Control": [
+                    "Planned Economy",
+                    "Nationalization",
+                    "Welfare State"
+                ],
+                "Globalization": [
+                    "Free Trade Agreements",
+                    "Multinational Corporations",
+                    "Trade Liberalization",
+                    "Anti-Globalization Movements"
+                ],
+                "Economic Inequality": [
+                    "Wealth Distribution",
+                    "Universal Basic Income (UBI)",
+                    "Labor Rights",
+                    "Corporate Power and Influence"
+                ]
+            },
+            "Rights and Freedoms": {
+                "Human Rights": [
+                    "Universal Declaration of Human Rights",
+                    "Civil Rights",
+                    "Economic, Social, and Cultural Rights",
+                    "Minority Rights"
+                ],
+                "Civil Liberties": [
+                    "Freedom of Speech",
+                    "Freedom of Assembly",
+                    "Freedom of Religion",
+                    "Right to Privacy"
+                ],
+                "Political Rights": [
+                    "Right to Vote",
+                    "Right to Run for Office",
+                    "Right to Protest",
+                    "Freedom of Political Association"
+                ],
+                "Women's Rights": [
+                    "Gender Equality",
+                    "Reproductive Rights",
+                    "Political Representation",
+                    "Protection Against Gender-Based Violence"
+                ]
+            },
+            "Geopolitics and Regional Politics": {
+                "Regional Politics": [
+                    "European Politics",
+                    "Middle Eastern Politics",
+                    "Asian Politics",
+                    "African Politics",
+                    "Latin American Politics"
+                ],
+                "Regional Conflicts": [
+                    "Israeli-Palestinian Conflict",
+                    "Kashmir Dispute",
+                    "South China Sea Dispute",
+                    "Ukraine Conflict"
+                ],
+                "Global Power Dynamics": [
+                    "US-China Relations",
+                    "Russia and Eastern Europe",
+                    "Emerging Powers (e.g., India, Brazil)",
+                    "Colonial Legacy and Its Impact"
+                ]
+            },
+            "Electoral Systems and Reforms": {
+                "Types of Electoral Systems": [
+                    "Proportional Representation",
+                    "Majoritarian Systems",
+                    "Mixed Electoral Systems"
+                ],
+                "Electoral Fraud and Integrity": [
+                    "Gerrymandering",
+                    "Voter Suppression",
+                    "Ballot Security"
+                ],
+                "Electoral Reform Movements": [
+                    "Campaign Finance Reform",
+                    "Ranked-Choice Voting Adoption",
+                    "Automatic Voter Registration",
+                    "Term Limits for Politicians"
+                ]
+            },
+            "Political Issues and Debates": {
+                "Climate Change": [
+                    "Carbon Tax",
+                    "Renewable Energy Policies",
+                    "International Climate Agreements"
+                ],
+                "Healthcare": [
+                    "Universal Healthcare",
+                    "Privatization of Healthcare",
+                    "Pharmaceutical Regulation"
+                ],
+                "Immigration": [
+                    "Border Security",
+                    "Refugee Rights",
+                    "Immigration Reform",
+                    "Citizenship Pathways"
+                ],
+                "Gun Control": [
+                    "Second Amendment (USA)",
+                    "Licensing and Background Checks",
+                    "Assault Weapons Ban"
+                ],
+                "Social Justice": [
+                    "Racial Equality",
+                    "LGBTQ+ Rights",
+                    "Economic Redistribution",
+                    "Criminal Justice Reform"
+                ]
+            },
+            "Corruption and Transparency": {
+                "Types of Corruption": [
+                    "Political Bribery",
+                    "Embezzlement",
+                    "Nepotism",
+                    "Cronyism"
+                ],
+                "Anti-Corruption Measures": [
+                    "Whistleblower Protections",
+                    "Transparency International",
+                    "Anti-Corruption Agencies",
+                    "Open Government Initiatives"
+                ],
+                "Political Accountability": [
+                    "Impeachment Procedures",
+                    "Public Financial Disclosures",
+                    "Ethics Committees",
+                    "Investigative Journalism"
+                ]
+            },
+            "Military and Defense Policy": {
+                "Defense Spending": [
+                    "Military Budgets",
+                    "Defense Procurement",
+                    "Private Military Contractors"
+                ],
+                "Military Alliances": [
+                    "NATO",
+                    "Mutual Defense Treaties",
+                    "Regional Defense Pacts"
+                ],
+                "Use of Force": [
+                    "Rules of Engagement",
+                    "Preemptive Strike Doctrine",
+                    "Humanitarian Interventions",
+                    "Cyber Warfare"
+                ],
+                "Veterans Affairs": [
+                    "Veterans' Benefits",
+                    "PTSD and Mental Health Support",
+                    "Reintegration Programs",
+                    "Veterans' Political Influence"
+                ]
+            },
+            "Media and Politics": {
+                "Role of Media in Politics": [
+                    "State-Controlled Media",
+                    "Independent Journalism",
+                    "Media Censorship",
+                    "Propaganda Techniques"
+                ],
+                "Social Media and Politics": [
+                    "Social Media Campaigning",
+                    "Fake News and Misinformation",
+                    "Political Influencers",
+                    "Digital Activism"
+                ],
+                "Freedom of Press": [
+                    "Press Freedom Index",
+                    "Journalist Protections",
+                    "Government Surveillance",
+                    "Press as the Fourth Estate"
+                ]
+            },
+            "Political Leadership and Elites": {
+                "Types of Political Leaders": [
+                    "Charismatic Leaders",
+                    "Bureaucratic Leaders",
+                    "Autocratic Leaders",
+                    "Democratic Leaders"
+                ],
+                "Political Elites": [
+                    "Economic Elites",
+                    "Cultural Elites",
+                    "Political Dynasties",
+                    "Technocrats"
+                ],
+                "Leadership Styles": [
+                    "Transformational Leadership",
+                    "Transactional Leadership",
+                    "Authoritarian Leadership",
+                    "Participative Leadership"
+                ],
+                "Power Dynamics": [
+                    "Power Consolidation",
+                    "Succession Planning",
+                    "Leadership Challenges",
+                    "Crisis Management"
+                ],
+                "Impact of Political Leadership": [
+                    "Economic Development",
+                    "Social Reforms",
+                    "Foreign Policy Decisions",
+                    "Conflict Resolution"
+                ]
+            },
+            "Political Conflicts and Revolutions": {
+                "Historical Revolutions": [
+                    "French Revolution",
+                    "American Revolution",
+                    "Russian Revolution",
+                    "Cuban Revolution"
+                ],
+                "Modern Political Conflicts": [
+                    "Arab Spring",
+                    "Hong Kong Protests",
+                    "Syrian Civil War",
+                    "Sudan Conflict"
+                ],
+                "Causes of Political Conflict": [
+                    "Economic Inequality",
+                    "Ethnic Tensions",
+                    "Religious Differences",
+                    "Colonial Legacies"
+                ],
+                "Types of Political Conflict": [
+                    "Civil Wars",
+                    "Revolts",
+                    "Coups d'\u00e9tat",
+                    "Separatist Movements"
+                ],
+                "Revolutionary Movements": [
+                    "Guerrilla Warfare",
+                    "Insurgencies",
+                    "Non-Violent Resistance",
+                    "Peasant Revolts"
+                ]
+            },
+            "Political Parties and Party Systems": {
+                "Types of Political Parties": [
+                    "Mass Parties",
+                    "Cadre Parties",
+                    "Catch-All Parties",
+                    "Single-Issue Parties"
+                ],
+                "Party Systems": [
+                    "One-Party System",
+                    "Two-Party System",
+                    "Multi-Party System",
+                    "Dominant-Party System"
+                ],
+                "Party Organization": [
+                    "National Committees",
+                    "Local Chapters",
+                    "Party Membership",
+                    "Party Leadership"
+                ],
+                "Party Functions": [
+                    "Candidate Nomination",
+                    "Policy Formulation",
+                    "Mobilizing Voters",
+                    "Representing Interests"
+                ],
+                "Coalition Politics": [
+                    "Government Coalitions",
+                    "Opposition Alliances",
+                    "Power Sharing Agreements",
+                    "Coalition Breakdowns"
+                ]
+            },
+            "Political Corruption and Accountability": {
+                "Forms of Political Corruption": [
+                    "Bribery",
+                    "Embezzlement",
+                    "Clientelism",
+                    "Influence Peddling"
+                ],
+                "Anti-Corruption Strategies": [
+                    "Whistleblower Protections",
+                    "Independent Anti-Corruption Agencies",
+                    "Public Sector Transparency",
+                    "Open Government Data"
+                ],
+                "Accountability Mechanisms": [
+                    "Checks and Balances",
+                    "Judicial Oversight",
+                    "Legislative Committees",
+                    "Auditing and Reporting"
+                ],
+                "International Anti-Corruption Efforts": [
+                    "United Nations Convention Against Corruption",
+                    "Transparency International",
+                    "OECD Anti-Bribery Convention",
+                    "Global Integrity Index"
+                ],
+                "Political Scandals": [
+                    "Watergate Scandal",
+                    "Panama Papers",
+                    "Operation Car Wash (Brazil)",
+                    "Impeachment Cases"
+                ]
+            },
+            "Political Socialization and Culture": {
+                "Agents of Political Socialization": [
+                    "Family",
+                    "Education System",
+                    "Peer Groups",
+                    "Media"
+                ],
+                "Political Culture Types": [
+                    "Parochial Political Culture",
+                    "Subject Political Culture",
+                    "Participant Political Culture"
+                ],
+                "Influence of Media": [
+                    "Television and Radio",
+                    "Social Media Platforms",
+                    "News Websites",
+                    "Political Advertisements"
+                ],
+                "Role of Education": [
+                    "Civic Education",
+                    "Political Awareness Programs",
+                    "Youth Engagement Initiatives",
+                    "Student Activism"
+                ],
+                "Cultural Factors in Politics": [
+                    "National Identity",
+                    "Religious Beliefs",
+                    "Ethnic Traditions",
+                    "Historical Narratives"
+                ]
+            },
+            "Globalization and Politics": {
+                "Impact of Globalization on Politics": [
+                    "Erosion of Sovereignty",
+                    "Global Governance Structures",
+                    "International Trade Agreements",
+                    "Cross-Border Migration"
+                ],
+                "Global Political Issues": [
+                    "Climate Change",
+                    "Terrorism",
+                    "Human Trafficking",
+                    "Pandemic Response"
+                ],
+                "International Organizations": [
+                    "United Nations (UN)",
+                    "World Health Organization (WHO)",
+                    "International Monetary Fund (IMF)",
+                    "World Trade Organization (WTO)"
+                ],
+                "Transnational Movements": [
+                    "Environmental Activism",
+                    "Human Rights Advocacy",
+                    "Global Labor Movements",
+                    "Anti-Globalization Protests"
+                ],
+                "Challenges of Globalization": [
+                    "Economic Inequality",
+                    "Cultural Homogenization",
+                    "Political Backlash",
+                    "Nationalism vs. Globalism"
+                ]
+            },
+            "Environmental Politics": {
+                "Environmental Movements": [
+                    "Green Movement",
+                    "Climate Activism",
+                    "Conservation Movements",
+                    "Anti-Pollution Campaigns"
+                ],
+                "Governmental Environmental Policies": [
+                    "Carbon Taxation",
+                    "Renewable Energy Subsidies",
+                    "Deforestation Control",
+                    "Emissions Trading Systems"
+                ],
+                "International Environmental Agreements": [
+                    "Kyoto Protocol",
+                    "Paris Agreement",
+                    "Montreal Protocol",
+                    "Convention on Biological Diversity"
+                ],
+                "Political Parties and the Environment": [
+                    "Green Parties",
+                    "Environmental Platforms in Major Parties",
+                    "Eco-Socialism",
+                    "Climate Denialism"
+                ],
+                "Climate Change Politics": [
+                    "Climate Change Mitigation",
+                    "Adaptation Strategies",
+                    "Global Climate Financing",
+                    "Political Resistance to Climate Action"
+                ]
+            },
+            "Technology and Politics": {
+                "Impact of Technology on Political Campaigns": [
+                    "Social Media Advertising",
+                    "Data Analytics",
+                    "Targeted Political Messaging",
+                    "Digital Campaign Fundraising"
+                ],
+                "E-Government": [
+                    "Online Public Services",
+                    "Digital Identity Verification",
+                    "E-Voting Systems",
+                    "Government Transparency Platforms"
+                ],
+                "Cybersecurity": [
+                    "Election Security",
+                    "Cyber Attacks on Political Institutions",
+                    "Data Protection Regulations",
+                    "Cyber Warfare"
+                ],
+                "Surveillance and Privacy": [
+                    "Mass Surveillance Programs",
+                    "Government Use of AI",
+                    "Citizen Privacy Rights",
+                    "Facial Recognition Technology"
+                ],
+                "Technology's Influence on Political Discourse": [
+                    "Echo Chambers",
+                    "Online Political Radicalization",
+                    "Spread of Fake News",
+                    "Digital Activism and Hashtag Movements"
+                ]
+            }
+        }
+    },
+    "science": {
+        "science": {
+            "Natural Sciences": {
+                "Physics": [
+                    "Classical Mechanics",
+                    "Thermodynamics",
+                    "Electromagnetism",
+                    "Quantum Mechanics",
+                    "Relativity (Special and General)",
+                    "Particle Physics",
+                    "Nuclear Physics",
+                    "Condensed Matter Physics",
+                    "Astrophysics",
+                    "Optics",
+                    "Statistical Physics",
+                    "Computational Physics"
+                ],
+                "Chemistry": [
+                    "Organic Chemistry",
+                    "Inorganic Chemistry",
+                    "Physical Chemistry",
+                    "Analytical Chemistry",
+                    "Biochemistry",
+                    "Theoretical Chemistry",
+                    "Environmental Chemistry",
+                    "Materials Chemistry",
+                    "Electrochemistry",
+                    "Quantum Chemistry"
+                ],
+                "Biology": [
+                    "Molecular Biology",
+                    "Cell Biology",
+                    "Genetics",
+                    "Evolutionary Biology",
+                    "Ecology",
+                    "Zoology",
+                    "Botany",
+                    "Microbiology",
+                    "Physiology",
+                    "Immunology",
+                    "Biophysics",
+                    "Marine Biology",
+                    "Environmental Biology"
+                ],
+                "Earth Sciences": [
+                    "Geology",
+                    "Meteorology",
+                    "Oceanography",
+                    "Climatology",
+                    "Seismology",
+                    "Paleontology",
+                    "Mineralogy",
+                    "Volcanology",
+                    "Hydrology",
+                    "Environmental Geology"
+                ],
+                "Astronomy and Space Sciences": [
+                    "Observational Astronomy",
+                    "Cosmology",
+                    "Astrophysics",
+                    "Stellar Astronomy",
+                    "Planetary Science",
+                    "Space Exploration",
+                    "Radio Astronomy",
+                    "Astrobiology"
+                ],
+                "Environmental Sciences": [
+                    "Environmental Biology",
+                    "Climate Science",
+                    "Environmental Chemistry",
+                    "Conservation Science",
+                    "Environmental Toxicology",
+                    "Natural Resource Management",
+                    "Sustainability Science"
+                ]
+            },
+            "Formal Sciences": {
+                "Mathematics": [
+                    "Algebra",
+                    "Geometry",
+                    "Calculus",
+                    "Probability Theory",
+                    "Statistics",
+                    "Number Theory",
+                    "Topology",
+                    "Differential Equations",
+                    "Discrete Mathematics",
+                    "Linear Algebra",
+                    "Complex Analysis",
+                    "Real Analysis",
+                    "Mathematical Logic"
+                ],
+                "Computer Science": [
+                    "Algorithms and Data Structures",
+                    "Artificial Intelligence",
+                    "Machine Learning",
+                    "Databases",
+                    "Computer Graphics",
+                    "Software Engineering",
+                    "Computer Networks",
+                    "Cryptography",
+                    "Operating Systems",
+                    "Human-Computer Interaction",
+                    "Computational Theory",
+                    "Information Security"
+                ],
+                "Statistics": [
+                    "Descriptive Statistics",
+                    "Inferential Statistics",
+                    "Biostatistics",
+                    "Bayesian Statistics",
+                    "Multivariate Analysis",
+                    "Data Analysis",
+                    "Probability Distributions",
+                    "Regression Analysis"
+                ],
+                "Logic": [
+                    "Symbolic Logic",
+                    "Predicate Logic",
+                    "Mathematical Logic",
+                    "Modal Logic",
+                    "Fuzzy Logic",
+                    "Boolean Algebra"
+                ],
+                "Systems Science": [
+                    "Systems Theory",
+                    "Cybernetics",
+                    "Systems Dynamics",
+                    "Complex Systems",
+                    "Control Theory"
+                ]
+            },
+            "Life Sciences": {
+                "Medicine and Health Sciences": [
+                    "Anatomy",
+                    "Physiology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Internal Medicine",
+                    "Surgery",
+                    "Pediatrics",
+                    "Oncology",
+                    "Psychiatry",
+                    "Neurology",
+                    "Public Health",
+                    "Epidemiology",
+                    "Nutrition",
+                    "Immunology",
+                    "Radiology",
+                    "Medical Genetics"
+                ],
+                "Psychology": [
+                    "Clinical Psychology",
+                    "Cognitive Psychology",
+                    "Behavioral Psychology",
+                    "Developmental Psychology",
+                    "Forensic Psychology",
+                    "Neuropsychology",
+                    "Social Psychology",
+                    "Educational Psychology",
+                    "Industrial-Organizational Psychology",
+                    "Health Psychology"
+                ],
+                "Neuroscience": [
+                    "Cellular Neuroscience",
+                    "Cognitive Neuroscience",
+                    "Systems Neuroscience",
+                    "Behavioral Neuroscience",
+                    "Developmental Neuroscience",
+                    "Neuropharmacology",
+                    "Neuropsychology",
+                    "Computational Neuroscience"
+                ],
+                "Botany and Plant Sciences": [
+                    "Plant Physiology",
+                    "Plant Pathology",
+                    "Plant Taxonomy",
+                    "Ethnobotany",
+                    "Plant Ecology",
+                    "Agronomy",
+                    "Horticulture",
+                    "Plant Genetics"
+                ],
+                "Zoology and Animal Sciences": [
+                    "Vertebrate Zoology",
+                    "Invertebrate Zoology",
+                    "Entomology",
+                    "Herpetology",
+                    "Ornithology",
+                    "Marine Biology",
+                    "Animal Behavior",
+                    "Comparative Physiology",
+                    "Wildlife Biology"
+                ]
+            },
+            "applied_sciences": {
+                "Engineering": [
+                    "Mechanical Engineering",
+                    "Electrical Engineering",
+                    "Civil Engineering",
+                    "Chemical Engineering",
+                    "Aerospace Engineering",
+                    "Computer Engineering",
+                    "Materials Science and Engineering",
+                    "Environmental Engineering",
+                    "Biomedical Engineering",
+                    "Structural Engineering",
+                    "Robotics",
+                    "Control Systems"
+                ],
+                "Agricultural Sciences": [
+                    "Agronomy",
+                    "Soil Science",
+                    "Horticulture",
+                    "Animal Husbandry",
+                    "Agricultural Biotechnology",
+                    "Agricultural Economics",
+                    "Food Science",
+                    "Crop Science",
+                    "Sustainable Agriculture"
+                ],
+                "Architecture and Design": [
+                    "Architectural Design",
+                    "Urban Planning",
+                    "Landscape Architecture",
+                    "Interior Design",
+                    "Industrial Design",
+                    "Sustainable Design",
+                    "Graphic Design",
+                    "Product Design"
+                ],
+                "Health and Medical Technology": [
+                    "Biomedical Devices",
+                    "Medical Imaging",
+                    "Prosthetics",
+                    "Health Informatics",
+                    "Telemedicine",
+                    "Diagnostics",
+                    "Bioinformatics"
+                ]
+            },
+            "humanities": {
+                "History": [
+                    "Ancient History",
+                    "Medieval History",
+                    "Modern History",
+                    "Cultural History",
+                    "Military History",
+                    "Economic History",
+                    "Social History",
+                    "Historiography",
+                    "History of Science and Technology"
+                ],
+                "Philosophy": [
+                    "Metaphysics",
+                    "Epistemology",
+                    "Ethics",
+                    "Logic",
+                    "Political Philosophy",
+                    "Philosophy of Science",
+                    "Aesthetics",
+                    "Existentialism",
+                    "Analytic Philosophy"
+                ],
+                "Linguistics": [
+                    "Phonetics",
+                    "Syntax",
+                    "Semantics",
+                    "Morphology",
+                    "Pragmatics",
+                    "Sociolinguistics",
+                    "Psycholinguistics",
+                    "Applied Linguistics",
+                    "Historical Linguistics"
+                ],
+                "Literature": [
+                    "Classical Literature",
+                    "Modern Literature",
+                    "Comparative Literature",
+                    "Literary Criticism",
+                    "Poetry",
+                    "Drama",
+                    "Fiction",
+                    "Non-fiction",
+                    "World Literature"
+                ],
+                "Religious Studies": [
+                    "Comparative Religion",
+                    "Theology",
+                    "Philosophy of Religion",
+                    "Religious History",
+                    "Anthropology of Religion",
+                    "Eastern Religions",
+                    "Western Religions",
+                    "Mysticism"
+                ],
+                "Arts": [
+                    "Visual Arts",
+                    "Performing Arts",
+                    "Musicology",
+                    "Art History",
+                    "Dance",
+                    "Theatre Studies",
+                    "Film Studies",
+                    "Photography",
+                    "Sculpture",
+                    "Painting",
+                    "Digital Arts"
+                ]
+            },
+            "Interdisciplinary and Emerging Fields": {
+                "Artificial Intelligence and Machine Learning": [
+                    "Neural Networks",
+                    "Natural Language Processing",
+                    "Computer Vision",
+                    "Deep Learning",
+                    "Reinforcement Learning",
+                    "AI Ethics",
+                    "Machine Learning Algorithms",
+                    "Robotics and Automation"
+                ],
+                "Quantum Science and Technology": [
+                    "Quantum Computing",
+                    "Quantum Information Theory",
+                    "Quantum Cryptography",
+                    "Quantum Algorithms",
+                    "Quantum Optics",
+                    "Quantum Simulation",
+                    "Quantum Communication",
+                    "Quantum Materials"
+                ],
+                "Bioinformatics and Computational Biology": [
+                    "Genomics",
+                    "Proteomics",
+                    "Computational Genomics",
+                    "Biological Data Analysis",
+                    "Systems Biology",
+                    "Molecular Modeling",
+                    "Biomedical Informatics",
+                    "Genetic Sequencing"
+                ],
+                "Sustainable Development": [
+                    "Renewable Energy",
+                    "Sustainable Agriculture",
+                    "Circular Economy",
+                    "Environmental Impact Assessment",
+                    "Urban Sustainability",
+                    "Climate Mitigation Strategies",
+                    "Sustainable Business Practices",
+                    "Green Building Technologies"
+                ],
+                "Cognitive and Behavioral Science": [
+                    "Cognitive Neuroscience",
+                    "Behavioral Analysis",
+                    "Experimental Psychology",
+                    "Human-Computer Interaction",
+                    "Social Cognition",
+                    "Cognitive Therapy",
+                    "Decision Sciences",
+                    "Mindfulness Studies"
+                ],
+                "Global Studies": [
+                    "International Development",
+                    "Migration Studies",
+                    "Global Health",
+                    "Cross-Cultural Studies",
+                    "Transnational Movements",
+                    "Global Governance",
+                    "Refugee Studies",
+                    "International Political Economy"
+                ]
+            },
+            "Theoretical and Fundamental Sciences": {
+                "Theoretical Physics": [
+                    "Quantum Field Theory",
+                    "String Theory",
+                    "General Relativity",
+                    "The Standard Model",
+                    "Cosmology",
+                    "Quantum Gravity",
+                    "Particle Physics",
+                    "Black Hole Physics"
+                ],
+                "Mathematical Sciences": [
+                    "Pure Mathematics",
+                    "Applied Mathematics",
+                    "Number Theory",
+                    "Algebraic Geometry",
+                    "Topology",
+                    "Functional Analysis",
+                    "Combinatorics",
+                    "Probability Theory"
+                ],
+                "Philosophy of Science": [
+                    "Scientific Method",
+                    "Empiricism",
+                    "Falsifiability",
+                    "Philosophy of Biology",
+                    "Philosophy of Physics",
+                    "Philosophy of Mathematics",
+                    "Science and Ethics",
+                    "Reductionism vs. Holism"
+                ],
+                "History of Science": [
+                    "Scientific Revolution",
+                    "History of Astronomy",
+                    "History of Medicine",
+                    "Evolution of Scientific Theories",
+                    "Major Scientific Discoveries",
+                    "Science in Ancient Civilizations",
+                    "Technological Advancements",
+                    "Influential Scientists"
+                ]
+            },
+            "Environmental Sciences and Ecology": {
+                "Ecology": [
+                    "Population Ecology",
+                    "Community Ecology",
+                    "Ecosystem Ecology",
+                    "Behavioral Ecology",
+                    "Landscape Ecology",
+                    "Evolutionary Ecology",
+                    "Restoration Ecology",
+                    "Urban Ecology"
+                ],
+                "Environmental Science": [
+                    "Environmental Chemistry",
+                    "Environmental Geology",
+                    "Environmental Toxicology",
+                    "Environmental Impact Assessment",
+                    "Pollution Studies (Air, Water, Soil)",
+                    "Waste Management",
+                    "Environmental Monitoring",
+                    "Environmental Management"
+                ],
+                "Conservation Biology": [
+                    "Biodiversity Conservation",
+                    "Endangered Species Management",
+                    "Conservation Genetics",
+                    "Habitat Restoration",
+                    "Wildlife Conservation",
+                    "Conservation Policy",
+                    "Marine Conservation",
+                    "Invasive Species Control"
+                ],
+                "Climate Science": [
+                    "Climate Change Science",
+                    "Atmospheric Chemistry",
+                    "Paleoclimatology",
+                    "Greenhouse Gases and Global Warming",
+                    "Carbon Sequestration",
+                    "Climate Modeling",
+                    "Renewable Energy and Climate",
+                    "Geoengineering"
+                ],
+                "Earth Sciences": [
+                    "Geology",
+                    "Geophysics",
+                    "Geochemistry",
+                    "Hydrology",
+                    "Meteorology",
+                    "Oceanography",
+                    "Volcanology",
+                    "Seismology"
+                ],
+                "Forestry and Agriculture": [
+                    "Agroecology",
+                    "Sustainable Farming",
+                    "Silviculture",
+                    "Agroforestry",
+                    "Precision Agriculture",
+                    "Soil Science",
+                    "Irrigation Systems",
+                    "Crop Genetics and Breeding"
+                ]
+            },
+            "Social Sciences": {
+                "Sociology": [
+                    "Social Theory",
+                    "Social Stratification",
+                    "Family and Kinship",
+                    "Gender Studies",
+                    "Urban Sociology",
+                    "Sociology of Education",
+                    "Sociology of Religion",
+                    "Cultural Sociology"
+                ],
+                "Anthropology": [
+                    "Cultural Anthropology",
+                    "Physical Anthropology",
+                    "Archaeology",
+                    "Linguistic Anthropology",
+                    "Medical Anthropology",
+                    "Ethnography",
+                    "Anthropology of Religion",
+                    "Visual Anthropology"
+                ],
+                "Psychology": [
+                    "Cognitive Psychology",
+                    "Clinical Psychology",
+                    "Developmental Psychology",
+                    "Social Psychology",
+                    "Behavioral Psychology",
+                    "Industrial and Organizational Psychology",
+                    "Forensic Psychology",
+                    "Neuropsychology"
+                ],
+                "Political Science": [
+                    "Comparative Politics",
+                    "Political Theory",
+                    "International Relations",
+                    "Public Administration",
+                    "Policy Analysis",
+                    "Political Economy",
+                    "Electoral Systems",
+                    "Governmental Structures"
+                ],
+                "Geography": [
+                    "Human Geography",
+                    "Physical Geography",
+                    "Cartography",
+                    "Geopolitics",
+                    "Climatology",
+                    "Urban Geography",
+                    "Geographical Information Systems (GIS)",
+                    "Regional Geography"
+                ],
+                "Economics": [
+                    "Microeconomics",
+                    "Macroeconomics",
+                    "Econometrics",
+                    "Development Economics",
+                    "Behavioral Economics",
+                    "Environmental Economics",
+                    "Public Finance",
+                    "Health Economics"
+                ],
+                "History": [
+                    "Ancient History",
+                    "Medieval History",
+                    "Modern History",
+                    "World History",
+                    "Cultural History",
+                    "Economic History",
+                    "Political History",
+                    "Military History"
+                ]
+            },
+            "Humanities and Cultural Studies": {
+                "Philosophy": [
+                    "Metaphysics",
+                    "Epistemology",
+                    "Ethics",
+                    "Aesthetics",
+                    "Logic",
+                    "Political Philosophy",
+                    "Philosophy of Language",
+                    "Existentialism"
+                ],
+                "History and Cultural Studies": [
+                    "Art History",
+                    "Social History",
+                    "Intellectual History",
+                    "Comparative Cultural Studies",
+                    "Postcolonial Studies",
+                    "Historical Archaeology",
+                    "Heritage Studies",
+                    "Oral History"
+                ],
+                "Linguistics": [
+                    "Syntax",
+                    "Phonetics and Phonology",
+                    "Semantics",
+                    "Sociolinguistics",
+                    "Historical Linguistics",
+                    "Psycholinguistics",
+                    "Applied Linguistics",
+                    "Computational Linguistics"
+                ],
+                "Religious Studies": [
+                    "Comparative Religion",
+                    "Theology",
+                    "Mythology",
+                    "Philosophy of Religion",
+                    "Sociology of Religion",
+                    "Religious Texts and Exegesis",
+                    "Secularism and Religion",
+                    "Interfaith Studies"
+                ],
+                "Cultural Studies": [
+                    "Media Studies",
+                    "Popular Culture",
+                    "Gender and Sexuality Studies",
+                    "Ethnicity and Identity Studies",
+                    "Film and Television Studies",
+                    "Digital Humanities",
+                    "Folklore",
+                    "Subcultural Studies"
+                ],
+                "Literature": [
+                    "Literary Criticism",
+                    "Comparative Literature",
+                    "American Literature",
+                    "British Literature",
+                    "World Literature",
+                    "Poetry Analysis",
+                    "Drama and Theatre",
+                    "Genre Studies (e.g., Gothic, Science Fiction)"
+                ]
+            },
+            "Education and Pedagogy": {
+                "Educational Theory and Practice": [
+                    "Behaviorism",
+                    "Constructivism",
+                    "Humanism",
+                    "Social Learning Theory",
+                    "Critical Pedagogy",
+                    "Inclusive Education",
+                    "Differentiated Instruction",
+                    "Montessori Method"
+                ],
+                "Curriculum and Instruction": [
+                    "Curriculum Design",
+                    "Lesson Planning",
+                    "Teaching Methods",
+                    "Instructional Strategies",
+                    "Assessment and Evaluation",
+                    "Classroom Management",
+                    "Technology Integration",
+                    "Multicultural Education"
+                ],
+                "Educational Psychology": [
+                    "Learning Theories",
+                    "Motivation and Engagement",
+                    "Cognitive Development",
+                    "Educational Measurement",
+                    "Student Assessment",
+                    "Social and Emotional Learning (SEL)",
+                    "Learning Disabilities",
+                    "Gifted Education"
+                ],
+                "Special Education": [
+                    "Learning Disabilities",
+                    "Intellectual Disabilities",
+                    "Autism Spectrum Disorders",
+                    "Behavioral Disorders",
+                    "Speech and Language Disorders",
+                    "Inclusive Practices",
+                    "Assistive Technologies",
+                    "Individualized Education Programs (IEP)"
+                ],
+                "Higher Education": [
+                    "University Administration",
+                    "Academic Advising",
+                    "Curriculum Development in Higher Education",
+                    "Educational Policy",
+                    "Research Methods in Education",
+                    "Student Affairs",
+                    "Online Learning",
+                    "Distance Education"
+                ],
+                "Early Childhood Education": [
+                    "Child Development",
+                    "Early Learning Theories",
+                    "Play-Based Learning",
+                    "Early Literacy",
+                    "Parental Involvement",
+                    "Early Childhood Assessment",
+                    "Preschool Curriculum",
+                    "Kindergarten Readiness"
+                ]
+            },
+            "Science Media": {
+                "Science Communication": [
+                    "Science Journalism",
+                    "Science Writing",
+                    "Science Documentaries",
+                    "Popular Science Books",
+                    "Science Podcasts",
+                    "Science YouTube Channels",
+                    "Public Science Lectures"
+                ],
+                "Science Broadcasting": [
+                    "TV Channels (e.g., Discovery, National Geographic)",
+                    "Radio Shows",
+                    "Online Streaming Platforms",
+                    "Educational Science Series"
+                ],
+                "Science Publishing": [
+                    "Academic Journals",
+                    "Open Access Publications",
+                    "Science Magazines",
+                    "Peer-Reviewed Articles",
+                    "Conference Proceedings"
+                ],
+                "Citizen Science and Outreach": [
+                    "Citizen Science Projects",
+                    "Science Fairs",
+                    "Public Engagement in Science",
+                    "Outreach Programs",
+                    "Museums and Science Centers",
+                    "Interactive Exhibits"
+                ]
+            }
+        }
+    },
+    "social": {
+        "Social": {
+            "Economic and Financial Issues": {
+                "Poverty": [
+                    "Absolute Poverty",
+                    "Relative Poverty",
+                    "Child Poverty",
+                    "Poverty Alleviation Programs"
+                ],
+                "Economic Inequality": [
+                    "Wealth Gap",
+                    "Income Disparity",
+                    "Gender Pay Gap",
+                    "Global North vs. Global South Inequality"
+                ],
+                "Unemployment": [
+                    "Youth Unemployment",
+                    "Long-term Unemployment",
+                    "Structural Unemployment",
+                    "Job Insecurity"
+                ],
+                "Debt": [
+                    "National Debt",
+                    "Household Debt",
+                    "Student Loans",
+                    "Predatory Lending Practices"
+                ]
+            },
+            "Human Rights and Equality": {
+                "Gender Issues": [
+                    "Gender Discrimination",
+                    "Gender-Based Violence",
+                    "Feminism and Women's Rights",
+                    "Masculinity Issues"
+                ],
+                "Racial and Ethnic Discrimination": [
+                    "Racism",
+                    "Anti-Semitism",
+                    "Anti-Immigrant Sentiment",
+                    "Indigenous Rights"
+                ],
+                "LGBTQ+ Rights": [
+                    "Discrimination against LGBTQ+ Individuals",
+                    "Marriage Equality",
+                    "Conversion Therapy Bans",
+                    "LGBTQ+ Representation in Media"
+                ],
+                "Child Rights": [
+                    "Child Labor",
+                    "Child Trafficking",
+                    "Access to Education",
+                    "Child Marriage"
+                ],
+                "Disability Rights": [
+                    "Accessibility",
+                    "Employment Discrimination",
+                    "Healthcare Access",
+                    "Stigma and Awareness"
+                ]
+            },
+            "Health and Well-being": {
+                "Healthcare Access": [
+                    "Universal Healthcare",
+                    "Mental Health Services",
+                    "Maternal Healthcare",
+                    "Healthcare Inequities"
+                ],
+                "Public Health Issues": [
+                    "Infectious Diseases (e.g., HIV/AIDS, COVID-19)",
+                    "Non-Communicable Diseases (e.g., Diabetes, Heart Disease)",
+                    "Vaccination Awareness",
+                    "Substance Abuse and Addiction"
+                ],
+                "Mental Health": [
+                    "Depression and Anxiety",
+                    "Suicide Prevention",
+                    "Stigma around Mental Illness",
+                    "Access to Counseling and Therapy"
+                ],
+                "Food Security and Nutrition": [
+                    "Hunger and Malnutrition",
+                    "Access to Clean Water",
+                    "Food Deserts",
+                    "Obesity and Overnutrition"
+                ]
+            },
+            "Environmental and Ecological Issues": {
+                "Climate Change": [
+                    "Global Warming",
+                    "Sea Level Rise",
+                    "Extreme Weather Events",
+                    "Carbon Emissions"
+                ],
+                "Pollution": [
+                    "Air Pollution",
+                    "Water Pollution",
+                    "Soil Contamination",
+                    "Plastic Waste"
+                ],
+                "Deforestation and Habitat Loss": [
+                    "Deforestation in Rainforests",
+                    "Urban Expansion",
+                    "Loss of Biodiversity",
+                    "Wildlife Poaching"
+                ],
+                "Resource Depletion": [
+                    "Overfishing",
+                    "Water Scarcity",
+                    "Soil Erosion",
+                    "Energy Crisis"
+                ]
+            },
+            "Social Justice and Civil Rights": {
+                "Criminal Justice": [
+                    "Police Brutality",
+                    "Mass Incarceration",
+                    "Prison Reform",
+                    "Racial Profiling"
+                ],
+                "Freedom of Expression": [
+                    "Censorship",
+                    "Free Speech vs. Hate Speech",
+                    "Press Freedom",
+                    "Artistic Expression"
+                ],
+                "Political Disenfranchisement": [
+                    "Voter Suppression",
+                    "Gerrymandering",
+                    "Lack of Political Representation",
+                    "Discrimination in the Electoral Process"
+                ],
+                "Access to Justice": [
+                    "Legal Aid Availability",
+                    "Discrimination in Courts",
+                    "Wrongful Convictions",
+                    "Victim Rights"
+                ]
+            },
+            "Education and Knowledge Access": {
+                "Access to Education": [
+                    "Literacy Rates",
+                    "Gender Disparity in Education",
+                    "Access to Quality Education",
+                    "Education for Refugees"
+                ],
+                "Educational Inequality": [
+                    "School Segregation",
+                    "Funding Disparities",
+                    "Digital Divide (Access to Technology)",
+                    "Private vs. Public School Divide"
+                ],
+                "Higher Education": [
+                    "Student Debt Crisis",
+                    "Access to Higher Education",
+                    "Inclusivity in Universities",
+                    "Academic Freedom"
+                ],
+                "Misinformation and Fake News": [
+                    "Media Literacy",
+                    "Spread of Misinformation Online",
+                    "Conspiracy Theories",
+                    "Education on Critical Thinking"
+                ]
+            },
+            "Housing and Urban Development": {
+                "Housing Affordability": [
+                    "Rising Rent and Property Prices",
+                    "Gentrification",
+                    "Homelessness",
+                    "Access to Affordable Housing"
+                ],
+                "Urban Planning": [
+                    "Slum Development",
+                    "Lack of Green Spaces",
+                    "Overcrowded Cities",
+                    "Urban Crime"
+                ],
+                "Rural vs. Urban Divide": [
+                    "Access to Services",
+                    "Rural Poverty",
+                    "Infrastructure Disparities",
+                    "Rural-Urban Migration"
+                ],
+                "Homelessness": [
+                    "Causes of Homelessness",
+                    "Shelters and Temporary Housing",
+                    "Policies to End Homelessness",
+                    "Stigmatization of the Homeless"
+                ]
+            },
+            "Family and Social Structures": {
+                "Family Dynamics": [
+                    "Domestic Violence",
+                    "Child Abuse and Neglect",
+                    "Family Separation",
+                    "Single-Parent Challenges"
+                ],
+                "Marriage and Partnerships": [
+                    "Decline in Marriage Rates",
+                    "Same-Sex Marriage",
+                    "Divorce and Its Impact",
+                    "Forced Marriages"
+                ],
+                "Aging Population": [
+                    "Elder Care",
+                    "Pension and Retirement Security",
+                    "Social Isolation of the Elderly",
+                    "Intergenerational Living"
+                ],
+                "Adoption and Foster Care": [
+                    "Adoption Policies",
+                    "Challenges in Foster Care",
+                    "International Adoption",
+                    "Adoption by Same-Sex Couples"
+                ]
+            },
+            "Violence and Conflict": {
+                "War and Armed Conflicts": [
+                    "Civil Wars",
+                    "International Conflicts",
+                    "Refugee Crises",
+                    "War Crimes and Humanitarian Law"
+                ],
+                "Terrorism and Extremism": [
+                    "Religious Extremism",
+                    "Domestic Terrorism",
+                    "Counterterrorism Strategies",
+                    "Radicalization Prevention"
+                ],
+                "Interpersonal Violence": [
+                    "Gun Violence",
+                    "Intimate Partner Violence",
+                    "Sexual Assault and Harassment",
+                    "Bullying and Cyberbullying"
+                ],
+                "Ethnic and Religious Conflicts": [
+                    "Ethnic Cleansing",
+                    "Religious Persecution",
+                    "Sectarian Violence",
+                    "Genocide"
+                ]
+            },
+            "Migration and Population Issues": {
+                "Immigration": [
+                    "Refugee Rights",
+                    "Legal vs. Illegal Immigration",
+                    "Integration Challenges",
+                    "Xenophobia and Anti-Immigrant Sentiments"
+                ],
+                "Population Growth": [
+                    "Overpopulation",
+                    "Population Aging",
+                    "Fertility Rates",
+                    "Family Planning"
+                ],
+                "Urbanization": [
+                    "Rural-Urban Migration",
+                    "Challenges of Mega Cities",
+                    "Informal Settlements",
+                    "Urban Sprawl"
+                ],
+                "Diaspora Communities": [
+                    "Maintaining Cultural Identity",
+                    "Challenges of the Second Generation",
+                    "Remittances",
+                    "Cross-Border Families"
+                ]
+            },
+            "Technology and Society": {
+                "Digital Divide": [
+                    "Access to Internet and Technology",
+                    "Technology Gap between Generations",
+                    "Rural vs. Urban Technological Access",
+                    "Technological Literacy"
+                ],
+                "Privacy and Surveillance": [
+                    "Government Surveillance Programs",
+                    "Data Privacy",
+                    "Corporate Data Collection",
+                    "Cybersecurity Threats"
+                ],
+                "Impact of Social Media": [
+                    "Cyberbullying",
+                    "Social Media Addiction",
+                    "Impact on Mental Health",
+                    "Spread of Fake News"
+                ],
+                "Automation and AI": [
+                    "Job Displacement",
+                    "Ethical Use of AI",
+                    "Technological Unemployment",
+                    "Data Bias in AI"
+                ]
+            },
+            "Ethics and Morality": {
+                "Bioethics": [
+                    "Cloning",
+                    "Genetic Engineering",
+                    "Stem Cell Research",
+                    "Organ Donation and Transplantation"
+                ],
+                "Ethical Consumerism": [
+                    "Fair Trade",
+                    "Boycotts of Unethical Companies",
+                    "Sustainable Consumption",
+                    "Veganism and Animal Rights"
+                ],
+                "Media Ethics": [
+                    "Yellow Journalism",
+                    "Sensationalism",
+                    "Journalistic Integrity",
+                    "Privacy vs. Public Interest"
+                ],
+                "Corporate Responsibility": [
+                    "Labor Rights in Supply Chains",
+                    "Environmental Responsibility",
+                    "Corporate Transparency",
+                    "Philanthropy and Charity"
+                ]
+            },
+            "Work and Labor Issues": {
+                "Labor Rights": [
+                    "Minimum Wage Laws",
+                    "Child Labor",
+                    "Forced Labor",
+                    "Working Conditions"
+                ],
+                "Job Insecurity": [
+                    "Gig Economy",
+                    "Freelancing Challenges",
+                    "Workplace Discrimination",
+                    "Underemployment"
+                ],
+                "Work-Life Balance": [
+                    "Overworking",
+                    "Flexible Working Hours",
+                    "Remote Work",
+                    "Paid Parental Leave"
+                ],
+                "Trade Unions": [
+                    "Role of Trade Unions",
+                    "Collective Bargaining",
+                    "Labor Strikes",
+                    "Union-Busting"
+                ]
+            },
+            "Global and International Issues": {
+                "Human Trafficking": [
+                    "Forced Labor",
+                    "Sex Trafficking",
+                    "Trafficking of Minors",
+                    "International Cooperation to Combat Trafficking"
+                ],
+                "Refugee Crisis": [
+                    "Asylum Seekers",
+                    "Internally Displaced Persons (IDPs)",
+                    "Refugee Camps",
+                    "Resettlement Programs"
+                ],
+                "Global Health": [
+                    "Pandemics and Epidemics",
+                    "Access to Vaccines",
+                    "Healthcare in Conflict Zones",
+                    "International Health Organizations"
+                ],
+                "Global Inequality": [
+                    "Unequal Access to Resources",
+                    "Digital Divide on a Global Scale",
+                    "Colonial Legacy and Its Impact",
+                    "International Aid and Its Effectiveness"
+                ]
+            },
+            "Cultural and Identity Issues": {
+                "Cultural Preservation": [
+                    "Loss of Indigenous Languages",
+                    "Cultural Appropriation",
+                    "Protection of Cultural Heritage",
+                    "Promotion of Indigenous Cultures"
+                ],
+                "Identity Politics": [
+                    "Nationalism vs. Globalism",
+                    "Ethnic Identity and National Belonging",
+                    "LGBTQ+ Identity and Acceptance",
+                    "Intersectionality in Identity"
+                ],
+                "Religious Freedom": [
+                    "Secularism vs. Religious Influence",
+                    "Freedom to Practice Religion",
+                    "Persecution of Religious Minorities",
+                    "Religious Conversion and Its Controversy"
+                ],
+                "Artistic Freedom": [
+                    "Censorship of Art",
+                    "Artistic Expression in Repressive Regimes",
+                    "Role of Art in Social Change",
+                    "Freedom of Speech for Artists"
+                ]
+            }
+        }
+    },
+    "wellness": {
+        "Wellness": {
+            "Physical_Health": {
+                "Exercise_and_Fitness": [
+                    "Aerobics",
+                    "Strength Training",
+                    "Cardio Fitness",
+                    "Flexibility and Stretching",
+                    "High-Intensity Interval Training (HIIT)",
+                    "Endurance Training",
+                    "Yoga and Pilates"
+                ],
+                "Nutrition": [
+                    "Healthy Eating Habits",
+                    "Balanced Diet (Macronutrients and Micronutrients)",
+                    "Weight Management",
+                    "Vegetarian, Vegan, and Plant-Based Diets",
+                    "Keto and Paleo Diets",
+                    "Intermittent Fasting",
+                    "Nutritional Supplements",
+                    "Superfoods"
+                ],
+                "Sleep_and_Rest": [
+                    "Sleep Hygiene",
+                    "Circadian Rhythms",
+                    "Insomnia Remedies",
+                    "Power Naps"
+                ],
+                "Preventive_Health": [
+                    "Regular Health Screenings",
+                    "Immunizations",
+                    "Hygiene Practices",
+                    "Stress Management for Physical Health"
+                ],
+                "Sexual_and_Reproductive_Health": [
+                    "Sexual Wellbeing",
+                    "Contraception",
+                    "Fertility Health",
+                    "Menstrual Health"
+                ]
+            },
+            "Mental_Health": {
+                "Emotional_Wellbeing": [
+                    "Stress Management",
+                    "Emotional Intelligence",
+                    "Coping Mechanisms",
+                    "Resilience Building"
+                ],
+                "Mental_Illness_Awareness": [
+                    "Depression",
+                    "Anxiety Disorders",
+                    "Bipolar Disorder",
+                    "Schizophrenia",
+                    "Post-Traumatic Stress Disorder (PTSD)"
+                ],
+                "Therapy_and_Counseling": [
+                    "Cognitive Behavioral Therapy (CBT)",
+                    "Psychotherapy",
+                    "Group Therapy",
+                    "Online Therapy",
+                    "Mindfulness-Based Stress Reduction (MBSR)"
+                ],
+                "Mindfulness_and_Meditation": [
+                    "Mindfulness Meditation",
+                    "Transcendental Meditation",
+                    "Guided Visualization",
+                    "Breathwork Techniques"
+                ]
+            },
+            "Spiritual_Health": {
+                "Spiritual_Practices": [
+                    "Meditation and Reflection",
+                    "Prayer",
+                    "Rituals"
+                ],
+                "Connection_and_Belonging": [
+                    "Community Engagement",
+                    "Finding Purpose"
+                ],
+                "Holistic_Healing": [
+                    "Reiki",
+                    "Crystal Healing",
+                    "Chakras and Energy Centers",
+                    "Sound Therapy"
+                ]
+            },
+            "Self_Care": {
+                "Beauty_and_Skincare": [
+                    "Skin Types and Routines",
+                    "Anti-Aging Practices",
+                    "Organic and DIY Skincare",
+                    "Grooming Habits"
+                ],
+                "Personal_Relaxation_Techniques": [
+                    "Aromatherapy",
+                    "Massages",
+                    "Spa Treatments"
+                ],
+                "Time_Management_and_Leisure": [
+                    "Effective Time Use",
+                    "Taking Breaks and Vacations",
+                    "Relaxation Techniques"
+                ]
+            },
+            "Personal Growth and Development": {
+                "Self-Improvement": {
+                    "Goal Setting and Achievement": [
+                        "SMART Goals",
+                        "Vision Boards",
+                        "Daily Routines and Habits"
+                    ],
+                    "Emotional Intelligence": [
+                        "Self-Awareness",
+                        "Empathy",
+                        "Relationship Management"
+                    ],
+                    "Building Resilience": [
+                        "Overcoming Setbacks",
+                        "Adapting to Change",
+                        "Developing Grit"
+                    ]
+                },
+                "Skills and Hobbies": {
+                    "Creative Arts": [
+                        "Painting and Drawing",
+                        "Sculpture and Crafting",
+                        "Pottery",
+                        "Calligraphy"
+                    ],
+                    "Music and Performing Arts": [
+                        "Learning an Instrument",
+                        "Singing and Vocal Training",
+                        "Dancing (Ballet, Jazz, Hip-Hop, Ballroom)",
+                        "Theater and Acting"
+                    ],
+                    "Writing and Literature": [
+                        "Fiction and Poetry Writing",
+                        "Blogging",
+                        "Journaling and Creative Writing"
+                    ]
+                },
+                "Productivity and Focus": {
+                    "Time Management": [
+                        "Time Blocking",
+                        "Pomodoro Technique"
+                    ],
+                    "Concentration Techniques": [
+                        "Deep Work",
+                        "Minimizing Distractions"
+                    ],
+                    "Digital Detox": [
+                        "Social Media Reduction",
+                        "Limiting Screen Time"
+                    ]
+                }
+            },
+            "Relationships and Social Wellbeing": {
+                "Family Relationships": {
+                    "Parenting and Childcare": [
+                        "Parenting Styles (e.g., Authoritative, Permissive)",
+                        "Effective Communication with Children",
+                        "Child Development Stages",
+                        "Foster Parenting and Adoption"
+                    ],
+                    "Marriage and Partnerships": [
+                        "Relationship Counseling",
+                        "Conflict Resolution",
+                        "Maintaining Romance and Intimacy"
+                    ],
+                    "Extended Family Relationships": [
+                        "Grandparent-Grandchild Bonds",
+                        "Blended Families"
+                    ]
+                },
+                "Friendships and Social Circles": {
+                    "Building Friendships": [
+                        "Networking",
+                        "Group Activities",
+                        "Overcoming Shyness"
+                    ],
+                    "Managing Social Conflicts": [
+                        "Assertiveness Training",
+                        "Conflict Management"
+                    ],
+                    "Community Engagement": [
+                        "Volunteering",
+                        "Supporting Local Causes"
+                    ]
+                },
+                "Romantic Relationships": {
+                    "Dating and Courtship": [
+                        "Dating Strategies",
+                        "Online Dating Safety",
+                        "Long-Distance Relationships"
+                    ],
+                    "Love Languages": [
+                        "Maintaining Healthy Boundaries",
+                        "Trust Building",
+                        "Emotional Intimacy"
+                    ],
+                    "Handling Breakups and Grief": [
+                        "Coping with Loss",
+                        "Self-Reflection",
+                        "Rebuilding Confidence",
+                        "Seeking Support (Friends, Family, or Counseling)",
+                        "Practicing Self-Compassion",
+                        "Acceptance and Moving On"
+                    ]
+                },
+                "Lifestyle and Leisure": {
+                    "Home and Living": {
+                        "Interior Design": [
+                            "Space Optimization",
+                            "DIY Home Decor",
+                            "Feng Shui and Harmony"
+                        ],
+                        "Minimalist Living": [
+                            "Decluttering",
+                            "Downsizing",
+                            "Simple Living"
+                        ],
+                        "Gardening and Landscaping": [
+                            "Indoor Gardening",
+                            "Vegetable and Herb Gardens",
+                            "Sustainable Landscaping"
+                        ]
+                    },
+                    "Travel and Exploration": {
+                        "Travel Planning": [
+                            "Budgeting for Travel",
+                            "Packing Essentials",
+                            "Travel Safety Tips"
+                        ],
+                        "Cultural Experiences": [
+                            "Cultural Immersion",
+                            "Learning Languages",
+                            "Food Tourism"
+                        ],
+                        "Adventure and Nature Travel": [
+                            "Hiking",
+                            "Camping",
+                            "Road Trips"
+                        ]
+                    },
+                    "Recreation and Fun": {
+                        "Outdoor Recreation": [
+                            "Cycling",
+                            "Running and Jogging",
+                            "Hiking"
+                        ],
+                        "Games and Sports": [
+                            "Team Sports (e.g., Basketball, Soccer)",
+                            "Individual Sports (e.g., Tennis, Swimming)",
+                            "Board Games and Puzzles"
+                        ],
+                        "Entertainment": [
+                            "Watching Films and TV Shows",
+                            "Attending Live Performances (Concerts, Theatre)",
+                            "Reading Fiction and Non-Fiction"
+                        ]
+                    }
+                },
+                "Financial Wellness": {
+                    "Budgeting and Saving": [
+                        "Creating a Budget",
+                        "Emergency Funds",
+                        "Saving Strategies",
+                        "Reducing Expenses"
+                    ],
+                    "Investing and Wealth Building": {
+                        "Types of Investments": [
+                            "Stocks",
+                            "Bonds",
+                            "Real Estate",
+                            "Mutual Funds"
+                        ],
+                        "Retirement Planning": [
+                            "401(k)",
+                            "IRAs",
+                            "Pension Plans"
+                        ]
+                    },
+                    "Debt Management": [
+                        "Credit Card Management",
+                        "Loan Repayment Strategies",
+                        "Credit Score Improvement"
+                    ],
+                    "Financial Literacy": [
+                        "Understanding Taxes",
+                        "Financial Education for Teens and Young Adults",
+                        "Estate Planning",
+                        "Insurance (Health, Life, Property)"
+                    ]
+                },
+                "Work and Career": {
+                    "Career Development": {
+                        "Career Planning": [
+                            "Skills Assessment",
+                            "Career Counseling",
+                            "Changing Careers"
+                        ]
+                    },
+                    "Professional Skills": [
+                        "Leadership and Management",
+                        "Communication and Presentation Skills",
+                        "Negotiation Techniques"
+                    ],
+                    "Entrepreneurship": [
+                        "Starting a Business",
+                        "Business Planning",
+                        "Small Business Marketing"
+                    ],
+                    "Work-Life Balance": [
+                        "Time Management in the Workplace",
+                        "Setting Boundaries",
+                        "Burnout Prevention",
+                        "Flexible Working Hours"
+                    ],
+                    "Work Environment": [
+                        "Office Ergonomics",
+                        "Healthy Work Habits",
+                        "Workplace Relationships",
+                        "Remote Work Best Practices"
+                    ]
+                },
+                "Environment and Sustainability": {
+                    "Sustainable Living": [
+                        "Waste Reduction",
+                        "Recycling",
+                        "Composting",
+                        "Zero Waste Practices",
+                        "Eco-Friendly Products",
+                        "Sustainable Clothing",
+                        "Green Cleaning Products",
+                        "Reducing Carbon Footprint",
+                        "Alternative Transportation",
+                        "Energy-Efficient Living",
+                        "Water Conservation"
+                    ],
+                    "Nature Connection": [
+                        "Forest Bathing (Shinrin-yoku)",
+                        "Hiking and Nature Walks",
+                        "Wildlife Conservation",
+                        "Urban Farming and Beekeeping"
+                    ],
+                    "Ethical Consumerism": [
+                        "Fair Trade Practices",
+                        "Responsible Fashion",
+                        "Choosing Eco-Friendly Brands"
+                    ]
+                },
+                "Food and Culinary Arts": {
+                    "Cooking and Recipes": {
+                        "Meal Preparation": [
+                            "Meal Planning and Batch Cooking",
+                            "Healthy Meal Prep",
+                            "Food Safety and Hygiene"
+                        ],
+                        "Global Cuisines": [
+                            "Italian",
+                            "French",
+                            "Japanese",
+                            "Indian",
+                            "Fusion Cuisine",
+                            "Traditional vs. Modern Recipes"
+                        ],
+                        "Baking": [
+                            "Bread Making",
+                            "Cakes and Pastries",
+                            "Gluten-Free Baking"
+                        ]
+                    },
+                    "Dietary Lifestyles": [
+                        "Vegetarian and Vegan Diets",
+                        "Low-Carb Diets (e.g., Keto, Atkins)",
+                        "Mediterranean Diet",
+                        "Gluten-Free and Dairy-Free Diets",
+                        "Paleo and Whole30"
+                    ],
+                    "Food Culture and History": [
+                        "Food Traditions",
+                        "Street Food Exploration",
+                        "Food and Festivals",
+                        "Culinary Tourism"
+                    ]
+                },
+                "Personal Beliefs and Spirituality": {
+                    "Mindfulness and Meditation": [
+                        "Practices for Mindfulness",
+                        "Meditation Techniques",
+                        "Guided Meditation",
+                        "Chakra and Energy Meditation"
+                    ],
+                    "Spiritual Exploration": [
+                        "Exploration of Faith and Belief Systems",
+                        "Spiritual Awakening",
+                        "Non-Religious Spirituality",
+                        "Connection with Nature"
+                    ],
+                    "Philosophical Inquiry": [
+                        "Existentialism",
+                        "Eastern Philosophies (e.g., Buddhism, Taoism)",
+                        "Western Philosophies",
+                        "Finding Meaning and Purpose in Life"
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,410 @@
+{"Wellness": {
+        "Physical_Health": {
+            "Exercise_and_Fitness": [
+                "Aerobics",
+                "Strength Training",
+                "Cardio Fitness",
+                "Flexibility and Stretching",
+                "High-Intensity Interval Training (HIIT)",
+                "Endurance Training",
+                "Yoga and Pilates"
+            ],
+            "Nutrition": [
+                "Healthy Eating Habits",
+                "Balanced Diet (Macronutrients and Micronutrients)",
+                "Weight Management",
+                "Vegetarian, Vegan, and Plant-Based Diets",
+                "Keto and Paleo Diets",
+                "Intermittent Fasting",
+                "Nutritional Supplements",
+                "Superfoods"
+            ],
+            "Sleep_and_Rest": [
+                "Sleep Hygiene",
+                "Circadian Rhythms",
+                "Insomnia Remedies",
+                "Power Naps"
+            ],
+            "Preventive_Health": [
+                "Regular Health Screenings",
+                "Immunizations",
+                "Hygiene Practices",
+                "Stress Management for Physical Health"
+            ],
+            "Sexual_and_Reproductive_Health": [
+                "Sexual Wellbeing",
+                "Contraception",
+                "Fertility Health",
+                "Menstrual Health"
+            ]
+        },
+        "Mental_Health": {
+            "Emotional_Wellbeing": [
+                "Stress Management",
+                "Emotional Intelligence",
+                "Coping Mechanisms",
+                "Resilience Building"
+            ],
+            "Mental_Illness_Awareness": [
+                "Depression",
+                "Anxiety Disorders",
+                "Bipolar Disorder",
+                "Schizophrenia",
+                "Post-Traumatic Stress Disorder (PTSD)"
+            ],
+            "Therapy_and_Counseling": [
+                "Cognitive Behavioral Therapy (CBT)",
+                "Psychotherapy",
+                "Group Therapy",
+                "Online Therapy",
+                "Mindfulness-Based Stress Reduction (MBSR)"
+            ],
+            "Mindfulness_and_Meditation": [
+                "Mindfulness Meditation",
+                "Transcendental Meditation",
+                "Guided Visualization",
+                "Breathwork Techniques"
+            ]
+        },
+        "Spiritual_Health": {
+            "Spiritual_Practices": [
+                "Meditation and Reflection",
+                "Prayer",
+                "Rituals"
+            ],
+            "Connection_and_Belonging": [
+                "Community Engagement",
+                "Finding Purpose"
+            ],
+            "Holistic_Healing": [
+                "Reiki",
+                "Crystal Healing",
+                "Chakras and Energy Centers",
+                "Sound Therapy"
+            ]
+        },
+        "Self_Care": {
+            "Beauty_and_Skincare": [
+                "Skin Types and Routines",
+                "Anti-Aging Practices",
+                "Organic and DIY Skincare",
+                "Grooming Habits"
+            ],
+            "Personal_Relaxation_Techniques": [
+                "Aromatherapy",
+                "Massages",
+                "Spa Treatments"
+            ],
+            "Time_Management_and_Leisure": [
+                "Effective Time Use",
+                "Taking Breaks and Vacations",
+                "Relaxation Techniques"
+            ]
+        },
+        "Personal Growth and Development": {
+        "Self-Improvement": {
+            "Goal Setting and Achievement": [
+                "SMART Goals",
+                "Vision Boards",
+                "Daily Routines and Habits"
+            ],
+            "Emotional Intelligence": [
+                "Self-Awareness",
+                "Empathy",
+                "Relationship Management"
+            ],
+            "Building Resilience": [
+                "Overcoming Setbacks",
+                "Adapting to Change",
+                "Developing Grit"
+            ]
+        },
+        "Skills and Hobbies": {
+            "Creative Arts": [
+                "Painting and Drawing",
+                "Sculpture and Crafting",
+                "Pottery",
+                "Calligraphy"
+            ],
+            "Music and Performing Arts": [
+                "Learning an Instrument",
+                "Singing and Vocal Training",
+                "Dancing (Ballet, Jazz, Hip-Hop, Ballroom)",
+                "Theater and Acting"
+            ],
+            "Writing and Literature": [
+                "Fiction and Poetry Writing",
+                "Blogging",
+                "Journaling and Creative Writing"
+            ]
+        },
+        "Productivity and Focus": {
+            "Time Management": [
+                "Time Blocking",
+                "Pomodoro Technique"
+            ],
+            "Concentration Techniques": [
+                "Deep Work",
+                "Minimizing Distractions"
+            ],
+            "Digital Detox": [
+                "Social Media Reduction",
+                "Limiting Screen Time"
+            ]
+        }
+    },
+    "Relationships and Social Wellbeing": {
+        "Family Relationships": {
+            "Parenting and Childcare": [
+                "Parenting Styles (e.g., Authoritative, Permissive)",
+                "Effective Communication with Children",
+                "Child Development Stages",
+                "Foster Parenting and Adoption"
+            ],
+            "Marriage and Partnerships": [
+                "Relationship Counseling",
+                "Conflict Resolution",
+                "Maintaining Romance and Intimacy"
+            ],
+            "Extended Family Relationships": [
+                "Grandparent-Grandchild Bonds",
+                "Blended Families"
+            ]
+        },
+        "Friendships and Social Circles": {
+            "Building Friendships": [
+                "Networking",
+                "Group Activities",
+                "Overcoming Shyness"
+            ],
+            "Managing Social Conflicts": [
+                "Assertiveness Training",
+                "Conflict Management"
+            ],
+            "Community Engagement": [
+                "Volunteering",
+                "Supporting Local Causes"
+            ]
+        },
+        "Romantic Relationships": {
+            "Dating and Courtship": [
+                "Dating Strategies",
+                "Online Dating Safety",
+                "Long-Distance Relationships"
+            ],
+            "Love Languages": [
+                "Maintaining Healthy Boundaries",
+                "Trust Building",
+                "Emotional Intimacy"
+            ],
+            "Handling Breakups and Grief": [
+              "Coping with Loss",
+            "Self-Reflection",
+            "Rebuilding Confidence",
+            "Seeking Support (Friends, Family, or Counseling)",
+            "Practicing Self-Compassion",
+            "Acceptance and Moving On"
+            ]
+        },
+        "Lifestyle and Leisure": {
+    "Home and Living": {
+      "Interior Design": [
+        "Space Optimization",
+        "DIY Home Decor",
+        "Feng Shui and Harmony"
+      ],
+      "Minimalist Living": [
+        "Decluttering",
+        "Downsizing",
+        "Simple Living"
+      ],
+      "Gardening and Landscaping": [
+        "Indoor Gardening",
+        "Vegetable and Herb Gardens",
+        "Sustainable Landscaping"
+      ]
+    },
+    "Travel and Exploration": {
+      "Travel Planning": [
+        "Budgeting for Travel",
+        "Packing Essentials",
+        "Travel Safety Tips"
+      ],
+      "Cultural Experiences": [
+        "Cultural Immersion",
+        "Learning Languages",
+        "Food Tourism"
+      ],
+      "Adventure and Nature Travel": [
+        "Hiking",
+        "Camping",
+        "Road Trips"
+      ]
+    },
+    "Recreation and Fun": {
+      "Outdoor Recreation": [
+        "Cycling",
+        "Running and Jogging",
+        "Hiking"
+      ],
+      "Games and Sports": [
+        "Team Sports (e.g., Basketball, Soccer)",
+        "Individual Sports (e.g., Tennis, Swimming)",
+        "Board Games and Puzzles"
+      ],
+      "Entertainment": [
+        "Watching Films and TV Shows",
+        "Attending Live Performances (Concerts, Theatre)",
+        "Reading Fiction and Non-Fiction"
+      ]
+    }
+  },
+  "Financial Wellness": {
+    "Budgeting and Saving": [
+      "Creating a Budget",
+      "Emergency Funds",
+      "Saving Strategies",
+      "Reducing Expenses"
+    ],
+    "Investing and Wealth Building": {
+      "Types of Investments": [
+        "Stocks",
+        "Bonds",
+        "Real Estate",
+        "Mutual Funds"
+      ],
+      "Retirement Planning": [
+        "401(k)",
+        "IRAs",
+        "Pension Plans"
+      ]
+    },
+    "Debt Management": [
+      "Credit Card Management",
+      "Loan Repayment Strategies",
+      "Credit Score Improvement"
+    ],
+    "Financial Literacy": [
+      "Understanding Taxes",
+      "Financial Education for Teens and Young Adults",
+      "Estate Planning",
+      "Insurance (Health, Life, Property)"
+    ]
+  },
+  "Work and Career": {
+    "Career Development": {
+      "Career Planning": [
+        "Skills Assessment",
+        "Career Counseling",
+        "Changing Careers"
+      ]
+    },
+    "Professional Skills": [
+      "Leadership and Management",
+      "Communication and Presentation Skills",
+      "Negotiation Techniques"
+    ],
+    "Entrepreneurship": [
+      "Starting a Business",
+      "Business Planning",
+      "Small Business Marketing"
+    ],
+    "Work-Life Balance": [
+      "Time Management in the Workplace",
+      "Setting Boundaries",
+      "Burnout Prevention",
+      "Flexible Working Hours"
+    ],
+    "Work Environment": [
+      "Office Ergonomics",
+      "Healthy Work Habits",
+      "Workplace Relationships",
+      "Remote Work Best Practices"
+    ]
+  },
+  "Environment and Sustainability": {
+    "Sustainable Living": [
+      "Waste Reduction",
+      "Recycling",
+      "Composting",
+      "Zero Waste Practices",
+      "Eco-Friendly Products",
+      "Sustainable Clothing",
+      "Green Cleaning Products",
+      "Reducing Carbon Footprint",
+      "Alternative Transportation",
+      "Energy-Efficient Living",
+      "Water Conservation"
+    ],
+    "Nature Connection": [
+      "Forest Bathing (Shinrin-yoku)",
+      "Hiking and Nature Walks",
+      "Wildlife Conservation",
+      "Urban Farming and Beekeeping"
+    ],
+    "Ethical Consumerism": [
+      "Fair Trade Practices",
+      "Responsible Fashion",
+      "Choosing Eco-Friendly Brands"
+    ]
+  },
+  "Food and Culinary Arts": {
+    "Cooking and Recipes": {
+      "Meal Preparation": [
+        "Meal Planning and Batch Cooking",
+        "Healthy Meal Prep",
+        "Food Safety and Hygiene"
+      ],
+      "Global Cuisines": [
+        "Italian",
+        "French",
+        "Japanese",
+        "Indian",
+        "Fusion Cuisine",
+        "Traditional vs. Modern Recipes"
+      ],
+      "Baking": [
+        "Bread Making",
+        "Cakes and Pastries",
+        "Gluten-Free Baking"
+      ]
+    },
+    "Dietary Lifestyles": [
+      "Vegetarian and Vegan Diets",
+      "Low-Carb Diets (e.g., Keto, Atkins)",
+      "Mediterranean Diet",
+      "Gluten-Free and Dairy-Free Diets",
+      "Paleo and Whole30"
+    ],
+    "Food Culture and History": [
+      "Food Traditions",
+      "Street Food Exploration",
+      "Food and Festivals",
+      "Culinary Tourism"
+    ]
+  },
+  "Personal Beliefs and Spirituality": {
+    "Mindfulness and Meditation": [
+      "Practices for Mindfulness",
+      "Meditation Techniques",
+      "Guided Meditation",
+      "Chakra and Energy Meditation"
+    ],
+    "Spiritual Exploration": [
+      "Exploration of Faith and Belief Systems",
+      "Spiritual Awakening",
+      "Non-Religious Spirituality",
+      "Connection with Nature"
+    ],
+    "Philosophical Inquiry": [
+      "Existentialism",
+      "Eastern Philosophies (e.g., Buddhism, Taoism)",
+      "Western Philosophies",
+      "Finding Meaning and Purpose in Life"
+    ]
+   }
+  }
+
+}
+
+}
